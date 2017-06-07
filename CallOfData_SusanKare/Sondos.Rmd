@@ -1,0 +1,438 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(dplyr)
+library(ggplot2)
+```
+
+## R Markdown
+
+```{r cars}
+data = read.table('../datasets/Call_of_Data.txt', sep = '|', header = TRUE)
+```
+
+
+```{r}
+byclient = data %>%
+  group_by(CLIENTE)  %>%
+  summarise(tot = sum(IMPORTE)) %>%
+  arrange(desc(tot))
+
+
+byclientNb = data %>%
+  group_by(CLIENTE)  %>%
+  summarise(tot = n()) %>%
+  arrange(desc(tot))
+```
+
+
+```{r}
+byhour = data %>%
+  group_by(HORA) %>%
+  summarise(tot = n()) %>%
+  arrange(desc(tot))
+
+
+ggplot(byhour, aes(HORA, tot)) + geom_line() 
+```
+
+```{r}
+facOf = as.factor(data$CP_OFICINA)
+
+data2 = data
+
+data2$facOf = as.factor(data$OFICINA)
+
+
+byOffice = data2 %>%
+  group_by(facOf) %>%
+  summarise(tot = n()) %>%
+  arrange(desc(tot))
+
+
+ggplot(byOffice, aes(facOf, tot)) + geom_bar(stat = 'identity')
+
+```
+
+
+```{r}
+data2$factPC = as.factor(data$CP_OFICINA)
+byOfficeByPC = data2 %>%
+  group_by(factPC, facOf) %>%
+  summarise(tot = n()) %>%
+  arrange(desc(tot))
+
+ggplot(byOffice, aes(facOf, tot)) + geom_bar(stat = 'identity')
+```
+
+
+
+```{r}
+byOfficeByPC = data2 %>%
+  group_by(HORA, facOf) %>%
+  summarise(tot = n()) %>%
+  arrange(desc(tot))
+
+
+ggplot(byOffice, aes(HORA, tot)) + geom_point() + facet_wrap(~factOf)
+```
+
+
+```{r}
+#Get the combinations of clients with ATMs
+ATMComb = data2 %>%
+  group_by(CLIENTE, facOf) %>%
+  summarise(tot = n()) %>%
+  arrange(desc(tot))
+
+#Get nb of distinct ATMs that clients are going to
+ATMCombClient = data2 %>%
+  group_by(CLIENTE) %>%
+  summarise(tot = n_distinct(facOf)) %>%
+  arrange(desc(tot))
+```
+
+
+```{r}
+diffATMs = ATMCombClient %>%
+  group_by(tot) %>%
+  summarise(total = n()) %>%
+  arrange(desc(total))
+
+ggplot(diffATMs, aes(tot, total)) + geom_line()
+
+
+diffATMs$NumberOfATMs = diffATMs$tot
+diffATMs$nbOfCustomers = diffATMs$total 
+```
+
+
+
+```{r}
+ATMCombClientName = data2 %>%
+  group_by(CLIENTE) %>%
+  summarise(tot = n_distinct(facOf)) %>%
+  arrange(desc(tot)) %>%
+  filter(tot != 1)
+
+#Subset of clients that are going to more than one ATM
+subdata = subset.data.frame(data2, data2$CLIENTE %in% ATMCombClientName$CLIENTE)
+```
+
+
+```{r}
+shared = function(office1, office2) {
+  df3 = subdata %>%
+    filter(facOf == office1)
+  
+  df4 = subdata %>%
+    filter(facOf == office2)
+  
+  common = df4$CLIENTE %in% df3$CLIENTE
+  
+  length(common[common == TRUE])
+}
+```
+
+
+```{r}
+shared2 = function(office1, office2) {
+  
+clients1 = byCustByOf %>%
+  filter(facOf == office1) %>%
+  select(CLIENTE)
+
+clients2 = byCustByOf %>%
+  filter(facOf == office2) %>%
+  select(CLIENTE)
+
+common = clients2$CLIENTE %in% clients1$CLIENTE
+length(common[common == TRUE])
+}
+```
+
+
+```{r}
+#find the number of shared customers between all branches
+for(i in subdata$facOf){
+  for(j in subdata$facOf){
+    if(i!= j){
+      paste('shared between', i, 'and', j , shared2(i,j))
+    }
+  }
+}
+```
+
+
+```{r}
+dat2 <- data.frame()
+row = 0
+#find the number of shared customers between all branches
+for(i in levels(subdata$facOf)){
+  for(j in levels(subdata$facOf)){
+    if(i!= j){
+      row = data.frame(off1 = i, off2 = j, NbCommon = shared2(i,j))
+      dat2 = rbind(dat, row)
+    }
+  }
+}
+
+max(dat2$NbCommon)
+```
+
+
+```{r}
+df1 = subdata %>%
+  filter(facOf == '962') 
+  
+df2 = subdata %>%
+  filter(facOf == '971') 
+common = df2$CLIENTE %in% df1$CLIENTE
+length(common[common == TRUE])
+
+
+shared('962','971')
+```
+
+
+```{r}
+  df3 = subdata %>%
+    filter(facOf == '962')
+  
+  df4 = subdata %>%
+    filter(facOf == '971')
+  
+  common = df4$CLIENTE %in% df3$CLIENTE
+  
+  length(common[common == TRUE])
+```
+
+
+
+```{r}
+byCustByOf = data2 %>%
+  group_by(NOMBRE_OFICINA, CLIENTE) %>%
+  summarize(c = n())
+#Unique customers per office
+nunique = function(office){
+clients1 = byCustByOf %>%
+  filter(NOMBRE_OFICINA == office) %>%
+  select(CLIENTE)
+
+clients2 = byCustByOf %>%
+  filter(NOMBRE_OFICINA != office) %>%
+  select(CLIENTE)
+
+common = clients2$CLIENTE %in% clients1$CLIENTE
+nrow(clients1) - length(common[common == TRUE])
+}
+```
+
+```{r}
+byCustByOfName = data2 %>%
+  group_by(NOMBRE_OFICINA, CLIENTE) %>%
+  summarize(c = n())
+#Unique customers per office
+nunique = function(office){
+clients1 = byCustByOfName %>%
+  filter(NOMBRE_OFICINA == office) %>%
+  select(CLIENTE)
+
+clients2 = byCustByOfName %>%
+  filter(NOMBRE_OFICINA != office) %>%
+  select(CLIENTE)
+
+common = clients2$CLIENTE %in% clients1$CLIENTE
+nrow(clients1) - length(common[common == TRUE])
+}
+```
+
+```{r}
+nbOfCust = function(office){
+  clients = byCustByOf %>%
+  filter(NOMBRE_OFICINA == office) %>%
+  select(CLIENTE)
+  
+  nrow(clients)
+}
+```
+
+
+
+```{r}
+uniqueCust <- data.frame()
+row = 0
+#find the number of shared customers between all branches
+for(i in levels(subdata$NOMBRE_OFICINA)){
+      unique = nunique(i)
+      totalCust = nbOfCust(i)
+      perc = unique/totalCust
+      row = data.frame(office = i, unique, totalCust, perc)
+      uniqueCust = rbind(uniqueCust, row)
+  }
+
+uniqueCust %>%
+  arrange(desc(totalCust))
+```
+
+
+```{r}
+common = otherBranchesCust$CLIENTE %in% officeCust$CLIENTE
+length(common[common != TRUE])
+length(common[common == TRUE])
+```
+
+
+
+```{r}
+common = levels(officeCust$CLIENTE) %in% levels(otherBranchesCust$CLIENTE)
+
+data2 %>%
+  group_by(facOf) %>%
+  summarise(uniqueC = unique(CLIENTE))
+  
+```
+
+
+```{r}
+byCustByOf = data2 %>%
+  group_by(NOMBRE_OFICINA, CLIENTE) %>%
+  summarize(c = n())
+
+clients1 = byCustByOf %>%
+  filter(facOf == '962') %>%
+  select(CLIENTE)
+
+clients2 = byCustByOf %>%
+  filter(facOf != '962') %>%
+  select(CLIENTE)
+
+common = clients2$CLIENTE %in% clients1$CLIENTE
+nrow(clients1) - length(common[common == TRUE])
+
+```
+
+```{r}
+amounts = data %>%
+  group_by(NOMBRE_OFICINA) %>%
+  summarise(totalAmount = sum(IMPORTE))
+
+amounts$totalAmount[amounts$NOMBRE_OFICINA == 'ALCALA DE HENARES-VIA COMPLUTENSE']
+
+
+trans = data %>%
+  group_by(NOMBRE_OFICINA) %>%
+  summarise(countOfTrans = n())
+
+
+```
+
+
+
+```{r}
+#officeCust <- data.frame()
+uniqueCust = data.frame()
+row = 0
+#find the number of shared customers between all branches
+for(i in levels(data$NOMBRE_OFICINA)){
+      unique = nunique(i)
+      totalCust = nbOfCust(i)
+      perc = unique/totalCust
+      totalAmount = amounts$totalAmount[amounts$NOMBRE_OFICINA == i]
+      transactions = trans$countOfTrans[trans$NOMBRE_OFICINA == i]
+      amountRatio = totalAmount/totalCust
+      transRatio = transactions/totalCust
+      amountTrans = totalAmount/transactions
+      row = data.frame(office = i, unique, custTotal = totalCust, perc, totalAmount, transactions, amountRatio, transRatio, amountTrans)
+      uniqueCust = rbind(uniqueCust, row)
+}
+
+uniqueCust %>%
+  arrange(desc(custTotal))
+```
+
+
+
+```{r}
+
+```
+
+
+```{r}
+mydata <- uniqueCust %>%
+  select(custTotal, perc, amountTrans) 
+
+wss <- (nrow(mydata)-1)*sum(apply(mydata,2,var))
+  for (i in 2:15) wss[i] <- sum(kmeans(mydata,
+                                       centers=i)$withinss)
+plot(1:15, wss, type="b", xlab="Number of Clusters",
+     ylab="Within groups sum of squares")
+m = mydata
+fit <- kmeans(mydata, 4) # 5 cluster solution
+# get cluster means 
+m.custTotal = mydata.custTotal * attr(mydata$custTotal, 'scaled:scale') + attr(mydata$custTotal, 'scaled:center')
+mydata.custTotal * attr(mydata.custTotal, 'scaled:scale') + attr(mydata.custTotal, 'scaled:center')
+m.amountTrans = mydata.amountTrans * attr(mydata.amountTrans, 'scaled:scale') + attr(mydata.amountTrans, 'scaled:center')
+aggregate(m,by=list(fit$cluster),FUN=mean)
+# append cluster assignment
+mydata <- data.frame(mydata, fit$cluster)
+
+final = merge(mydata, uniqueCust, by = 'custTotal')
+final %>%
+  select(fit.cluster, office)
+```
+
+```{r}
+longlat = data %>%
+  group_by(NOMBRE_OFICINA) %>%
+  summarise(LAT = mean(LATITUD), LONG = mean(LONGITUD))
+
+final$NOMBRE_OFICINA = final$office
+```
+
+
+```{r}
+final1 = merge(final, longlat, by = 'NOMBRE_OFICINA')
+```
+
+```{r}
+library('leaflet')
+
+# first 20 quakes
+  for(i in (1:nrow(final1))) {
+    if(final1$fit.cluster[i] == 1)
+      final1$color[i] = 'green'
+    else if(final1$fit.cluster[i] ==2) {
+     final1$color[i] = "orange"
+  } else if(final1$fit.cluster[i] ==3) {
+    final1$color[i] = "yellow"
+  }
+  else final1$color[i] = "red"
+  }
+  
+
+icons <- awesomeIcons(
+  icon = 'ios-close',
+  iconColor = 'black',
+  library = 'ion',
+  markerColor = final1$color
+)
+
+
+leaflet() %>% addTiles() %>% addMarkers(lat = data_atm$LATITUD,
+                                        lng = data_atm$LONGITUD,
+                                        label=data_atm$NOMBRE_OFICINA,labelOptions = labelOptions(noHide = T))
+
+
+leaflet() %>% addTiles() %>% addMarkers(lat = data_atm$LATITUD,
+                                        lng = data_atm$LONGITUD,
+                                        label=data_atm$NOMBRE_OFICINA,labelOptions = labelOptions(noHide = T))
+
+
+leaflet(final1) %>% addTiles() %>%
+  addAwesomeMarkers(~LONG, ~LAT, icon=icons, label=final1$NOMBRE_OFICINA)
+```
+

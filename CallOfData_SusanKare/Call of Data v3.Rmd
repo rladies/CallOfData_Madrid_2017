@@ -1,0 +1,246 @@
+---
+title: "Call of Data"
+output: html_document
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Libraries
+```{r, message=FALSE}
+library(dplyr)
+library(data.table)
+library(lubridate)
+library(leaflet)
+library(ggplot2)
+```
+
+
+```{r}
+df <- fread(unzip("datasets/Call_of_Data_2017.zip"))
+df2 <- df
+```
+
+
+```{r}
+glimpse(df2)
+```
+
+```{r}
+df2$FECHA <- as.Date(df2$FECHA)
+```
+
+```{r}
+hist(as.numeric(df2$HORA))
+```
+
+```{r}
+ts.plot(df$IMPORTE)
+```
+
+```{r}
+hist(df2$IMPORTE)
+```
+
+```{r}
+boxplot(df2$IMPORTE)
+```
+
+```{r}
+lesssumm<- df %>%  filter(IMPORTE < 250)
+boxplot(lesssumm$IMPORTE)
+```
+
+
+```{r}
+sum(lesssumm$IMPORTE)
+```
+
+```{r}
+sum(lesssumm$IMPORTE)
+```
+
+```{r}
+sum(df$IMPORTE)
+```
+
+```{r}
+lesssumm %>% group_by(CLIENTE) %>%  summarise(count = n(), sum = sum(IMPORTE))
+```
+#######################################################################################################################################
+
+```{r}
+df2 %>%  group_by(CLIENTE) %>%  summarise(sum = sum(IMPORTE), operataions = n())
+```
+
+
+```{r}
+df2 %>% filter(TI) %>%  group_by(CLIENTE) %>%  summarise(sum = sum(IMPORTE), operataions = n()) 
+```
+
+```{r}
+table(df$TIPO_TARJETA)
+```
+
+
+```{r}
+sum(duplicated(df2$CLIENTE))
+```
+
+```{r}
+moresumm <- filter(df2,df2$IMPORTE > 250 & df2$IMPORTE < 1000)
+boxplot(moresumm$IMPORTE)
+```
+
+```{r}
+df2 %>% group_by(TIPO_OPERACION) %>% summarise(count = n(), sum = sum(IMPORTE))
+```
+
+
+```{r}
+# churn 
+# C/N
+# A/P
+```
+
+```{r}
+df2 %>% group_by(TIPO_TARJETA) %>% summarise(count = n(), sum = sum(IMPORTE))
+```
+
+```{r}
+df2 %>% filter(FECHA <= 2016-01-01)
+```
+
+```{r}
+df2$P_TARJETA <- ifelse(df2$TIPO_TARJETA=='P', 1, 0)
+df2$C_OPERACION <- ifelse(df2$TIPO_OPERACION=='C', 1,0)
+df2$N_OPERACION <- ifelse(df2$TIPO_OPERACION=='N', 1,0)
+```
+
+
+```{r}
+df2 %>% group_by(CLIENTE) %>% summarise(coun = n(), 
+                                        sum = sum(IMPORTE), 
+                                        C = sum(C_OPERACION),
+                                        N = sum(N_OPERACION))
+```
+
+
+```{r}
+mydata <- as.data.frame(df2$IMPORTE)
+wss <- (nrow(mydata)-1)*sum(apply(mydata,2,var))
+  for (i in 2:15) wss[i] <- sum(kmeans(mydata,
+                                       centers=i)$withinss)
+plot(1:15, wss, type="b", xlab="Number of Clusters",
+     ylab="Within groups sum of squares")
+```
+
+```{r}
+set.seed(123)
+cluster1 <- kmeans(mydata, 4, 50)
+cluster1
+```
+
+```{r}
+df2$year <- year(df2$FECHA)
+df2$week <- week(df2$FECHA)
+df2$month <- month(df2$FECHA)
+df2$date <- date(df2$FECHA)
+#df2$new_week <- ifelse(df2$year == 2016,, df2$week)
+```
+
+```{r}
+map <- df2 %>% select(LATITUD, LONGITUD, OFICINA) %>% sample_frac()
+leaflet() %>% addTiles() %>% addMarkers(lat = map$LATITUD,
+                                        lng = map$LONGITUD,
+                                        clusterOptions = markerClusterOptions())
+```
+
+
+```{r}
+df2 %>% group_by(TIPO_TARJETA) %>% summarise(sum = sum(IMPORTE))
+```
+
+```{r}
+df2$month_duration <- (df2$year - 2015)*12 + df2$month
+df2$week_durat
+df2$month_name <- months(as.Date(df2$FECHA))
+```
+
+```{r}
+ts_month <- df2 %>% group_by(month_duration) %>% summarise(sum = sum(IMPORTE), coun = n())
+
+```
+
+
+```{r}
+ggplot(ts_month, aes( x = month_duration, y = sum, col = month_duration)) + 
+  geom_line(show.legend = T) + 
+  scale_y_continuous(limits = c(0, 5027790)) + geom_smooth(method = 'glm')#+ 
+#  scale_x_continuous(breaks = 25 , labels = new_lab)
+```
+
+```{r}
+new_lab =c('2015 01',
+          '2015 02',
+          '2015 03',
+          '2015 04',
+          '2015 05',
+          '2015 06',
+          '2015 07',
+          '2015 08','2015 09','2015 10','2015 11','2015 12','2016 01','2016 02','2016 03','2016 04','2016 05','2016 06','2016 07','2016 08','2016 09','2016 10','2016 11','2016 12', 'x')
+```
+
+
+```{r}
+df2 %>% group_by(month_duration) %>%  summarise(n = n(), sum = sum(IMPORTE))
+```
+
+```{r}
+cluster3<- df2 %>% group_by(CLIENTE) %>%  summarise(n = n(), sum = sum(IMPORTE))
+cluster3
+```
+
+```{r}
+mydata2 <- cluster3[,c('n', 'sum')]
+wss <- (nrow(mydata2)-1)*sum(apply(mydata2,2,var))
+  for (i in 2:15) wss[i] <- sum(kmeans(mydata2,
+                                       centers=i)$withinss)
+plot(1:15, wss, type="b", xlab="Number of Clusters",
+     ylab="Within groups sum of squares")
+```
+
+
+```{r}
+kmeans(cluster3[,c('n', 'sum')], 6, 50)
+```
+
+```{r}
+df3 <- filter(df2, df2$TIPO_TARJETA == 'P')
+cluster4 <- df3 %>% group_by(CLIENTE, month_duration) %>%  summarise(n = n(), sum = sum(IMPORTE))
+```
+
+```{r}
+mydata3 <- cluster4[,c('n', 'sum')]
+wss <- (nrow(mydata3)-1)*sum(apply(mydata3,2,var))
+  for (i in 2:15) wss[i] <- sum(kmeans(mydata3,
+                                       centers=i)$withinss)
+plot(1:15, wss, type="b", xlab="Number of Clusters",
+     ylab="Within groups sum of squares")
+```
+
+```{r}
+kmeans(mydata3, 6, 50)
+```
+
+```{r}
+table(df2$year)
+```
+
+```{r}
+d <- dist(df$IMPORTE, method = "euclidean")
+plot(hclust(d, method = "average" ), cex = 0.7, hang=-1)
+```
+
