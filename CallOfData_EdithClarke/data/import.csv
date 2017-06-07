@@ -1,0 +1,3069 @@
+"CONTINENTE","CODIGO PAIS","PAIS","year","import"
+"EUROPA","AD","Andorra","2013",22858
+"EUROPA","AL","Albania","2013",170770.7
+"EUROPA","AT","Austria","2013",1678407.4
+"EUROPA","BA","Bosnia-Herzegovina","2013",32779.4
+"EUROPA","BE","Bélgica","2013",6393125.1
+"EUROPA","BG","Bulgaria","2013",467072.7
+"EUROPA","BY","Belarús","2013",46264.9
+"EUROPA","CH","Suiza","2013",2584166
+"EUROPA","YU","Servia y Montenegro","2013",NA
+"EUROPA","CY","Chipre","2013",16547.7
+"EUROPA","CZ","República Checa","2013",2527046.1
+"EUROPA","DE","Alemania","2013",27749206.9
+"EUROPA","DK","Dinamarca","2013",1274477.9
+"EUROPA","EE","Estonia","2013",44585.8
+"EUROPA","FI","Finlandia","2013",840025.6
+"EUROPA","FO","Islas Faroe","2013",23743.7
+"EUROPA","FR","Francia","2013",27265253.4
+"EUROPA","GB","Reino Unido","2013",9845830.3
+"EUROPA","GI","Gibraltar","2013",51084.1
+"EUROPA","GR","Grecia","2013",850060.9
+"EUROPA","HR","Croacia","2013",43673.7
+"EUROPA","HU","Hungría","2013",1746317.9
+"EUROPA","IE","Irlanda","2013",2777805.7
+"EUROPA","IS","Islandia","2013",94148.7
+"EUROPA","IT","Italia","2013",14599583.1
+"EUROPA","LI","Liechtenstein","2013",16691.5
+"EUROPA","LT","Lituania","2013",205570.7
+"EUROPA","LU","Luxemburgo","2013",301628.9
+"EUROPA","LV","Letonia","2013",46349.3
+"EUROPA","MD","Moldavia","2013",16862.7
+"EUROPA","ME","Montenegro","2013",861.4
+"EUROPA","MK","Macedonia","2013",34948.7
+"EUROPA","MT","Malta","2013",66095.1
+"EUROPA","NL","Países Bajos","2013",9853597.2
+"EUROPA","NO","Noruega","2013",2044408.5
+"EUROPA","PL","Polonia","2013",3145398.5
+"EUROPA","PT","Portugal","2013",9814257.1
+"EUROPA","RO","Rumania","2013",1085684.5
+"EUROPA","RU","Rusia","2013",8232892.7
+"EUROPA","SE","Suecia","2013",2258212.8
+"EUROPA","SI","Eslovenia","2013",246477.6
+"EUROPA","SK","Eslovaquia","2013",1238704.7
+"EUROPA","SM","San Marino","2013",3082.2
+"EUROPA","UA","Ucrania","2013",1105215.2
+"EUROPA","VA","Ciudad del Vaticano","2013",439.3
+"EUROPA","XK","Kosobo","2013",3793.4
+"EUROPA","XS","Servia","2013",93157.6
+"AFRICA","AO","Angola","2013",2171927
+"AFRICA","BF","Burkina Faso","2013",6980.6
+"AFRICA","BI","Burundi","2013",0
+"AFRICA","BJ","Benín","2013",1988.6
+"AFRICA","BW","Botswana","2013",483.1
+"AFRICA","CD","República Democrática Del Congo","2013",118328.5
+"AFRICA","CF","República Centro Africana","2013",579.2
+"AFRICA","CG","Congo (Republica)","2013",107137.3
+"AFRICA","CI","Costa de Marfil","2013",213823.1
+"AFRICA","CM","Camerún","2013",463655.8
+"AFRICA","CV","Cabo Verde","2013",32408.9
+"AFRICA","DJ","Djibouti","2013",1048.5
+"AFRICA","DZ","Argelia","2013",9174939.1
+"AFRICA","EG","Egipto","2013",888031.6
+"AFRICA","EH","Western Sahara","2013",NA
+"AFRICA","ER","Eritrea","2013",171.8
+"AFRICA","ET","Etiopia","2013",17897.9
+"AFRICA","GA","Gabón","2013",507059.5
+"AFRICA","GH","Ghana","2013",157084.1
+"AFRICA","GM","Gambia","2013",1671.9
+"AFRICA","GN","Guinea","2013",130590.7
+"AFRICA","GQ","Guinea Ecuatorial","2013",812751.8
+"AFRICA","GW","Guinea-Bissau","2013",1023.9
+"AFRICA","IO","Territorio Británico del Índico","2013",16.8
+"AFRICA","KE","Kenia","2013",20184.3
+"AFRICA","KM","Comores","2013",379.6
+"AFRICA","LR","Liberia","2013",69367.9
+"AFRICA","LS","Lesotho","2013",12.1
+"AFRICA","LY","Libia","2013",1925045.4
+"AFRICA","MA","Marruecos","2013",3487310.4
+"AFRICA","MG","Madagascar","2013",57188.3
+"AFRICA","ML","Malí","2013",1407.3
+"AFRICA","MR","Mauritania","2013",86380
+"AFRICA","MU","Mauricio","2013",105045.3
+"AFRICA","MW","Malawi","2013",7409.7
+"AFRICA","MZ","Mozambique","2013",222051.7
+"AFRICA","NA","Namibia","2013",182982.1
+"AFRICA","NE","Níger","2013",1561.8
+"AFRICA","NG","Nigeria","2013",5669823.1
+"AFRICA","RW","Ruanda","2013",99.6
+"AFRICA","SC","Seychelles","2013",18006.7
+"AFRICA","SD","Sudan","2013",18851.6
+"AFRICA","SH","Santa Elena","2013",38.5
+"AFRICA","SL","Sierra Leona","2013",2712.7
+"AFRICA","SN","Senegal","2013",62529
+"AFRICA","DO","Somalia","2013",139.7
+"AFRICA","SS","Sudan del Sur","2013",7.5
+"AFRICA","ST","Santo Tomé/Príncipe","2013",592.5
+"AFRICA","SZ","Swazilandia","2013",41013.8
+"AFRICA","TD","Chad","2013",602.8
+"AFRICA","TG","Togo","2013",20982.6
+"AFRICA","TN","Túnez","2013",559613.8
+"AFRICA","TZ","Tanzania","2013",21527.1
+"AFRICA","UG","Uganda","2013",35295.2
+"AFRICA","YT","Mayotte","2013",10047.6
+"AFRICA","ZA","Sudáfrica","2013",711072.5
+"AFRICA","ZM","Zambia","2013",22138.1
+"AFRICA","ZW","Zimbabwe","2013",11691.8
+"AMERICA","AG","Antigua y Barbuda","2013",326.7
+"AMERICA","AI","Anguilla","2013",1.6
+"AMERICA","AN","Antillas Neerlandesas","2013",0
+"AMERICA","AR","Argentina","2013",1443892.9
+"AMERICA","AW","Aruba","2013",31.2
+"AMERICA","BB","Barbados","2013",2205.5
+"AMERICA","BB","San Bartolome","2013",27.6
+"AMERICA","BM","Bermudas","2013",37.8
+"AMERICA","BO","Bolivia","2013",50430.6
+"AMERICA","BQ","Bonaire, San Eustaquio y Saba","2013",0.4
+"AMERICA","BR","Brasil","2013",3216373.4
+"AMERICA","BS","Bahamas","2013",947.8
+"AMERICA","BZ","Belice","2013",11382.8
+"AMERICA","CA","Canadá","2013",1090075.9
+"AMERICA","CL","Chile","2013",1557869.9
+"AMERICA","CO","Colombia","2013",2027184.7
+"AMERICA","CR","Costa Rica","2013",109556.3
+"AMERICA","CU","Cuba","2013",189631.8
+"AMERICA","CW","Curaçao","2013",30014.3
+"AMERICA","DM","Dominica","2013",405.1
+"AMERICA","DO","Republica Dominicana","2013",114262.1
+"AMERICA","EC","Ecuador","2013",520997.7
+"AMERICA","FK","Islas Malvinas","2013",100815.1
+"AMERICA","GD","Granada","2013",2.1
+"AMERICA","GL","Groenlandia","2013",1942.8
+"AMERICA","GT","Guatemala","2013",97773.5
+"AMERICA","GY","Guyana","2013",3732.2
+"AMERICA","HN","Honduras","2013",39235.6
+"AMERICA","HT","Haití","2013",3440.8
+"AMERICA","JM","Jamaica","2013",202.6
+"AMERICA","KN","San Cristobal y Nieves","2013",53.7
+"AMERICA","KY","Islas Caimán","2013",930.4
+"AMERICA","LC","Santa Lucia","2013",27.2
+"AMERICA","MS","Montserrat","2013",0.3
+"AMERICA","MX","México","2013",5509504.1
+"AMERICA","NI","Nicaragua","2013",57678.7
+"AMERICA","PA","Panamá","2013",42930.5
+"AMERICA","PE","Perú","2013",1441633.1
+"AMERICA","PM","San Pedro y Miquelón","2013",814.5
+"AMERICA","PY","Paraguay","2013",261828
+"AMERICA","SR","Surinam","2013",9236
+"AMERICA","SV","El Salvador","2013",53300.8
+"AMERICA","SX","San Martin","2013",47
+"AMERICA","TC","Islas Turcas y Caicos","2013",276.3
+"AMERICA","TT","Trinidad y Tobago","2013",698911.1
+"AMERICA","US","Estados Unidos","2013",10218989.1
+"AMERICA","UY","Uruguay","2013",108665.3
+"AMERICA","VC","San Vicente y las Islas Granadinas","2013",15.2
+"AMERICA","VE","Venezuela","2013",1259242.8
+"AMERICA","VG","Islas Vírgenes (GB)","2013",1219.8
+"AMERICA","VI","Islas Vírgenes (EE.UU)","2013",279.6
+"ASIA","AE","Emiratos Árabes Unidos","2013",372751.4
+"ASIA","AF","Afganistán","2013",5825.4
+"ASIA","AM","Armenia","2013",27049.9
+"ASIA","AZ","Azerbaiján","2013",109730.6
+"ASIA","BD","Bangla Desh","2013",1256549.1
+"ASIA","BH","Bahréin","2013",59123.2
+"ASIA","BN","Brunei Darussalam","2013",22.1
+"ASIA","BT","Bután","2013",3.5
+"ASIA","CN","China","2013",17363600.8
+"ASIA","GE","Georgia","2013",29486.7
+"ASIA","HK","Hong Kong","2013",300801
+"ASIA","ID","Indonesia","2013",1588934.2
+"ASIA","IL","Israel","2013",764274.4
+"ASIA","IN","India","2013",2422413
+"ASIA","IQ","Iraq","2013",1116178.3
+"ASIA","IR","Irán","2013",85190.1
+"ASIA","JO","Jordania","2013",32170.6
+"ASIA","JP","Japón","2013",2407724.9
+"ASIA","KG","Kirguizistán","2013",283.8
+"ASIA","KH","Camboya (Campuchea)","2013",233932.3
+"ASIA","KP","Corea,Rep.Popular Democratica","2013",1417.1
+"ASIA","KR","Corea , Replublica de","2013",1598745.5
+"ASIA","KW","Kuwait","2013",50096.3
+"ASIA","KZ","Kazajstán","2013",1467547.7
+"ASIA","LA","Laos","2013",8886.9
+"ASIA","LB","Líbano","2013",27536.1
+"ASIA","LK","Sri Lanka","2013",85298.6
+"ASIA","MM","Myanmar","2013",32322.6
+"ASIA","MN","Mongolia","2013",108.2
+"ASIA","MO","Macao","2013",1348.3
+"ASIA","MV","Maldivas (Islas)","2013",3472.5
+"ASIA","MY","Malasia","2013",512122.7
+"ASIA","NP","Nepal","2013",2254.4
+"ASIA","OM","Omán","2013",152339.9
+"ASIA","PH","Filipinas","2013",153573.5
+"ASIA","PK","Pakistán","2013",445569
+"ASIA","PS","Cisjordania/F.Gaza","2013",4.8
+"ASIA","QA","Qatar","2013",1208124.3
+"ASIA","SA","Arabia Saudita","2013",5845089.8
+"ASIA","SG","Singapur","2013",405051
+"ASIA","SY","Siria","2013",10752.4
+"ASIA","TH","Tailandia","2013",803571.6
+"ASIA","TJ","Tajikistán","2013",26.2
+"ASIA","TL","Timor-Este","2013",37.5
+"ASIA","TM","Turkmenistán","2013",40185.3
+"ASIA","TR","Turquía","2013",3677423.6
+"ASIA","TW","Taiwán","2013",896408.2
+"ASIA","UZ","Uzbekistán","2013",3719.4
+"ASIA","VN","Vietnam","2013",1920717.5
+"ASIA","YE","Yemen","2013",3329.8
+"OCEANIA","AS","Samoa Americana","2013",1.6
+"OCEANIA","AU","Australia","2013",385337.4
+"OCEANIA","CC","Islas Cocos (Keeling)","2013",1.4
+"OCEANIA","CK","Islas Cook","2013",0.6
+"OCEANIA","CX","Isla Navidad","2013",0
+"OCEANIA","FJ","Islas Fidyi","2013",1132.9
+"OCEANIA","FM","Micronesia, Est. Fede.","2013",0
+"OCEANIA","GS","Georgia del Sur e Islas Sandwich Sur","2013",0
+"OCEANIA","GU","Guam","2013",0.5
+"OCEANIA","HM","I. Heard e I. Mcdonald","2013",0
+"OCEANIA","KI","Kiribati","2013",7.5
+"OCEANIA","MH","Islas Marshall","2013",157.4
+"OCEANIA","MP","I. Marianas del Norte","2013",6.4
+"OCEANIA","NC","Nueva Caledonia","2013",41442
+"OCEANIA","NR","Nauru","2013",242.8
+"OCEANIA","UN","Niue (Isla)","2013",0.1
+"OCEANIA","NZ","Nueva Zelanda","2013",113939.6
+"OCEANIA","PF","Polinesia Francesa","2013",156.6
+"OCEANIA","PG","Papua Nueva Guinea","2013",124063.3
+"OCEANIA","PN","Pitcairn","2013",1.1
+"OCEANIA","PW","Paláu","2013",0
+"OCEANIA","SB","Islas Salomón","2013",2605.5
+"OCEANIA","TK","Tokelau (Islas)","2013",92
+"OCEANIA","TO","Tonga","2013",0.5
+"OCEANIA","TV","Tuvalu","2013",2
+"OCEANIA","UM","Islas Menores Alejadas","2013",1.7
+"OCEANIA","VU","Vanuatu","2013",4.1
+"OCEANIA","WF","Islas Wallis y Futuna","2013",0
+"OCEANIA","WS","Samoa Occidental","2013",23.9
+"OCEANIA","Otros","Otros","2013",NA
+"EUROPA","AD","Andorra","2012",23293.6
+"EUROPA","AL","Albania","2012",159253.3
+"EUROPA","AT","Austria","2012",1745718.6
+"EUROPA","BA","Bosnia-Herzegovina","2012",30240.9
+"EUROPA","BE","Bélgica","2012",6044330.7
+"EUROPA","BG","Bulgaria","2012",502108.4
+"EUROPA","BY","Belarús","2012",88947.4
+"EUROPA","CH","Suiza","2012",2629566.8
+"EUROPA","YU","Servia y Montenegro","2012",NA
+"EUROPA","CY","Chipre","2012",17283.1
+"EUROPA","CZ","República Checa","2012",2302615.9
+"EUROPA","DE","Alemania","2012",27989364.8
+"EUROPA","DK","Dinamarca","2012",1585383.8
+"EUROPA","EE","Estonia","2012",83299.8
+"EUROPA","FI","Finlandia","2012",866897.2
+"EUROPA","FO","Islas Faroe","2012",24519.6
+"EUROPA","FR","Francia","2012",27351678.5
+"EUROPA","GB","Reino Unido","2012",10465073.4
+"EUROPA","GI","Gibraltar","2012",3749.3
+"EUROPA","GR","Grecia","2012",714960.9
+"EUROPA","HR","Croacia","2012",40924.4
+"EUROPA","HU","Hungría","2012",1624756.8
+"EUROPA","IE","Irlanda","2012",2740567.9
+"EUROPA","IS","Islandia","2012",96011.5
+"EUROPA","IT","Italia","2012",16142206.3
+"EUROPA","LI","Liechtenstein","2012",20279.7
+"EUROPA","LT","Lituania","2012",300009.6
+"EUROPA","LU","Luxemburgo","2012",273931.9
+"EUROPA","LV","Letonia","2012",43555.3
+"EUROPA","MD","Moldavia","2012",12425.5
+"EUROPA","ME","Montenegro","2012",471.8
+"EUROPA","MK","Macedonia","2012",39545.4
+"EUROPA","MT","Malta","2012",74086.9
+"EUROPA","NL","Países Bajos","2012",11289348
+"EUROPA","NO","Noruega","2012",1812145.8
+"EUROPA","PL","Polonia","2012",2697841.9
+"EUROPA","PT","Portugal","2012",8952371.4
+"EUROPA","RO","Rumania","2012",889311.8
+"EUROPA","RU","Rusia","2012",8078860
+"EUROPA","SE","Suecia","2012",2247524.2
+"EUROPA","SI","Eslovenia","2012",205901.4
+"EUROPA","SK","Eslovaquia","2012",1067298.9
+"EUROPA","SM","San Marino","2012",2897.7
+"EUROPA","UA","Ucrania","2012",1598800.2
+"EUROPA","VA","Ciudad del Vaticano","2012",13.6
+"EUROPA","XK","Kosobo","2012",1533.8
+"EUROPA","XS","Servia","2012",126968.2
+"AFRICA","AO","Angola","2012",1108018.1
+"AFRICA","BF","Burkina Faso","2012",1186.1
+"AFRICA","BI","Burundi","2012",388.9
+"AFRICA","BJ","Benín","2012",2425.6
+"AFRICA","BW","Botswana","2012",1725.3
+"AFRICA","CD","República Democrática Del Congo","2012",8641.1
+"AFRICA","CF","República Centro Africana","2012",1333.8
+"AFRICA","CG","Congo (Republica)","2012",480490.5
+"AFRICA","CI","Costa de Marfil","2012",198836.2
+"AFRICA","CM","Camerún","2012",430444.8
+"AFRICA","CV","Cabo Verde","2012",43457.7
+"AFRICA","DJ","Djibouti","2012",292
+"AFRICA","DZ","Argelia","2012",6884556.9
+"AFRICA","EG","Egipto","2012",1140977.1
+"AFRICA","EH","Western Sahara","2012",NA
+"AFRICA","ER","Eritrea","2012",53.9
+"AFRICA","ET","Etiopia","2012",10768.2
+"AFRICA","GA","Gabón","2012",364007.2
+"AFRICA","GH","Ghana","2012",83119.2
+"AFRICA","GM","Gambia","2012",1508.3
+"AFRICA","GN","Guinea","2012",151969.1
+"AFRICA","GQ","Guinea Ecuatorial","2012",873916.3
+"AFRICA","GW","Guinea-Bissau","2012",4526.8
+"AFRICA","IO","Territorio Británico del Índico","2012",101.5
+"AFRICA","KE","Kenia","2012",27214.8
+"AFRICA","KM","Comores","2012",148.5
+"AFRICA","LR","Liberia","2012",82394.2
+"AFRICA","LS","Lesotho","2012",7.9
+"AFRICA","LY","Libia","2012",3322580.6
+"AFRICA","MA","Marruecos","2012",3122510.8
+"AFRICA","MG","Madagascar","2012",54684.8
+"AFRICA","ML","Malí","2012",1091.5
+"AFRICA","MR","Mauritania","2012",97016.2
+"AFRICA","MU","Mauricio","2012",134342.6
+"AFRICA","MW","Malawi","2012",25341.4
+"AFRICA","MZ","Mozambique","2012",218619.2
+"AFRICA","NA","Namibia","2012",206690.1
+"AFRICA","NE","Níger","2012",2616.9
+"AFRICA","NG","Nigeria","2012",7096368.5
+"AFRICA","RW","Ruanda","2012",486.4
+"AFRICA","SC","Seychelles","2012",7472
+"AFRICA","SD","Sudan","2012",1596.2
+"AFRICA","SH","Santa Elena","2012",290.5
+"AFRICA","SL","Sierra Leona","2012",1918.3
+"AFRICA","SN","Senegal","2012",68226.5
+"AFRICA","DO","Somalia","2012",150.4
+"AFRICA","SS","Sudan del Sur","2012",NA
+"AFRICA","ST","Santo Tomé/Príncipe","2012",863.3
+"AFRICA","SZ","Swazilandia","2012",28006.5
+"AFRICA","TD","Chad","2012",190.2
+"AFRICA","TG","Togo","2012",8224.1
+"AFRICA","TN","Túnez","2012",575451.6
+"AFRICA","TZ","Tanzania","2012",17618
+"AFRICA","UG","Uganda","2012",41720.3
+"AFRICA","YT","Mayotte","2012",8128.1
+"AFRICA","ZA","Sudáfrica","2012",852007.1
+"AFRICA","ZM","Zambia","2012",22386
+"AFRICA","ZW","Zimbabwe","2012",18144.8
+"AMERICA","AG","Antigua y Barbuda","2012",193
+"AMERICA","AI","Anguilla","2012",0.6
+"AMERICA","AN","Antillas Neerlandesas","2012",121782.8
+"AMERICA","AR","Argentina","2012",1946669.3
+"AMERICA","AW","Aruba","2012",36.6
+"AMERICA","BB","Barbados","2012",1746.7
+"AMERICA","BB","San Bartolome","2012",NA
+"AMERICA","BM","Bermudas","2012",12346.4
+"AMERICA","BO","Bolivia","2012",77806.2
+"AMERICA","BQ","Bonaire, San Eustaquio y Saba","2012",NA
+"AMERICA","BR","Brasil","2012",3363535.9
+"AMERICA","BS","Bahamas","2012",17765.5
+"AMERICA","BZ","Belice","2012",12101.2
+"AMERICA","CA","Canadá","2012",1150977.1
+"AMERICA","CL","Chile","2012",1556724.7
+"AMERICA","CO","Colombia","2012",2535574.5
+"AMERICA","CR","Costa Rica","2012",112360.4
+"AMERICA","CU","Cuba","2012",155915.7
+"AMERICA","CW","Curaçao","2012",NA
+"AMERICA","DM","Dominica","2012",387.7
+"AMERICA","DO","Republica Dominicana","2012",111377.7
+"AMERICA","EC","Ecuador","2012",432754.1
+"AMERICA","FK","Islas Malvinas","2012",122682.9
+"AMERICA","GD","Granada","2012",287.2
+"AMERICA","GL","Groenlandia","2012",841.1
+"AMERICA","GT","Guatemala","2012",92444.5
+"AMERICA","GY","Guyana","2012",6445.1
+"AMERICA","HN","Honduras","2012",48324.8
+"AMERICA","HT","Haití","2012",4485.5
+"AMERICA","JM","Jamaica","2012",479
+"AMERICA","KN","San Cristobal y Nieves","2012",27.1
+"AMERICA","KY","Islas Caimán","2012",64002.5
+"AMERICA","LC","Santa Lucia","2012",0.6
+"AMERICA","MS","Montserrat","2012",1.4
+"AMERICA","MX","México","2012",5730875.1
+"AMERICA","NI","Nicaragua","2012",53652.5
+"AMERICA","PA","Panamá","2012",56610
+"AMERICA","PE","Perú","2012",1728884.4
+"AMERICA","PM","San Pedro y Miquelón","2012",0.2
+"AMERICA","PY","Paraguay","2012",137581.4
+"AMERICA","SR","Surinam","2012",2782.1
+"AMERICA","SV","El Salvador","2012",51425.1
+"AMERICA","SX","San Martin","2012",NA
+"AMERICA","TC","Islas Turcas y Caicos","2012",1397.1
+"AMERICA","TT","Trinidad y Tobago","2012",708639.8
+"AMERICA","US","Estados Unidos","2012",9877940.6
+"AMERICA","UY","Uruguay","2012",113768.9
+"AMERICA","VC","San Vicente y las Islas Granadinas","2012",2911.6
+"AMERICA","VE","Venezuela","2012",1348373.3
+"AMERICA","VG","Islas Vírgenes (GB)","2012",697645
+"AMERICA","VI","Islas Vírgenes (EE.UU)","2012",163.4
+"ASIA","AE","Emiratos Árabes Unidos","2012",230689
+"ASIA","AF","Afganistán","2012",2916.2
+"ASIA","AM","Armenia","2012",40188.5
+"ASIA","AZ","Azerbaiján","2012",54185.6
+"ASIA","BD","Bangla Desh","2012",1097049.7
+"ASIA","BH","Bahréin","2012",106042.1
+"ASIA","BN","Brunei Darussalam","2012",1.1
+"ASIA","BT","Bután","2012",445.1
+"ASIA","CN","China","2012",17808009.6
+"ASIA","GE","Georgia","2012",32980.6
+"ASIA","HK","Hong Kong","2012",316019.8
+"ASIA","ID","Indonesia","2012",1948761
+"ASIA","IL","Israel","2012",829620.7
+"ASIA","IN","India","2012",2800593.3
+"ASIA","IQ","Iraq","2012",3035475.4
+"ASIA","IR","Irán","2012",746532.2
+"ASIA","JO","Jordania","2012",32946.9
+"ASIA","JP","Japón","2012",2955374
+"ASIA","KG","Kirguizistán","2012",8.9
+"ASIA","KH","Camboya (Campuchea)","2012",181274.7
+"ASIA","KP","Corea,Rep.Popular Democratica","2012",1954.5
+"ASIA","KR","Corea , Replublica de","2012",1606260.9
+"ASIA","KW","Kuwait","2012",262490.1
+"ASIA","KZ","Kazajstán","2012",810869.3
+"ASIA","LA","Laos","2012",10346.2
+"ASIA","LB","Líbano","2012",33048.4
+"ASIA","LK","Sri Lanka","2012",95871.7
+"ASIA","MM","Myanmar","2012",25594.1
+"ASIA","MN","Mongolia","2012",41.1
+"ASIA","MO","Macao","2012",1188.6
+"ASIA","MV","Maldivas (Islas)","2012",4223.2
+"ASIA","MY","Malasia","2012",541102.7
+"ASIA","NP","Nepal","2012",2911.6
+"ASIA","OM","Omán","2012",78202.2
+"ASIA","PH","Filipinas","2012",141734.1
+"ASIA","PK","Pakistán","2012",407104.2
+"ASIA","PS","Cisjordania/F.Gaza","2012",0.1
+"ASIA","QA","Qatar","2012",1397353.6
+"ASIA","SA","Arabia Saudita","2012",6056883.9
+"ASIA","SG","Singapur","2012",385864.2
+"ASIA","SY","Siria","2012",7298.6
+"ASIA","TH","Tailandia","2012",862729.9
+"ASIA","TJ","Tajikistán","2012",6.4
+"ASIA","TL","Timor-Este","2012",13.6
+"ASIA","TM","Turkmenistán","2012",7960.7
+"ASIA","TR","Turquía","2012",3308461.4
+"ASIA","TW","Taiwán","2012",873100.7
+"ASIA","UZ","Uzbekistán","2012",736.3
+"ASIA","VN","Vietnam","2012",1830336.1
+"ASIA","YE","Yemen","2012",3159.5
+"OCEANIA","AS","Samoa Americana","2012",1
+"OCEANIA","AU","Australia","2012",594100.6
+"OCEANIA","CC","Islas Cocos (Keeling)","2012",0.3
+"OCEANIA","CK","Islas Cook","2012",4000
+"OCEANIA","CX","Isla Navidad","2012",NA
+"OCEANIA","FJ","Islas Fidyi","2012",63.3
+"OCEANIA","FM","Micronesia, Est. Fede.","2012",1.3
+"OCEANIA","GS","Georgia del Sur e Islas Sandwich Sur","2012",NA
+"OCEANIA","GU","Guam","2012",1.3
+"OCEANIA","HM","I. Heard e I. Mcdonald","2012",NA
+"OCEANIA","KI","Kiribati","2012",0.8
+"OCEANIA","MH","Islas Marshall","2012",1140.8
+"OCEANIA","MP","I. Marianas del Norte","2012",0.4
+"OCEANIA","NC","Nueva Caledonia","2012",45105.4
+"OCEANIA","NR","Nauru","2012",139.7
+"OCEANIA","UN","Niue (Isla)","2012",1.1
+"OCEANIA","NZ","Nueva Zelanda","2012",116316.2
+"OCEANIA","PF","Polinesia Francesa","2012",399.3
+"OCEANIA","PG","Papua Nueva Guinea","2012",119142.1
+"OCEANIA","PN","Pitcairn","2012",NA
+"OCEANIA","PW","Paláu","2012",0.3
+"OCEANIA","SB","Islas Salomón","2012",6214.7
+"OCEANIA","TK","Tokelau (Islas)","2012",134.2
+"OCEANIA","TO","Tonga","2012",NA
+"OCEANIA","TV","Tuvalu","2012",NA
+"OCEANIA","UM","Islas Menores Alejadas","2012",0.6
+"OCEANIA","VU","Vanuatu","2012",NA
+"OCEANIA","WF","Islas Wallis y Futuna","2012",2.3
+"OCEANIA","WS","Samoa Occidental","2012",24.8
+"OCEANIA","Otros","Otros","2012",3.4
+"EUROPA","AD","Andorra","2011",19310.8
+"EUROPA","AL","Albania","2011",84038.4
+"EUROPA","AT","Austria","2011",1916955.6
+"EUROPA","BA","Bosnia-Herzegovina","2011",27345.1
+"EUROPA","BE","Bélgica","2011",6485205.7
+"EUROPA","BG","Bulgaria","2011",468190.3
+"EUROPA","BY","Belarús","2011",70818.3
+"EUROPA","CH","Suiza","2011",3020354.6
+"EUROPA","YU","Servia y Montenegro","2011",NA
+"EUROPA","CY","Chipre","2011",12485.7
+"EUROPA","CZ","República Checa","2011",2362981.8
+"EUROPA","DE","Alemania","2011",31136446.8
+"EUROPA","DK","Dinamarca","2011",1946822.5
+"EUROPA","EE","Estonia","2011",100922.1
+"EUROPA","FI","Finlandia","2011",1016812.2
+"EUROPA","FO","Islas Faroe","2011",31142.2
+"EUROPA","FR","Francia","2011",28580884.4
+"EUROPA","GB","Reino Unido","2011",11160807.1
+"EUROPA","GI","Gibraltar","2011",26334.8
+"EUROPA","GR","Grecia","2011",528199.4
+"EUROPA","HR","Croacia","2011",73724.5
+"EUROPA","HU","Hungría","2011",1686866.3
+"EUROPA","IE","Irlanda","2011",3054595.1
+"EUROPA","IS","Islandia","2011",113453.2
+"EUROPA","IT","Italia","2011",17323002.7
+"EUROPA","LI","Liechtenstein","2011",22438.6
+"EUROPA","LT","Lituania","2011",258485.5
+"EUROPA","LU","Luxemburgo","2011",483647.2
+"EUROPA","LV","Letonia","2011",126954.5
+"EUROPA","MD","Moldavia","2011",2360.9
+"EUROPA","ME","Montenegro","2011",34.1
+"EUROPA","MK","Macedonia","2011",68363.3
+"EUROPA","MT","Malta","2011",74070.8
+"EUROPA","NL","Países Bajos","2011",10708816.1
+"EUROPA","NO","Noruega","2011",1681139.4
+"EUROPA","PL","Polonia","2011",3119038
+"EUROPA","PT","Portugal","2011",9248710.5
+"EUROPA","RO","Rumania","2011",884919.4
+"EUROPA","RU","Rusia","2011",8492897.7
+"EUROPA","SE","Suecia","2011",2600610.6
+"EUROPA","SI","Eslovenia","2011",234148.6
+"EUROPA","SK","Eslovaquia","2011",1182526.8
+"EUROPA","SM","San Marino","2011",2871.3
+"EUROPA","UA","Ucrania","2011",919922
+"EUROPA","VA","Ciudad del Vaticano","2011",331.9
+"EUROPA","XK","Kosobo","2011",1643.6
+"EUROPA","XS","Servia","2011",96348
+"AFRICA","AO","Angola","2011",422237.2
+"AFRICA","BF","Burkina Faso","2011",682.4
+"AFRICA","BI","Burundi","2011",0.1
+"AFRICA","BJ","Benín","2011",9157.8
+"AFRICA","BW","Botswana","2011",153.8
+"AFRICA","CD","República Democrática Del Congo","2011",73080.6
+"AFRICA","CF","República Centro Africana","2011",1598.8
+"AFRICA","CG","Congo (Republica)","2011",424008.8
+"AFRICA","CI","Costa de Marfil","2011",178946.4
+"AFRICA","CM","Camerún","2011",570435.8
+"AFRICA","CV","Cabo Verde","2011",34597.5
+"AFRICA","DJ","Djibouti","2011",509
+"AFRICA","DZ","Argelia","2011",5669993.5
+"AFRICA","EG","Egipto","2011",1397659.3
+"AFRICA","EH","Western Sahara","2011",NA
+"AFRICA","ER","Eritrea","2011",3.1
+"AFRICA","ET","Etiopia","2011",8888.6
+"AFRICA","GA","Gabón","2011",365537.7
+"AFRICA","GH","Ghana","2011",97220.8
+"AFRICA","GM","Gambia","2011",2121
+"AFRICA","GN","Guinea","2011",162893.6
+"AFRICA","GQ","Guinea Ecuatorial","2011",1362966.7
+"AFRICA","GW","Guinea-Bissau","2011",3118
+"AFRICA","IO","Territorio Británico del Índico","2011",55.3
+"AFRICA","KE","Kenia","2011",28685.3
+"AFRICA","KM","Comores","2011",54.8
+"AFRICA","LR","Liberia","2011",55717.8
+"AFRICA","LS","Lesotho","2011",289.8
+"AFRICA","LY","Libia","2011",739767.9
+"AFRICA","MA","Marruecos","2011",3100628.8
+"AFRICA","MG","Madagascar","2011",44521.3
+"AFRICA","ML","Malí","2011",1261.7
+"AFRICA","MR","Mauritania","2011",111264.6
+"AFRICA","MU","Mauricio","2011",111447.8
+"AFRICA","MW","Malawi","2011",14782.2
+"AFRICA","MZ","Mozambique","2011",236771.5
+"AFRICA","NA","Namibia","2011",187623.4
+"AFRICA","NE","Níger","2011",878.2
+"AFRICA","NG","Nigeria","2011",6070582.1
+"AFRICA","RW","Ruanda","2011",504.4
+"AFRICA","SC","Seychelles","2011",4654.8
+"AFRICA","SD","Sudan","2011",4103.6
+"AFRICA","SH","Santa Elena","2011",1126.7
+"AFRICA","SL","Sierra Leona","2011",1586.2
+"AFRICA","SN","Senegal","2011",79219.7
+"AFRICA","DO","Somalia","2011",149.9
+"AFRICA","SS","Sudan del Sur","2011",NA
+"AFRICA","ST","Santo Tomé/Príncipe","2011",106.8
+"AFRICA","SZ","Swazilandia","2011",26278.7
+"AFRICA","TD","Chad","2011",664.1
+"AFRICA","TG","Togo","2011",25794.5
+"AFRICA","TN","Túnez","2011",597591.8
+"AFRICA","TZ","Tanzania","2011",24400.8
+"AFRICA","UG","Uganda","2011",53021.6
+"AFRICA","YT","Mayotte","2011",2966.8
+"AFRICA","ZA","Sudáfrica","2011",1061838
+"AFRICA","ZM","Zambia","2011",24904.9
+"AFRICA","ZW","Zimbabwe","2011",46988.6
+"AMERICA","AG","Antigua y Barbuda","2011",554.8
+"AMERICA","AI","Anguilla","2011",3
+"AMERICA","AN","Antillas Neerlandesas","2011",46736.9
+"AMERICA","AR","Argentina","2011",2110583.7
+"AMERICA","AW","Aruba","2011",12271.9
+"AMERICA","BB","Barbados","2011",1366
+"AMERICA","BB","San Bartolome","2011",NA
+"AMERICA","BM","Bermudas","2011",253546.5
+"AMERICA","BO","Bolivia","2011",51225.3
+"AMERICA","BQ","Bonaire, San Eustaquio y Saba","2011",NA
+"AMERICA","BR","Brasil","2011",3600665
+"AMERICA","BS","Bahamas","2011",9663.9
+"AMERICA","BZ","Belice","2011",6466.9
+"AMERICA","CA","Canadá","2011",1090547.8
+"AMERICA","CL","Chile","2011",1470384.3
+"AMERICA","CO","Colombia","2011",1241264
+"AMERICA","CR","Costa Rica","2011",97627
+"AMERICA","CU","Cuba","2011",171788.1
+"AMERICA","CW","Curaçao","2011",NA
+"AMERICA","DM","Dominica","2011",152.6
+"AMERICA","DO","Republica Dominicana","2011",127706.1
+"AMERICA","EC","Ecuador","2011",416105
+"AMERICA","FK","Islas Malvinas","2011",103637.1
+"AMERICA","GD","Granada","2011",0.9
+"AMERICA","GL","Groenlandia","2011",569.2
+"AMERICA","GT","Guatemala","2011",78535.9
+"AMERICA","GY","Guyana","2011",7127.3
+"AMERICA","HN","Honduras","2011",47491
+"AMERICA","HT","Haití","2011",4344.8
+"AMERICA","JM","Jamaica","2011",504.2
+"AMERICA","KN","San Cristobal y Nieves","2011",24.6
+"AMERICA","KY","Islas Caimán","2011",393098.1
+"AMERICA","LC","Santa Lucia","2011",16.5
+"AMERICA","MS","Montserrat","2011",2.7
+"AMERICA","MX","México","2011",3801322.6
+"AMERICA","NI","Nicaragua","2011",46627.1
+"AMERICA","PA","Panamá","2011",57126.9
+"AMERICA","PE","Perú","2011",1655145.6
+"AMERICA","PM","San Pedro y Miquelón","2011",75.8
+"AMERICA","PY","Paraguay","2011",191421.5
+"AMERICA","SR","Surinam","2011",3464.3
+"AMERICA","SV","El Salvador","2011",54956.7
+"AMERICA","SX","San Martin","2011",NA
+"AMERICA","TC","Islas Turcas y Caicos","2011",0.9
+"AMERICA","TT","Trinidad y Tobago","2011",709402.2
+"AMERICA","US","Estados Unidos","2011",10869330.7
+"AMERICA","UY","Uruguay","2011",175582.8
+"AMERICA","VC","San Vicente y las Islas Granadinas","2011",887.3
+"AMERICA","VE","Venezuela","2011",578896.1
+"AMERICA","VG","Islas Vírgenes (GB)","2011",12316.8
+"AMERICA","VI","Islas Vírgenes (EE.UU)","2011",340.1
+"ASIA","AE","Emiratos Árabes Unidos","2011",243582.6
+"ASIA","AF","Afganistán","2011",3086.6
+"ASIA","AM","Armenia","2011",60935.5
+"ASIA","AZ","Azerbaiján","2011",101171.7
+"ASIA","BD","Bangla Desh","2011",973224.9
+"ASIA","BH","Bahréin","2011",106607.7
+"ASIA","BN","Brunei Darussalam","2011",44.8
+"ASIA","BT","Bután","2011",1.9
+"ASIA","CN","China","2011",18704831.4
+"ASIA","GE","Georgia","2011",17850.4
+"ASIA","HK","Hong Kong","2011",322245.1
+"ASIA","ID","Indonesia","2011",2282535.9
+"ASIA","IL","Israel","2011",780761.3
+"ASIA","IN","India","2011",2813841.6
+"ASIA","IQ","Iraq","2011",1992635.3
+"ASIA","IR","Irán","2011",4031405.1
+"ASIA","JO","Jordania","2011",30647.3
+"ASIA","JP","Japón","2011",3210791.3
+"ASIA","KG","Kirguizistán","2011",335.2
+"ASIA","KH","Camboya (Campuchea)","2011",146746.7
+"ASIA","KP","Corea,Rep.Popular Democratica","2011",2656.7
+"ASIA","KR","Corea , Replublica de","2011",1705661.9
+"ASIA","KW","Kuwait","2011",266016.3
+"ASIA","KZ","Kazajstán","2011",788160.6
+"ASIA","LA","Laos","2011",7527
+"ASIA","LB","Líbano","2011",33597.6
+"ASIA","LK","Sri Lanka","2011",84120.1
+"ASIA","MM","Myanmar","2011",31076.3
+"ASIA","MN","Mongolia","2011",561.7
+"ASIA","MO","Macao","2011",1979.1
+"ASIA","MV","Maldivas (Islas)","2011",3514.8
+"ASIA","MY","Malasia","2011",617171.2
+"ASIA","NP","Nepal","2011",2640.2
+"ASIA","OM","Omán","2011",194420.5
+"ASIA","PH","Filipinas","2011",158387
+"ASIA","PK","Pakistán","2011",432693.6
+"ASIA","PS","Cisjordania/F.Gaza","2011",0.7
+"ASIA","QA","Qatar","2011",1476029.5
+"ASIA","SA","Arabia Saudita","2011",5841503.6
+"ASIA","SG","Singapur","2011",418087.8
+"ASIA","SY","Siria","2011",187256.8
+"ASIA","TH","Tailandia","2011",1136560.2
+"ASIA","TJ","Tajikistán","2011",314.2
+"ASIA","TL","Timor-Este","2011",127.3
+"ASIA","TM","Turkmenistán","2011",8799.3
+"ASIA","TR","Turquía","2011",3429447.7
+"ASIA","TW","Taiwán","2011",1183761.9
+"ASIA","UZ","Uzbekistán","2011",3290.4
+"ASIA","VN","Vietnam","2011",1453156.2
+"ASIA","YE","Yemen","2011",8780.5
+"OCEANIA","AS","Samoa Americana","2011",4.1
+"OCEANIA","AU","Australia","2011",847206.5
+"OCEANIA","CC","Islas Cocos (Keeling)","2011",1.3
+"OCEANIA","CK","Islas Cook","2011",5000.2
+"OCEANIA","CX","Isla Navidad","2011",0.3
+"OCEANIA","FJ","Islas Fidyi","2011",41.9
+"OCEANIA","FM","Micronesia, Est. Fede.","2011",1.6
+"OCEANIA","GS","Georgia del Sur e Islas Sandwich Sur","2011",NA
+"OCEANIA","GU","Guam","2011",4.3
+"OCEANIA","HM","I. Heard e I. Mcdonald","2011",NA
+"OCEANIA","KI","Kiribati","2011",0.2
+"OCEANIA","MH","Islas Marshall","2011",6025
+"OCEANIA","MP","I. Marianas del Norte","2011",3.8
+"OCEANIA","NC","Nueva Caledonia","2011",57694.6
+"OCEANIA","NR","Nauru","2011",131.9
+"OCEANIA","UN","Niue (Isla)","2011",NA
+"OCEANIA","NZ","Nueva Zelanda","2011",155060.7
+"OCEANIA","PF","Polinesia Francesa","2011",160.9
+"OCEANIA","PG","Papua Nueva Guinea","2011",95913
+"OCEANIA","PN","Pitcairn","2011",NA
+"OCEANIA","PW","Paláu","2011",0.7
+"OCEANIA","SB","Islas Salomón","2011",16277.3
+"OCEANIA","TK","Tokelau (Islas)","2011",157.3
+"OCEANIA","TO","Tonga","2011",289.4
+"OCEANIA","TV","Tuvalu","2011",2.5
+"OCEANIA","UM","Islas Menores Alejadas","2011",0.1
+"OCEANIA","VU","Vanuatu","2011",19.6
+"OCEANIA","WF","Islas Wallis y Futuna","2011",1.1
+"OCEANIA","WS","Samoa Occidental","2011",7.7
+"OCEANIA","Otros","Otros","2011",NA
+"EUROPA","AD","Andorra","2010",20304.3
+"EUROPA","AL","Albania","2010",99132.5
+"EUROPA","AT","Austria","2010",1877176
+"EUROPA","BA","Bosnia-Herzegovina","2010",23770.7
+"EUROPA","BE","Bélgica","2010",5930869.5
+"EUROPA","BG","Bulgaria","2010",364785
+"EUROPA","BY","Belarús","2010",29217.9
+"EUROPA","CH","Suiza","2010",2753421.9
+"EUROPA","YU","Servia y Montenegro","2010",NA
+"EUROPA","CY","Chipre","2010",12491
+"EUROPA","CZ","República Checa","2010",2202157.4
+"EUROPA","DE","Alemania","2010",28174820.5
+"EUROPA","DK","Dinamarca","2010",1797467.5
+"EUROPA","EE","Estonia","2010",39738.6
+"EUROPA","FI","Finlandia","2010",1072966.3
+"EUROPA","FO","Islas Faroe","2010",30790.1
+"EUROPA","FR","Francia","2010",26037734.3
+"EUROPA","GB","Reino Unido","2010",10944105.4
+"EUROPA","GI","Gibraltar","2010",39529.1
+"EUROPA","GR","Grecia","2010",519644.2
+"EUROPA","HR","Croacia","2010",58595.3
+"EUROPA","HU","Hungría","2010",1825763.8
+"EUROPA","IE","Irlanda","2010",3381536.1
+"EUROPA","IS","Islandia","2010",127773
+"EUROPA","IT","Italia","2010",16965449
+"EUROPA","LI","Liechtenstein","2010",24899.4
+"EUROPA","LT","Lituania","2010",193336.4
+"EUROPA","LU","Luxemburgo","2010",450910.7
+"EUROPA","LV","Letonia","2010",80962
+"EUROPA","MD","Moldavia","2010",2035.9
+"EUROPA","ME","Montenegro","2010",505.6
+"EUROPA","MK","Macedonia","2010",66730.8
+"EUROPA","MT","Malta","2010",109361.7
+"EUROPA","NL","Países Bajos","2010",10676665.4
+"EUROPA","NO","Noruega","2010",1861115.2
+"EUROPA","PL","Polonia","2010",3068810.8
+"EUROPA","PT","Portugal","2010",8458040.6
+"EUROPA","RO","Rumania","2010",1044883.8
+"EUROPA","RU","Rusia","2010",6070021.4
+"EUROPA","SE","Suecia","2010",2305781.5
+"EUROPA","SI","Eslovenia","2010",221136.3
+"EUROPA","SK","Eslovaquia","2010",1595173.4
+"EUROPA","SM","San Marino","2010",3787.8
+"EUROPA","UA","Ucrania","2010",514692.7
+"EUROPA","VA","Ciudad del Vaticano","2010",138.2
+"EUROPA","XK","Kosobo","2010",36.1
+"EUROPA","XS","Servia","2010",81570.5
+"AFRICA","AO","Angola","2010",469264.9
+"AFRICA","BF","Burkina Faso","2010",812.4
+"AFRICA","BI","Burundi","2010",206.5
+"AFRICA","BJ","Benín","2010",1008.5
+"AFRICA","BW","Botswana","2010",1359.2
+"AFRICA","CD","República Democrática Del Congo","2010",2101.3
+"AFRICA","CF","República Centro Africana","2010",2447.4
+"AFRICA","CG","Congo (Republica)","2010",360396.3
+"AFRICA","CI","Costa de Marfil","2010",197642.7
+"AFRICA","CM","Camerún","2010",572212.4
+"AFRICA","CV","Cabo Verde","2010",29025.7
+"AFRICA","DJ","Djibouti","2010",373.4
+"AFRICA","DZ","Argelia","2010",4557970.1
+"AFRICA","EG","Egipto","2010",1356689.3
+"AFRICA","EH","Western Sahara","2010",NA
+"AFRICA","ER","Eritrea","2010",220.7
+"AFRICA","ET","Etiopia","2010",5796.9
+"AFRICA","GA","Gabón","2010",244497.4
+"AFRICA","GH","Ghana","2010",92029
+"AFRICA","GM","Gambia","2010",1448.9
+"AFRICA","GN","Guinea","2010",131524.8
+"AFRICA","GQ","Guinea Ecuatorial","2010",721908.8
+"AFRICA","GW","Guinea-Bissau","2010",4834.3
+"AFRICA","IO","Territorio Británico del Índico","2010",270.5
+"AFRICA","KE","Kenia","2010",27731.5
+"AFRICA","KM","Comores","2010",52.9
+"AFRICA","LR","Liberia","2010",60164.8
+"AFRICA","LS","Lesotho","2010",2.5
+"AFRICA","LY","Libia","2010",3352839.1
+"AFRICA","MA","Marruecos","2010",2747344
+"AFRICA","MG","Madagascar","2010",41013.5
+"AFRICA","ML","Malí","2010",2208.4
+"AFRICA","MR","Mauritania","2010",103069.6
+"AFRICA","MU","Mauricio","2010",74018.9
+"AFRICA","MW","Malawi","2010",12157.7
+"AFRICA","MZ","Mozambique","2010",190846.8
+"AFRICA","NA","Namibia","2010",158229.1
+"AFRICA","NE","Níger","2010",1292.4
+"AFRICA","NG","Nigeria","2010",4250425.9
+"AFRICA","RW","Ruanda","2010",199.9
+"AFRICA","SC","Seychelles","2010",9307.3
+"AFRICA","SD","Sudan","2010",1391.3
+"AFRICA","SH","Santa Elena","2010",20.1
+"AFRICA","SL","Sierra Leona","2010",7809.2
+"AFRICA","SN","Senegal","2010",49649.2
+"AFRICA","DO","Somalia","2010",58.3
+"AFRICA","SS","Sudan del Sur","2010",NA
+"AFRICA","ST","Santo Tomé/Príncipe","2010",7.4
+"AFRICA","SZ","Swazilandia","2010",9048.9
+"AFRICA","TD","Chad","2010",773.6
+"AFRICA","TG","Togo","2010",7915
+"AFRICA","TN","Túnez","2010",624286.9
+"AFRICA","TZ","Tanzania","2010",34835.8
+"AFRICA","UG","Uganda","2010",37585.3
+"AFRICA","YT","Mayotte","2010",115.7
+"AFRICA","ZA","Sudáfrica","2010",956040.3
+"AFRICA","ZM","Zambia","2010",18324.5
+"AFRICA","ZW","Zimbabwe","2010",23659.4
+"AMERICA","AG","Antigua y Barbuda","2010",49.4
+"AMERICA","AI","Anguilla","2010",1.5
+"AMERICA","AN","Antillas Neerlandesas","2010",33099.3
+"AMERICA","AR","Argentina","2010",1770399.9
+"AMERICA","AW","Aruba","2010",19.8
+"AMERICA","BB","Barbados","2010",54.9
+"AMERICA","BB","San Bartolome","2010",NA
+"AMERICA","BM","Bermudas","2010",427110.8
+"AMERICA","BO","Bolivia","2010",53198
+"AMERICA","BQ","Bonaire, San Eustaquio y Saba","2010",NA
+"AMERICA","BR","Brasil","2010",3048858.1
+"AMERICA","BS","Bahamas","2010",641.8
+"AMERICA","BZ","Belice","2010",10724.6
+"AMERICA","CA","Canadá","2010",950277.6
+"AMERICA","CL","Chile","2010",1166783.9
+"AMERICA","CO","Colombia","2010",489921
+"AMERICA","CR","Costa Rica","2010",82147.8
+"AMERICA","CU","Cuba","2010",126046
+"AMERICA","CW","Curaçao","2010",NA
+"AMERICA","DM","Dominica","2010",221
+"AMERICA","DO","Republica Dominicana","2010",134814.6
+"AMERICA","EC","Ecuador","2010",367986.3
+"AMERICA","FK","Islas Malvinas","2010",108372.6
+"AMERICA","GD","Granada","2010",14.5
+"AMERICA","GL","Groenlandia","2010",237.9
+"AMERICA","GT","Guatemala","2010",60706.9
+"AMERICA","GY","Guyana","2010",6158.7
+"AMERICA","HN","Honduras","2010",45064
+"AMERICA","HT","Haití","2010",4167.2
+"AMERICA","JM","Jamaica","2010",423.2
+"AMERICA","KN","San Cristobal y Nieves","2010",22.4
+"AMERICA","KY","Islas Caimán","2010",523607.6
+"AMERICA","LC","Santa Lucia","2010",11.4
+"AMERICA","MS","Montserrat","2010",NA
+"AMERICA","MX","México","2010",2969890.8
+"AMERICA","NI","Nicaragua","2010",49462.7
+"AMERICA","PA","Panamá","2010",56194.4
+"AMERICA","PE","Perú","2010",1055978.7
+"AMERICA","PM","San Pedro y Miquelón","2010",20.6
+"AMERICA","PY","Paraguay","2010",171206.7
+"AMERICA","SR","Surinam","2010",1870.1
+"AMERICA","SV","El Salvador","2010",43827.5
+"AMERICA","SX","San Martin","2010",NA
+"AMERICA","TC","Islas Turcas y Caicos","2010",75.5
+"AMERICA","TT","Trinidad y Tobago","2010",715088.7
+"AMERICA","US","Estados Unidos","2010",9650476.6
+"AMERICA","UY","Uruguay","2010",164865.2
+"AMERICA","VC","San Vicente y las Islas Granadinas","2010",69.7
+"AMERICA","VE","Venezuela","2010",717342.8
+"AMERICA","VG","Islas Vírgenes (GB)","2010",33959
+"AMERICA","VI","Islas Vírgenes (EE.UU)","2010",121736.6
+"ASIA","AE","Emiratos Árabes Unidos","2010",126303.7
+"ASIA","AF","Afganistán","2010",1530.5
+"ASIA","AM","Armenia","2010",20155.3
+"ASIA","AZ","Azerbaiján","2010",305717.2
+"ASIA","BD","Bangla Desh","2010",702890.6
+"ASIA","BH","Bahréin","2010",73633
+"ASIA","BN","Brunei Darussalam","2010",312.2
+"ASIA","BT","Bután","2010",0.1
+"ASIA","CN","China","2010",18916433
+"ASIA","GE","Georgia","2010",39593.6
+"ASIA","HK","Hong Kong","2010",299153.6
+"ASIA","ID","Indonesia","2010",1917980.4
+"ASIA","IL","Israel","2010",863438.6
+"ASIA","IN","India","2010",2545037.8
+"ASIA","IQ","Iraq","2010",813008.6
+"ASIA","IR","Irán","2010",3407503.6
+"ASIA","JO","Jordania","2010",21107.2
+"ASIA","JP","Japón","2010",3470406.3
+"ASIA","KG","Kirguizistán","2010",113.5
+"ASIA","KH","Camboya (Campuchea)","2010",107185.1
+"ASIA","KP","Corea,Rep.Popular Democratica","2010",2718.8
+"ASIA","KR","Corea , Replublica de","2010",1655229.1
+"ASIA","KW","Kuwait","2010",149427.4
+"ASIA","KZ","Kazajstán","2010",334461.9
+"ASIA","LA","Laos","2010",5695.1
+"ASIA","LB","Líbano","2010",18011
+"ASIA","LK","Sri Lanka","2010",78880.5
+"ASIA","MM","Myanmar","2010",36136.7
+"ASIA","MN","Mongolia","2010",104
+"ASIA","MO","Macao","2010",1488.4
+"ASIA","MV","Maldivas (Islas)","2010",710.3
+"ASIA","MY","Malasia","2010",608299.1
+"ASIA","NP","Nepal","2010",2654.8
+"ASIA","OM","Omán","2010",46729.5
+"ASIA","PH","Filipinas","2010",177805.5
+"ASIA","PK","Pakistán","2010",367244.4
+"ASIA","PS","Cisjordania/F.Gaza","2010",1.5
+"ASIA","QA","Qatar","2010",1281588
+"ASIA","SA","Arabia Saudita","2010",3602154.2
+"ASIA","SG","Singapur","2010",405326.6
+"ASIA","SY","Siria","2010",181104.8
+"ASIA","TH","Tailandia","2010",1107300.9
+"ASIA","TJ","Tajikistán","2010",10.1
+"ASIA","TL","Timor-Este","2010",0.2
+"ASIA","TM","Turkmenistán","2010",10473.5
+"ASIA","TR","Turquía","2010",3067378.3
+"ASIA","TW","Taiwán","2010",1373311.7
+"ASIA","UZ","Uzbekistán","2010",3351.9
+"ASIA","VN","Vietnam","2010",1071480.5
+"ASIA","YE","Yemen","2010",73125.1
+"OCEANIA","AS","Samoa Americana","2010",1.5
+"OCEANIA","AU","Australia","2010",648672.3
+"OCEANIA","CC","Islas Cocos (Keeling)","2010",0.5
+"OCEANIA","CK","Islas Cook","2010",219.8
+"OCEANIA","CX","Isla Navidad","2010",0.6
+"OCEANIA","FJ","Islas Fidyi","2010",13.8
+"OCEANIA","FM","Micronesia, Est. Fede.","2010",8.1
+"OCEANIA","GS","Georgia del Sur e Islas Sandwich Sur","2010",NA
+"OCEANIA","GU","Guam","2010",5.5
+"OCEANIA","HM","I. Heard e I. Mcdonald","2010",NA
+"OCEANIA","KI","Kiribati","2010",NA
+"OCEANIA","MH","Islas Marshall","2010",19464.6
+"OCEANIA","MP","I. Marianas del Norte","2010",13
+"OCEANIA","NC","Nueva Caledonia","2010",76196.2
+"OCEANIA","NR","Nauru","2010",161.6
+"OCEANIA","UN","Niue (Isla)","2010",NA
+"OCEANIA","NZ","Nueva Zelanda","2010",130982.3
+"OCEANIA","PF","Polinesia Francesa","2010",312
+"OCEANIA","PG","Papua Nueva Guinea","2010",82374.8
+"OCEANIA","PN","Pitcairn","2010",NA
+"OCEANIA","PW","Paláu","2010",0.5
+"OCEANIA","SB","Islas Salomón","2010",7642.5
+"OCEANIA","TK","Tokelau (Islas)","2010",255.6
+"OCEANIA","TO","Tonga","2010",269.2
+"OCEANIA","TV","Tuvalu","2010",NA
+"OCEANIA","UM","Islas Menores Alejadas","2010",0.7
+"OCEANIA","VU","Vanuatu","2010",2
+"OCEANIA","WF","Islas Wallis y Futuna","2010",0.1
+"OCEANIA","WS","Samoa Occidental","2010",6.3
+"OCEANIA","Otros","Otros","2010",2.6
+"EUROPA","AD","Andorra","2009",27959.3
+"EUROPA","AL","Albania","2009",22667.2
+"EUROPA","AT","Austria","2009",1736205.6
+"EUROPA","BA","Bosnia-Herzegovina","2009",18902.1
+"EUROPA","BE","Bélgica","2009",5531590.7
+"EUROPA","BG","Bulgaria","2009",344131.8
+"EUROPA","BY","Belarús","2009",136216.4
+"EUROPA","CH","Suiza","2009",2649640.5
+"EUROPA","YU","Servia y Montenegro","2009",NA
+"EUROPA","CY","Chipre","2009",8546.1
+"EUROPA","CZ","República Checa","2009",1717660.3
+"EUROPA","DE","Alemania","2009",27679317.5
+"EUROPA","DK","Dinamarca","2009",1814702.5
+"EUROPA","EE","Estonia","2009",70538.5
+"EUROPA","FI","Finlandia","2009",1079504.9
+"EUROPA","FO","Islas Faroe","2009",30575.8
+"EUROPA","FR","Francia","2009",24136056
+"EUROPA","GB","Reino Unido","2009",9904336.3
+"EUROPA","GI","Gibraltar","2009",21353.8
+"EUROPA","GR","Grecia","2009",333902.6
+"EUROPA","HR","Croacia","2009",46709.7
+"EUROPA","HU","Hungría","2009",1602355.6
+"EUROPA","IE","Irlanda","2009",4266280.3
+"EUROPA","IS","Islandia","2009",145501.6
+"EUROPA","IT","Italia","2009",14916358.7
+"EUROPA","LI","Liechtenstein","2009",24944.2
+"EUROPA","LT","Lituania","2009",206124.1
+"EUROPA","LU","Luxemburgo","2009",251802.4
+"EUROPA","LV","Letonia","2009",90163.2
+"EUROPA","MD","Moldavia","2009",3213.3
+"EUROPA","ME","Montenegro","2009",883.6
+"EUROPA","MK","Macedonia","2009",39280.8
+"EUROPA","MT","Malta","2009",73393.1
+"EUROPA","NL","Países Bajos","2009",9218194.6
+"EUROPA","NO","Noruega","2009",1758570.9
+"EUROPA","PL","Polonia","2009",2449804.6
+"EUROPA","PT","Portugal","2009",7318632.4
+"EUROPA","RO","Rumania","2009",806544.2
+"EUROPA","RU","Rusia","2009",4575681.8
+"EUROPA","SE","Suecia","2009",2129352.6
+"EUROPA","SI","Eslovenia","2009",188634.6
+"EUROPA","SK","Eslovaquia","2009",911438.7
+"EUROPA","SM","San Marino","2009",5134.1
+"EUROPA","UA","Ucrania","2009",582623.8
+"EUROPA","VA","Ciudad del Vaticano","2009",48.8
+"EUROPA","XK","Kosobo","2009",1533.9
+"EUROPA","XS","Servia","2009",121835.4
+"AFRICA","AO","Angola","2009",551485.5
+"AFRICA","BF","Burkina Faso","2009",666.5
+"AFRICA","BI","Burundi","2009",148.5
+"AFRICA","BJ","Benín","2009",404.9
+"AFRICA","BW","Botswana","2009",1261.3
+"AFRICA","CD","República Democrática Del Congo","2009",2598.3
+"AFRICA","CF","República Centro Africana","2009",1396.9
+"AFRICA","CG","Congo (Republica)","2009",70530.3
+"AFRICA","CI","Costa de Marfil","2009",161138
+"AFRICA","CM","Camerún","2009",381494
+"AFRICA","CV","Cabo Verde","2009",17994.1
+"AFRICA","DJ","Djibouti","2009",130.6
+"AFRICA","DZ","Argelia","2009",3791617.9
+"AFRICA","EG","Egipto","2009",1434929.8
+"AFRICA","EH","Western Sahara","2009",NA
+"AFRICA","ER","Eritrea","2009",NA
+"AFRICA","ET","Etiopia","2009",5321.2
+"AFRICA","GA","Gabón","2009",226436.9
+"AFRICA","GH","Ghana","2009",62338.5
+"AFRICA","GM","Gambia","2009",176.6
+"AFRICA","GN","Guinea","2009",157987
+"AFRICA","GQ","Guinea Ecuatorial","2009",458178.3
+"AFRICA","GW","Guinea-Bissau","2009",421.9
+"AFRICA","IO","Territorio Británico del Índico","2009",3.4
+"AFRICA","KE","Kenia","2009",23506.3
+"AFRICA","KM","Comores","2009",24.3
+"AFRICA","LR","Liberia","2009",1926.5
+"AFRICA","LS","Lesotho","2009",0.3
+"AFRICA","LY","Libia","2009",2145794.9
+"AFRICA","MA","Marruecos","2009",2397995.7
+"AFRICA","MG","Madagascar","2009",26267.2
+"AFRICA","ML","Malí","2009",1129
+"AFRICA","MR","Mauritania","2009",77537.4
+"AFRICA","MU","Mauricio","2009",48373.8
+"AFRICA","MW","Malawi","2009",4846.1
+"AFRICA","MZ","Mozambique","2009",132329.1
+"AFRICA","NA","Namibia","2009",161313.9
+"AFRICA","NE","Níger","2009",1080.6
+"AFRICA","NG","Nigeria","2009",2793012.9
+"AFRICA","RW","Ruanda","2009",2.6
+"AFRICA","SC","Seychelles","2009",13876.2
+"AFRICA","SD","Sudan","2009",600.4
+"AFRICA","SH","Santa Elena","2009",236
+"AFRICA","SL","Sierra Leona","2009",2156.3
+"AFRICA","SN","Senegal","2009",37930.1
+"AFRICA","DO","Somalia","2009",34.7
+"AFRICA","SS","Sudan del Sur","2009",NA
+"AFRICA","ST","Santo Tomé/Príncipe","2009",7.6
+"AFRICA","SZ","Swazilandia","2009",22367.7
+"AFRICA","TD","Chad","2009",578.1
+"AFRICA","TG","Togo","2009",8571.6
+"AFRICA","TN","Túnez","2009",428112.5
+"AFRICA","TZ","Tanzania","2009",26678.7
+"AFRICA","UG","Uganda","2009",34193
+"AFRICA","YT","Mayotte","2009",1356.4
+"AFRICA","ZA","Sudáfrica","2009",871235.2
+"AFRICA","ZM","Zambia","2009",7235.2
+"AFRICA","ZW","Zimbabwe","2009",7421.8
+"AMERICA","AG","Antigua y Barbuda","2009",33.1
+"AMERICA","AI","Anguilla","2009",1.3
+"AMERICA","AN","Antillas Neerlandesas","2009",10938.8
+"AMERICA","AR","Argentina","2009",1372472.2
+"AMERICA","AW","Aruba","2009",104.3
+"AMERICA","BB","Barbados","2009",3665.9
+"AMERICA","BB","San Bartolome","2009",NA
+"AMERICA","BM","Bermudas","2009",153.2
+"AMERICA","BO","Bolivia","2009",39974.4
+"AMERICA","BQ","Bonaire, San Eustaquio y Saba","2009",NA
+"AMERICA","BR","Brasil","2009",2272125.5
+"AMERICA","BS","Bahamas","2009",1835.4
+"AMERICA","BZ","Belice","2009",3504.8
+"AMERICA","CA","Canadá","2009",817587.5
+"AMERICA","CL","Chile","2009",924633.4
+"AMERICA","CO","Colombia","2009",401857.2
+"AMERICA","CR","Costa Rica","2009",78584.5
+"AMERICA","CU","Cuba","2009",118178.3
+"AMERICA","CW","Curaçao","2009",NA
+"AMERICA","DM","Dominica","2009",255.6
+"AMERICA","DO","Republica Dominicana","2009",118442.9
+"AMERICA","EC","Ecuador","2009",327609.6
+"AMERICA","FK","Islas Malvinas","2009",75353.8
+"AMERICA","GD","Granada","2009",0.4
+"AMERICA","GL","Groenlandia","2009",1357.3
+"AMERICA","GT","Guatemala","2009",48216
+"AMERICA","GY","Guyana","2009",7162.2
+"AMERICA","HN","Honduras","2009",32904.3
+"AMERICA","HT","Haití","2009",854.3
+"AMERICA","JM","Jamaica","2009",296.1
+"AMERICA","KN","San Cristobal y Nieves","2009",17.9
+"AMERICA","KY","Islas Caimán","2009",1667.7
+"AMERICA","LC","Santa Lucia","2009",41088.1
+"AMERICA","MS","Montserrat","2009",NA
+"AMERICA","MX","México","2009",2054109.1
+"AMERICA","NI","Nicaragua","2009",39791.1
+"AMERICA","PA","Panamá","2009",47072.1
+"AMERICA","PE","Perú","2009",533912.6
+"AMERICA","PM","San Pedro y Miquelón","2009",773.2
+"AMERICA","PY","Paraguay","2009",39652.4
+"AMERICA","SR","Surinam","2009",5958.4
+"AMERICA","SV","El Salvador","2009",60691.6
+"AMERICA","SX","San Martin","2009",NA
+"AMERICA","TC","Islas Turcas y Caicos","2009",72.7
+"AMERICA","TT","Trinidad y Tobago","2009",730754.1
+"AMERICA","US","Estados Unidos","2009",8447614.3
+"AMERICA","UY","Uruguay","2009",145532.6
+"AMERICA","VC","San Vicente y las Islas Granadinas","2009",962.5
+"AMERICA","VE","Venezuela","2009",993751.9
+"AMERICA","VG","Islas Vírgenes (GB)","2009",174.3
+"AMERICA","VI","Islas Vírgenes (EE.UU)","2009",22864.8
+"ASIA","AE","Emiratos Árabes Unidos","2009",75331.5
+"ASIA","AF","Afganistán","2009",356.7
+"ASIA","AM","Armenia","2009",9255.3
+"ASIA","AZ","Azerbaiján","2009",353752.4
+"ASIA","BD","Bangla Desh","2009",590614.8
+"ASIA","BH","Bahréin","2009",33556.5
+"ASIA","BN","Brunei Darussalam","2009",13.2
+"ASIA","BT","Bután","2009",2.2
+"ASIA","CN","China","2009",14457485.9
+"ASIA","GE","Georgia","2009",69302.4
+"ASIA","HK","Hong Kong","2009",263697.2
+"ASIA","ID","Indonesia","2009",1750030.6
+"ASIA","IL","Israel","2009",716769.1
+"ASIA","IN","India","2009",1826502.8
+"ASIA","IQ","Iraq","2009",807353.2
+"ASIA","IR","Irán","2009",1985748.3
+"ASIA","JO","Jordania","2009",10828.9
+"ASIA","JP","Japón","2009",3170542.5
+"ASIA","KG","Kirguizistán","2009",847.6
+"ASIA","KH","Camboya (Campuchea)","2009",115815.7
+"ASIA","KP","Corea,Rep.Popular Democratica","2009",3902.4
+"ASIA","KR","Corea , Replublica de","2009",1820636.4
+"ASIA","KW","Kuwait","2009",227623.6
+"ASIA","KZ","Kazajstán","2009",265046
+"ASIA","LA","Laos","2009",4481.5
+"ASIA","LB","Líbano","2009",14898.9
+"ASIA","LK","Sri Lanka","2009",60790.7
+"ASIA","MM","Myanmar","2009",32356.8
+"ASIA","MN","Mongolia","2009",74.5
+"ASIA","MO","Macao","2009",3974.9
+"ASIA","MV","Maldivas (Islas)","2009",2759
+"ASIA","MY","Malasia","2009",471947.7
+"ASIA","NP","Nepal","2009",2549.1
+"ASIA","OM","Omán","2009",255812.9
+"ASIA","PH","Filipinas","2009",127205.9
+"ASIA","PK","Pakistán","2009",337029.1
+"ASIA","PS","Cisjordania/F.Gaza","2009",10.4
+"ASIA","QA","Qatar","2009",855838.2
+"ASIA","SA","Arabia Saudita","2009",2425340.8
+"ASIA","SG","Singapur","2009",347263.3
+"ASIA","SY","Siria","2009",191242.2
+"ASIA","TH","Tailandia","2009",895896.4
+"ASIA","TJ","Tajikistán","2009",12.2
+"ASIA","TL","Timor-Este","2009",76.3
+"ASIA","TM","Turkmenistán","2009",9662.3
+"ASIA","TR","Turquía","2009",2636829.3
+"ASIA","TW","Taiwán","2009",1053168.2
+"ASIA","UZ","Uzbekistán","2009",2254.5
+"ASIA","VN","Vietnam","2009",918352.9
+"ASIA","YE","Yemen","2009",4179.5
+"OCEANIA","AS","Samoa Americana","2009",2.2
+"OCEANIA","AU","Australia","2009",423156
+"OCEANIA","CC","Islas Cocos (Keeling)","2009",NA
+"OCEANIA","CK","Islas Cook","2009",0.6
+"OCEANIA","CX","Isla Navidad","2009",NA
+"OCEANIA","FJ","Islas Fidyi","2009",4.9
+"OCEANIA","FM","Micronesia, Est. Fede.","2009",2
+"OCEANIA","GS","Georgia del Sur e Islas Sandwich Sur","2009",NA
+"OCEANIA","GU","Guam","2009",8.6
+"OCEANIA","HM","I. Heard e I. Mcdonald","2009",6.5
+"OCEANIA","KI","Kiribati","2009",13.9
+"OCEANIA","MH","Islas Marshall","2009",11.8
+"OCEANIA","MP","I. Marianas del Norte","2009",93.5
+"OCEANIA","NC","Nueva Caledonia","2009",51848.7
+"OCEANIA","NR","Nauru","2009",180.9
+"OCEANIA","UN","Niue (Isla)","2009",NA
+"OCEANIA","NZ","Nueva Zelanda","2009",118014.3
+"OCEANIA","PF","Polinesia Francesa","2009",250.6
+"OCEANIA","PG","Papua Nueva Guinea","2009",86753
+"OCEANIA","PN","Pitcairn","2009",NA
+"OCEANIA","PW","Paláu","2009",NA
+"OCEANIA","SB","Islas Salomón","2009",11342.7
+"OCEANIA","TK","Tokelau (Islas)","2009",13.7
+"OCEANIA","TO","Tonga","2009",102.8
+"OCEANIA","TV","Tuvalu","2009",NA
+"OCEANIA","UM","Islas Menores Alejadas","2009",9.4
+"OCEANIA","VU","Vanuatu","2009",590.3
+"OCEANIA","WF","Islas Wallis y Futuna","2009",NA
+"OCEANIA","WS","Samoa Occidental","2009",0.3
+"OCEANIA","Otros","Otros","2009",NA
+"EUROPA","AD","Andorra","2008",54071.2
+"EUROPA","AL","Albania","2008",16888
+"EUROPA","AT","Austria","2008",2462020.6
+"EUROPA","BA","Bosnia-Herzegovina","2008",14559.7
+"EUROPA","BE","Bélgica","2008",7122754.9
+"EUROPA","BG","Bulgaria","2008",284414.5
+"EUROPA","BY","Belarús","2008",428.1
+"EUROPA","CH","Suiza","2008",2847820.1
+"EUROPA","YU","Servia y Montenegro","2008",NA
+"EUROPA","CY","Chipre","2008",39433.5
+"EUROPA","CZ","República Checa","2008",1844823.3
+"EUROPA","DE","Alemania","2008",39508923.7
+"EUROPA","DK","Dinamarca","2008",2076578.8
+"EUROPA","EE","Estonia","2008",50312.4
+"EUROPA","FI","Finlandia","2008",2088532.4
+"EUROPA","FO","Islas Faroe","2008",38746.7
+"EUROPA","FR","Francia","2008",31472017.7
+"EUROPA","GB","Reino Unido","2008",13025278.5
+"EUROPA","GI","Gibraltar","2008",9920.7
+"EUROPA","GR","Grecia","2008",409137.2
+"EUROPA","HR","Croacia","2008",58993.9
+"EUROPA","HU","Hungría","2008",1659138.8
+"EUROPA","IE","Irlanda","2008",4202938.7
+"EUROPA","IS","Islandia","2008",140895.4
+"EUROPA","IT","Italia","2008",21784991.5
+"EUROPA","LI","Liechtenstein","2008",37030
+"EUROPA","LT","Lituania","2008",410418.8
+"EUROPA","LU","Luxemburgo","2008",462009.6
+"EUROPA","LV","Letonia","2008",272472.6
+"EUROPA","MD","Moldavia","2008",2886.6
+"EUROPA","ME","Montenegro","2008",1319.7
+"EUROPA","MK","Macedonia","2008",66347.5
+"EUROPA","MT","Malta","2008",70025.1
+"EUROPA","NL","Países Bajos","2008",10766252.7
+"EUROPA","NO","Noruega","2008",1972281
+"EUROPA","PL","Polonia","2008",2672828.4
+"EUROPA","PT","Portugal","2008",9303591.3
+"EUROPA","RO","Rumania","2008",753298
+"EUROPA","RU","Rusia","2008",7493034.1
+"EUROPA","SE","Suecia","2008",3005557
+"EUROPA","SI","Eslovenia","2008",273982.3
+"EUROPA","SK","Eslovaquia","2008",999171.7
+"EUROPA","SM","San Marino","2008",9841.8
+"EUROPA","UA","Ucrania","2008",899572.3
+"EUROPA","VA","Ciudad del Vaticano","2008",86.6
+"EUROPA","XK","Kosobo","2008",219.1
+"EUROPA","XS","Servia","2008",56254
+"AFRICA","AO","Angola","2008",1219232.7
+"AFRICA","BF","Burkina Faso","2008",623.9
+"AFRICA","BI","Burundi","2008",211.4
+"AFRICA","BJ","Benín","2008",295.6
+"AFRICA","BW","Botswana","2008",NA
+"AFRICA","CD","República Democrática Del Congo","2008",4660.7
+"AFRICA","CF","República Centro Africana","2008",4663.6
+"AFRICA","CG","Congo (Republica)","2008",71421.9
+"AFRICA","CI","Costa de Marfil","2008",210153.7
+"AFRICA","CM","Camerún","2008",817630
+"AFRICA","CV","Cabo Verde","2008",15144.2
+"AFRICA","DJ","Djibouti","2008",159.4
+"AFRICA","DZ","Argelia","2008",6431513.2
+"AFRICA","EG","Egipto","2008",1575345.8
+"AFRICA","EH","Western Sahara","2008",NA
+"AFRICA","ER","Eritrea","2008",1.1
+"AFRICA","ET","Etiopia","2008",9496.4
+"AFRICA","GA","Gabón","2008",255913.2
+"AFRICA","GH","Ghana","2008",69777.5
+"AFRICA","GM","Gambia","2008",1622.3
+"AFRICA","GN","Guinea","2008",164070.7
+"AFRICA","GQ","Guinea Ecuatorial","2008",1886832.5
+"AFRICA","GW","Guinea-Bissau","2008",5.3
+"AFRICA","IO","Territorio Británico del Índico","2008",2
+"AFRICA","KE","Kenia","2008",37017.4
+"AFRICA","KM","Comores","2008",62.2
+"AFRICA","LR","Liberia","2008",1372.5
+"AFRICA","LS","Lesotho","2008",37.5
+"AFRICA","LY","Libia","2008",3140789.5
+"AFRICA","MA","Marruecos","2008",2823088.4
+"AFRICA","MG","Madagascar","2008",33375.1
+"AFRICA","ML","Malí","2008",1982.6
+"AFRICA","MR","Mauritania","2008",124637
+"AFRICA","MU","Mauricio","2008",52165.5
+"AFRICA","MW","Malawi","2008",8793.4
+"AFRICA","MZ","Mozambique","2008",199373.5
+"AFRICA","NA","Namibia","2008",176229.7
+"AFRICA","NE","Níger","2008",677
+"AFRICA","NG","Nigeria","2008",4692930.9
+"AFRICA","RW","Ruanda","2008",281
+"AFRICA","SC","Seychelles","2008",10541
+"AFRICA","SD","Sudan","2008",4048.5
+"AFRICA","SH","Santa Elena","2008",225.2
+"AFRICA","SL","Sierra Leona","2008",2517.3
+"AFRICA","SN","Senegal","2008",53496.2
+"AFRICA","DO","Somalia","2008",0
+"AFRICA","SS","Sudan del Sur","2008",NA
+"AFRICA","ST","Santo Tomé/Príncipe","2008",85.5
+"AFRICA","SZ","Swazilandia","2008",12346.3
+"AFRICA","TD","Chad","2008",822.4
+"AFRICA","TG","Togo","2008",3734.3
+"AFRICA","TN","Túnez","2008",713336.3
+"AFRICA","TZ","Tanzania","2008",26406.1
+"AFRICA","UG","Uganda","2008",31082.2
+"AFRICA","YT","Mayotte","2008",3745.6
+"AFRICA","ZA","Sudáfrica","2008",1583094.5
+"AFRICA","ZM","Zambia","2008",15787.2
+"AFRICA","ZW","Zimbabwe","2008",34110.5
+"AMERICA","AG","Antigua y Barbuda","2008",36.3
+"AMERICA","AI","Anguilla","2008",18.5
+"AMERICA","AN","Antillas Neerlandesas","2008",6938.5
+"AMERICA","AR","Argentina","2008",2376063.7
+"AMERICA","AW","Aruba","2008",35775.6
+"AMERICA","BB","Barbados","2008",117.5
+"AMERICA","BB","San Bartolome","2008",NA
+"AMERICA","BM","Bermudas","2008",5932.1
+"AMERICA","BO","Bolivia","2008",50252.9
+"AMERICA","BQ","Bonaire, San Eustaquio y Saba","2008",NA
+"AMERICA","BR","Brasil","2008",3129124.8
+"AMERICA","BS","Bahamas","2008",53526.2
+"AMERICA","BZ","Belice","2008",408676.7
+"AMERICA","CA","Canadá","2008",2747.1
+"AMERICA","CL","Chile","2008",1258872.6
+"AMERICA","CO","Colombia","2008",504624.2
+"AMERICA","CR","Costa Rica","2008",96439.4
+"AMERICA","CU","Cuba","2008",146366.4
+"AMERICA","CW","Curaçao","2008",NA
+"AMERICA","DM","Dominica","2008",300.2
+"AMERICA","DO","Republica Dominicana","2008",173166.9
+"AMERICA","EC","Ecuador","2008",396198.5
+"AMERICA","FK","Islas Malvinas","2008",90765.7
+"AMERICA","GD","Granada","2008",0.5
+"AMERICA","GL","Groenlandia","2008",1982.1
+"AMERICA","GT","Guatemala","2008",50247.5
+"AMERICA","GY","Guyana","2008",6320.1
+"AMERICA","HN","Honduras","2008",38708.8
+"AMERICA","HT","Haití","2008",1941.3
+"AMERICA","JM","Jamaica","2008",930.4
+"AMERICA","KN","San Cristobal y Nieves","2008",18.7
+"AMERICA","KY","Islas Caimán","2008",4681.2
+"AMERICA","LC","Santa Lucia","2008",5.9
+"AMERICA","MS","Montserrat","2008",1.8
+"AMERICA","MX","México","2008",3201531.5
+"AMERICA","NI","Nicaragua","2008",42140.9
+"AMERICA","PA","Panamá","2008",69379.5
+"AMERICA","PE","Perú","2008",777034.6
+"AMERICA","PM","San Pedro y Miquelón","2008",1727.7
+"AMERICA","PY","Paraguay","2008",148088.9
+"AMERICA","SR","Surinam","2008",3230.7
+"AMERICA","SV","El Salvador","2008",70994.6
+"AMERICA","SX","San Martin","2008",NA
+"AMERICA","TC","Islas Turcas y Caicos","2008",NA
+"AMERICA","TT","Trinidad y Tobago","2008",1141642.7
+"AMERICA","US","Estados Unidos","2008",11283158.4
+"AMERICA","UY","Uruguay","2008",174382.1
+"AMERICA","VC","San Vicente y las Islas Granadinas","2008",6006.7
+"AMERICA","VE","Venezuela","2008",1328689.1
+"AMERICA","VG","Islas Vírgenes (GB)","2008",9042
+"AMERICA","VI","Islas Vírgenes (EE.UU)","2008",25409.7
+"ASIA","AE","Emiratos Árabes Unidos","2008",245160.3
+"ASIA","AF","Afganistán","2008",346.1
+"ASIA","AM","Armenia","2008",12754.3
+"ASIA","AZ","Azerbaiján","2008",676000.3
+"ASIA","BD","Bangla Desh","2008",557771.3
+"ASIA","BH","Bahréin","2008",96978.4
+"ASIA","BN","Brunei Darussalam","2008",102.4
+"ASIA","BT","Bután","2008",0.6
+"ASIA","CN","China","2008",20492570
+"ASIA","GE","Georgia","2008",36770.5
+"ASIA","HK","Hong Kong","2008",462941.7
+"ASIA","ID","Indonesia","2008",1737204.1
+"ASIA","IL","Israel","2008",846041.2
+"ASIA","IN","India","2008",2354051.2
+"ASIA","IQ","Iraq","2008",1227633.4
+"ASIA","IR","Irán","2008",3112719.4
+"ASIA","JO","Jordania","2008",31014.1
+"ASIA","JP","Japón","2008",5120909.3
+"ASIA","KG","Kirguizistán","2008",114.2
+"ASIA","KH","Camboya (Campuchea)","2008",119896.3
+"ASIA","KP","Corea,Rep.Popular Democratica","2008",3776.3
+"ASIA","KR","Corea , Replublica de","2008",2689896.6
+"ASIA","KW","Kuwait","2008",243801.8
+"ASIA","KZ","Kazajstán","2008",681499.3
+"ASIA","LA","Laos","2008",5794.7
+"ASIA","LB","Líbano","2008",23858.6
+"ASIA","LK","Sri Lanka","2008",72322.3
+"ASIA","MM","Myanmar","2008",37600.5
+"ASIA","MN","Mongolia","2008",236.1
+"ASIA","MO","Macao","2008",23681.4
+"ASIA","MV","Maldivas (Islas)","2008",2575.3
+"ASIA","MY","Malasia","2008",782063.4
+"ASIA","NP","Nepal","2008",3705.6
+"ASIA","OM","Omán","2008",69520
+"ASIA","PH","Filipinas","2008",253689.9
+"ASIA","PK","Pakistán","2008",378911.9
+"ASIA","PS","Cisjordania/F.Gaza","2008",9.3
+"ASIA","QA","Qatar","2008",1410203.4
+"ASIA","SA","Arabia Saudita","2008",4202647.3
+"ASIA","SG","Singapur","2008",417433.2
+"ASIA","SY","Siria","2008",206765.7
+"ASIA","TH","Tailandia","2008",1378598.1
+"ASIA","TJ","Tajikistán","2008",195.7
+"ASIA","TL","Timor-Este","2008",121.5
+"ASIA","TM","Turkmenistán","2008",78037
+"ASIA","TR","Turquía","2008",3697969.3
+"ASIA","TW","Taiwán","2008",1524655.4
+"ASIA","UZ","Uzbekistán","2008",4344
+"ASIA","VN","Vietnam","2008",1084909.9
+"ASIA","YE","Yemen","2008",11362.9
+"OCEANIA","AS","Samoa Americana","2008",66.4
+"OCEANIA","AU","Australia","2008",781125.1
+"OCEANIA","CC","Islas Cocos (Keeling)","2008",1416722.7
+"OCEANIA","CK","Islas Cook","2008",0.2
+"OCEANIA","CX","Isla Navidad","2008",NA
+"OCEANIA","FJ","Islas Fidyi","2008",2207.6
+"OCEANIA","FM","Micronesia, Est. Fede.","2008",NA
+"OCEANIA","GS","Georgia del Sur e Islas Sandwich Sur","2008",NA
+"OCEANIA","GU","Guam","2008",4.5
+"OCEANIA","HM","I. Heard e I. Mcdonald","2008",0.5
+"OCEANIA","KI","Kiribati","2008",12.4
+"OCEANIA","MH","Islas Marshall","2008",23386.7
+"OCEANIA","MP","I. Marianas del Norte","2008",92.2
+"OCEANIA","NC","Nueva Caledonia","2008",83075.3
+"OCEANIA","NR","Nauru","2008",15.3
+"OCEANIA","UN","Niue (Isla)","2008",0.1
+"OCEANIA","NZ","Nueva Zelanda","2008",142725.5
+"OCEANIA","PF","Polinesia Francesa","2008",770.3
+"OCEANIA","PG","Papua Nueva Guinea","2008",106298.8
+"OCEANIA","PN","Pitcairn","2008",NA
+"OCEANIA","PW","Paláu","2008",NA
+"OCEANIA","SB","Islas Salomón","2008",16041.5
+"OCEANIA","TK","Tokelau (Islas)","2008",222.6
+"OCEANIA","TO","Tonga","2008",NA
+"OCEANIA","TV","Tuvalu","2008",0.1
+"OCEANIA","UM","Islas Menores Alejadas","2008",0.5
+"OCEANIA","VU","Vanuatu","2008",2.5
+"OCEANIA","WF","Islas Wallis y Futuna","2008",NA
+"OCEANIA","WS","Samoa Occidental","2008",2.8
+"OCEANIA","Otros","Otros","2008",0.1
+"EUROPA","AD","Andorra","2007",52758.6
+"EUROPA","AL","Albania","2007",3554.9
+"EUROPA","AT","Austria","2007",2853552.7
+"EUROPA","BA","Bosnia-Herzegovina","2007",15332.6
+"EUROPA","BE","Bélgica","2007",7981802.9
+"EUROPA","BG","Bulgaria","2007",252370.5
+"EUROPA","BY","Belarús","2007",181907.7
+"EUROPA","CH","Suiza","2007",3039877.1
+"EUROPA","YU","Servia y Montenegro","2007",NA
+"EUROPA","CY","Chipre","2007",43007.3
+"EUROPA","CZ","República Checa","2007",2017398.6
+"EUROPA","DE","Alemania","2007",43645031.6
+"EUROPA","DK","Dinamarca","2007",2020194.5
+"EUROPA","EE","Estonia","2007",54039.3
+"EUROPA","FI","Finlandia","2007",1963645
+"EUROPA","FO","Islas Faroe","2007",40209.5
+"EUROPA","FR","Francia","2007",35001117.3
+"EUROPA","GB","Reino Unido","2007",14145894.7
+"EUROPA","GI","Gibraltar","2007",13626.1
+"EUROPA","GR","Grecia","2007",728007.6
+"EUROPA","HR","Croacia","2007",57350.8
+"EUROPA","HU","Hungría","2007",1845092.5
+"EUROPA","IE","Irlanda","2007",4136160.5
+"EUROPA","IS","Islandia","2007",145746.2
+"EUROPA","IT","Italia","2007",24850177.3
+"EUROPA","LI","Liechtenstein","2007",48355.3
+"EUROPA","LT","Lituania","2007",166780.5
+"EUROPA","LU","Luxemburgo","2007",414197.3
+"EUROPA","LV","Letonia","2007",178344
+"EUROPA","MD","Moldavia","2007",2655.5
+"EUROPA","ME","Montenegro","2007",1756.4
+"EUROPA","MK","Macedonia","2007",149862.1
+"EUROPA","MT","Malta","2007",29461.8
+"EUROPA","NL","Países Bajos","2007",11350031.2
+"EUROPA","NO","Noruega","2007",2002233.6
+"EUROPA","PL","Polonia","2007",2699169.1
+"EUROPA","PT","Portugal","2007",9267609.6
+"EUROPA","RO","Rumania","2007",584574.8
+"EUROPA","RU","Rusia","2007",7890527.7
+"EUROPA","SE","Suecia","2007",3548769.1
+"EUROPA","SI","Eslovenia","2007",410134.8
+"EUROPA","SK","Eslovaquia","2007",850423.7
+"EUROPA","SM","San Marino","2007",15733.9
+"EUROPA","UA","Ucrania","2007",653798.6
+"EUROPA","VA","Ciudad del Vaticano","2007",214.6
+"EUROPA","XK","Kosobo","2007",1533
+"EUROPA","XS","Servia","2007",55175.9
+"AFRICA","AO","Angola","2007",480426.7
+"AFRICA","BF","Burkina Faso","2007",999.4
+"AFRICA","BI","Burundi","2007",322.1
+"AFRICA","BJ","Benín","2007",1313.7
+"AFRICA","BW","Botswana","2007",473.9
+"AFRICA","CD","República Democrática Del Congo","2007",3956.8
+"AFRICA","CF","República Centro Africana","2007",6891.1
+"AFRICA","CG","Congo (Republica)","2007",20155
+"AFRICA","CI","Costa de Marfil","2007",248598.3
+"AFRICA","CM","Camerún","2007",801137.7
+"AFRICA","CV","Cabo Verde","2007",9924.8
+"AFRICA","DJ","Djibouti","2007",170.6
+"AFRICA","DZ","Argelia","2007",4477195
+"AFRICA","EG","Egipto","2007",1469925.5
+"AFRICA","EH","Western Sahara","2007",NA
+"AFRICA","ER","Eritrea","2007",0.3
+"AFRICA","ET","Etiopia","2007",6441.7
+"AFRICA","GA","Gabón","2007",84244.3
+"AFRICA","GH","Ghana","2007",77261.5
+"AFRICA","GM","Gambia","2007",757
+"AFRICA","GN","Guinea","2007",118823.6
+"AFRICA","GQ","Guinea Ecuatorial","2007",902761.3
+"AFRICA","GW","Guinea-Bissau","2007",359.3
+"AFRICA","IO","Territorio Británico del Índico","2007",0.2
+"AFRICA","KE","Kenia","2007",26831.7
+"AFRICA","KM","Comores","2007",122.2
+"AFRICA","LR","Liberia","2007",473.5
+"AFRICA","LS","Lesotho","2007",NA
+"AFRICA","LY","Libia","2007",2592975.7
+"AFRICA","MA","Marruecos","2007",2987412.6
+"AFRICA","MG","Madagascar","2007",28413.8
+"AFRICA","ML","Malí","2007",2522.6
+"AFRICA","MR","Mauritania","2007",120736.1
+"AFRICA","MU","Mauricio","2007",54879.8
+"AFRICA","MW","Malawi","2007",7727
+"AFRICA","MZ","Mozambique","2007",274559.9
+"AFRICA","NA","Namibia","2007",185470
+"AFRICA","NE","Níger","2007",1573.7
+"AFRICA","NG","Nigeria","2007",3661507.9
+"AFRICA","RW","Ruanda","2007",28
+"AFRICA","SC","Seychelles","2007",14051.9
+"AFRICA","SD","Sudan","2007",1272.7
+"AFRICA","SH","Santa Elena","2007",259.6
+"AFRICA","SL","Sierra Leona","2007",3738.8
+"AFRICA","SN","Senegal","2007",46614.3
+"AFRICA","DO","Somalia","2007",20.1
+"AFRICA","SS","Sudan del Sur","2007",NA
+"AFRICA","ST","Santo Tomé/Príncipe","2007",321.9
+"AFRICA","SZ","Swazilandia","2007",2320.1
+"AFRICA","TD","Chad","2007",1273.1
+"AFRICA","TG","Togo","2007",6850.1
+"AFRICA","TN","Túnez","2007",692273.9
+"AFRICA","TZ","Tanzania","2007",25615.2
+"AFRICA","UG","Uganda","2007",23655
+"AFRICA","YT","Mayotte","2007",795
+"AFRICA","ZA","Sudáfrica","2007",1500127.8
+"AFRICA","ZM","Zambia","2007",5071.8
+"AFRICA","ZW","Zimbabwe","2007",26360.7
+"AMERICA","AG","Antigua y Barbuda","2007",1485.3
+"AMERICA","AI","Anguilla","2007",0.1
+"AMERICA","AN","Antillas Neerlandesas","2007",35939.1
+"AMERICA","AR","Argentina","2007",1930115.5
+"AMERICA","AW","Aruba","2007",12862.6
+"AMERICA","BB","Barbados","2007",12.3
+"AMERICA","BB","San Bartolome","2007",NA
+"AMERICA","BM","Bermudas","2007",35.9
+"AMERICA","BO","Bolivia","2007",20534.8
+"AMERICA","BQ","Bonaire, San Eustaquio y Saba","2007",NA
+"AMERICA","BR","Brasil","2007",3057381.3
+"AMERICA","BS","Bahamas","2007",49999.7
+"AMERICA","BZ","Belice","2007",2066.5
+"AMERICA","CA","Canadá","2007",897790.8
+"AMERICA","CL","Chile","2007",1063856.9
+"AMERICA","CO","Colombia","2007",501292.7
+"AMERICA","CR","Costa Rica","2007",89092.3
+"AMERICA","CU","Cuba","2007",142267.8
+"AMERICA","CW","Curaçao","2007",NA
+"AMERICA","DM","Dominica","2007",48.7
+"AMERICA","DO","Republica Dominicana","2007",110028.9
+"AMERICA","EC","Ecuador","2007",306064.4
+"AMERICA","FK","Islas Malvinas","2007",101091.7
+"AMERICA","GD","Granada","2007",61.3
+"AMERICA","GL","Groenlandia","2007",789.9
+"AMERICA","GT","Guatemala","2007",52358.9
+"AMERICA","GY","Guyana","2007",3509.1
+"AMERICA","HN","Honduras","2007",51919.7
+"AMERICA","HT","Haití","2007",2188
+"AMERICA","JM","Jamaica","2007",2841.5
+"AMERICA","KN","San Cristobal y Nieves","2007",28.1
+"AMERICA","KY","Islas Caimán","2007",17719.5
+"AMERICA","LC","Santa Lucia","2007",3.6
+"AMERICA","MS","Montserrat","2007",3.5
+"AMERICA","MX","México","2007",3012050.6
+"AMERICA","NI","Nicaragua","2007",39501
+"AMERICA","PA","Panamá","2007",78905.7
+"AMERICA","PE","Perú","2007",855470.2
+"AMERICA","PM","San Pedro y Miquelón","2007",1905.8
+"AMERICA","PY","Paraguay","2007",79615
+"AMERICA","SR","Surinam","2007",2173.1
+"AMERICA","SV","El Salvador","2007",66909.3
+"AMERICA","SX","San Martin","2007",NA
+"AMERICA","TC","Islas Turcas y Caicos","2007",11.5
+"AMERICA","TT","Trinidad y Tobago","2007",465376.2
+"AMERICA","US","Estados Unidos","2007",9996495.7
+"AMERICA","UY","Uruguay","2007",143228.3
+"AMERICA","VC","San Vicente y las Islas Granadinas","2007",0.1
+"AMERICA","VE","Venezuela","2007",1519247.2
+"AMERICA","VG","Islas Vírgenes (GB)","2007",58.3
+"AMERICA","VI","Islas Vírgenes (EE.UU)","2007",59649.2
+"ASIA","AE","Emiratos Árabes Unidos","2007",96221
+"ASIA","AF","Afganistán","2007",280.7
+"ASIA","AM","Armenia","2007",13258.4
+"ASIA","AZ","Azerbaiján","2007",317899.6
+"ASIA","BD","Bangla Desh","2007",464651.4
+"ASIA","BH","Bahréin","2007",92312.4
+"ASIA","BN","Brunei Darussalam","2007",16.2
+"ASIA","BT","Bután","2007",1.8
+"ASIA","CN","China","2007",18492718.3
+"ASIA","GE","Georgia","2007",47781.7
+"ASIA","HK","Hong Kong","2007",473471.9
+"ASIA","ID","Indonesia","2007",1940327
+"ASIA","IL","Israel","2007",904743.7
+"ASIA","IN","India","2007",2224173.4
+"ASIA","IQ","Iraq","2007",1215790
+"ASIA","IR","Irán","2007",1534978.8
+"ASIA","JO","Jordania","2007",19869.9
+"ASIA","JP","Japón","2007",6082454.8
+"ASIA","KG","Kirguizistán","2007",300.1
+"ASIA","KH","Camboya (Campuchea)","2007",103755.5
+"ASIA","KP","Corea,Rep.Popular Democratica","2007",3943.2
+"ASIA","KR","Corea , Replublica de","2007",3603892.4
+"ASIA","KW","Kuwait","2007",51889.9
+"ASIA","KZ","Kazajstán","2007",615379
+"ASIA","LA","Laos","2007",5181.4
+"ASIA","LB","Líbano","2007",10100.8
+"ASIA","LK","Sri Lanka","2007",73977.5
+"ASIA","MM","Myanmar","2007",34763.8
+"ASIA","MN","Mongolia","2007",697.5
+"ASIA","MO","Macao","2007",27073
+"ASIA","MV","Maldivas (Islas)","2007",302.9
+"ASIA","MY","Malasia","2007",787575.4
+"ASIA","NP","Nepal","2007",3826.8
+"ASIA","OM","Omán","2007",79629.9
+"ASIA","PH","Filipinas","2007",238604.3
+"ASIA","PK","Pakistán","2007",381105.6
+"ASIA","PS","Cisjordania/F.Gaza","2007",12.4
+"ASIA","QA","Qatar","2007",943989.5
+"ASIA","SA","Arabia Saudita","2007",3250579.4
+"ASIA","SG","Singapur","2007",435117.7
+"ASIA","SY","Siria","2007",67321.7
+"ASIA","TH","Tailandia","2007",1374562
+"ASIA","TJ","Tajikistán","2007",8270.1
+"ASIA","TL","Timor-Este","2007",108.5
+"ASIA","TM","Turkmenistán","2007",7339.8
+"ASIA","TR","Turquía","2007",4212431.7
+"ASIA","TW","Taiwán","2007",1561927.8
+"ASIA","UZ","Uzbekistán","2007",6642.2
+"ASIA","VN","Vietnam","2007",835179.3
+"ASIA","YE","Yemen","2007",13419.8
+"OCEANIA","AS","Samoa Americana","2007",50.3
+"OCEANIA","AU","Australia","2007",810311.6
+"OCEANIA","CC","Islas Cocos (Keeling)","2007",0.7
+"OCEANIA","CK","Islas Cook","2007",NA
+"OCEANIA","CX","Isla Navidad","2007",0.2
+"OCEANIA","FJ","Islas Fidyi","2007",1299.2
+"OCEANIA","FM","Micronesia, Est. Fede.","2007",93.1
+"OCEANIA","GS","Georgia del Sur e Islas Sandwich Sur","2007",NA
+"OCEANIA","GU","Guam","2007",8.5
+"OCEANIA","HM","I. Heard e I. Mcdonald","2007",NA
+"OCEANIA","KI","Kiribati","2007",NA
+"OCEANIA","MH","Islas Marshall","2007",11401.2
+"OCEANIA","MP","I. Marianas del Norte","2007",62.5
+"OCEANIA","NC","Nueva Caledonia","2007",164847
+"OCEANIA","NR","Nauru","2007",13.4
+"OCEANIA","UN","Niue (Isla)","2007",NA
+"OCEANIA","NZ","Nueva Zelanda","2007",142824.8
+"OCEANIA","PF","Polinesia Francesa","2007",785.4
+"OCEANIA","PG","Papua Nueva Guinea","2007",52154.8
+"OCEANIA","PN","Pitcairn","2007",NA
+"OCEANIA","PW","Paláu","2007",NA
+"OCEANIA","SB","Islas Salomón","2007",2972.7
+"OCEANIA","TK","Tokelau (Islas)","2007",57
+"OCEANIA","TO","Tonga","2007",NA
+"OCEANIA","TV","Tuvalu","2007",5.4
+"OCEANIA","UM","Islas Menores Alejadas","2007",2.7
+"OCEANIA","VU","Vanuatu","2007",8.8
+"OCEANIA","WF","Islas Wallis y Futuna","2007",NA
+"OCEANIA","WS","Samoa Occidental","2007",28.4
+"OCEANIA","Otros","Otros","2007",0.1
+"EUROPA","AD","Andorra","2006",83371
+"EUROPA","AL","Albania","2006",2838.9
+"EUROPA","AT","Austria","2006",2232537.8
+"EUROPA","BA","Bosnia-Herzegovina","2006",18551.5
+"EUROPA","BE","Bélgica","2006",7673251.3
+"EUROPA","BG","Bulgaria","2006",443741.9
+"EUROPA","BY","Belarús","2006",115402.6
+"EUROPA","CH","Suiza","2006",3452001.3
+"EUROPA","YU","Servia y Montenegro","2006",NA
+"EUROPA","CY","Chipre","2006",22580
+"EUROPA","CZ","República Checa","2006",1632961.4
+"EUROPA","DE","Alemania","2006",37280735.2
+"EUROPA","DK","Dinamarca","2006",1848919.6
+"EUROPA","EE","Estonia","2006",97708.3
+"EUROPA","FI","Finlandia","2006",1641840.7
+"EUROPA","FO","Islas Faroe","2006",32969.1
+"EUROPA","FR","Francia","2006",33519754.6
+"EUROPA","GB","Reino Unido","2006",13285318.5
+"EUROPA","GI","Gibraltar","2006",35712.1
+"EUROPA","GR","Grecia","2006",656325.8
+"EUROPA","HR","Croacia","2006",63227.7
+"EUROPA","HU","Hungría","2006",1706876.4
+"EUROPA","IE","Irlanda","2006",3976148.2
+"EUROPA","IS","Islandia","2006",173262.6
+"EUROPA","IT","Italia","2006",21712344.4
+"EUROPA","LI","Liechtenstein","2006",55420.8
+"EUROPA","LT","Lituania","2006",216165.1
+"EUROPA","LU","Luxemburgo","2006",426788.6
+"EUROPA","LV","Letonia","2006",116548.8
+"EUROPA","MD","Moldavia","2006",6515.3
+"EUROPA","ME","Montenegro","2006",162.8
+"EUROPA","MK","Macedonia","2006",43125.2
+"EUROPA","MT","Malta","2006",21890.8
+"EUROPA","NL","Países Bajos","2006",10508614.3
+"EUROPA","NO","Noruega","2006",2125621.5
+"EUROPA","PL","Polonia","2006",2147427.6
+"EUROPA","PT","Portugal","2006",8532806.6
+"EUROPA","RO","Rumania","2006",630112.7
+"EUROPA","RU","Rusia","2006",7423680.6
+"EUROPA","SE","Suecia","2006",3412575.9
+"EUROPA","SI","Eslovenia","2006",254309.4
+"EUROPA","SK","Eslovaquia","2006",754290.6
+"EUROPA","SM","San Marino","2006",16608.6
+"EUROPA","UA","Ucrania","2006",464834.5
+"EUROPA","VA","Ciudad del Vaticano","2006",1223.2
+"EUROPA","XK","Kosobo","2006",531.1
+"EUROPA","XS","Servia","2006",75436.6
+"AFRICA","AO","Angola","2006",376230.6
+"AFRICA","BF","Burkina Faso","2006",761.3
+"AFRICA","BI","Burundi","2006",180.8
+"AFRICA","BJ","Benín","2006",4169.7
+"AFRICA","BW","Botswana","2006",457
+"AFRICA","CD","República Democrática Del Congo","2006",3403.7
+"AFRICA","CF","República Centro Africana","2006",10634.8
+"AFRICA","CG","Congo (Republica)","2006",20911.2
+"AFRICA","CI","Costa de Marfil","2006",233570.8
+"AFRICA","CM","Camerún","2006",879450.5
+"AFRICA","CV","Cabo Verde","2006",14414.3
+"AFRICA","DJ","Djibouti","2006",51.4
+"AFRICA","DZ","Argelia","2006",4590704.5
+"AFRICA","EG","Egipto","2006",1585788.8
+"AFRICA","EH","Western Sahara","2006",NA
+"AFRICA","ER","Eritrea","2006",81.3
+"AFRICA","ET","Etiopia","2006",4015.5
+"AFRICA","GA","Gabón","2006",133131
+"AFRICA","GH","Ghana","2006",145087.9
+"AFRICA","GM","Gambia","2006",345.2
+"AFRICA","GN","Guinea","2006",107705.3
+"AFRICA","GQ","Guinea Ecuatorial","2006",830970.7
+"AFRICA","GW","Guinea-Bissau","2006",36.8
+"AFRICA","IO","Territorio Británico del Índico","2006",98.1
+"AFRICA","KE","Kenia","2006",25709.4
+"AFRICA","KM","Comores","2006",137.7
+"AFRICA","LR","Liberia","2006",115387.2
+"AFRICA","LS","Lesotho","2006",0.6
+"AFRICA","LY","Libia","2006",2986040.8
+"AFRICA","MA","Marruecos","2006",2457600.6
+"AFRICA","MG","Madagascar","2006",28223.2
+"AFRICA","ML","Malí","2006",2471.1
+"AFRICA","MR","Mauritania","2006",86746.8
+"AFRICA","MU","Mauricio","2006",63652.4
+"AFRICA","MW","Malawi","2006",5808.3
+"AFRICA","MZ","Mozambique","2006",202575.4
+"AFRICA","NA","Namibia","2006",171232.9
+"AFRICA","NE","Níger","2006",914.2
+"AFRICA","NG","Nigeria","2006",3787413.1
+"AFRICA","RW","Ruanda","2006",437.9
+"AFRICA","SC","Seychelles","2006",25196.3
+"AFRICA","SD","Sudan","2006",950.7
+"AFRICA","SH","Santa Elena","2006",593.5
+"AFRICA","SL","Sierra Leona","2006",1889.6
+"AFRICA","SN","Senegal","2006",45961.6
+"AFRICA","DO","Somalia","2006",68.1
+"AFRICA","SS","Sudan del Sur","2006",NA
+"AFRICA","ST","Santo Tomé/Príncipe","2006",5088.9
+"AFRICA","SZ","Swazilandia","2006",2969.2
+"AFRICA","TD","Chad","2006",525.9
+"AFRICA","TG","Togo","2006",7718
+"AFRICA","TN","Túnez","2006",657346.2
+"AFRICA","TZ","Tanzania","2006",21625
+"AFRICA","UG","Uganda","2006",19180.8
+"AFRICA","YT","Mayotte","2006",17
+"AFRICA","ZA","Sudáfrica","2006",1359859.6
+"AFRICA","ZM","Zambia","2006",15773
+"AFRICA","ZW","Zimbabwe","2006",31719.2
+"AMERICA","AG","Antigua y Barbuda","2006",68617.9
+"AMERICA","AI","Anguilla","2006",NA
+"AMERICA","AN","Antillas Neerlandesas","2006",10907.3
+"AMERICA","AR","Argentina","2006",1629413
+"AMERICA","AW","Aruba","2006",52752.1
+"AMERICA","BB","Barbados","2006",6087.9
+"AMERICA","BB","San Bartolome","2006",NA
+"AMERICA","BM","Bermudas","2006",233736
+"AMERICA","BO","Bolivia","2006",18795.5
+"AMERICA","BQ","Bonaire, San Eustaquio y Saba","2006",NA
+"AMERICA","BR","Brasil","2006",2164312.3
+"AMERICA","BS","Bahamas","2006",424827
+"AMERICA","BZ","Belice","2006",5771.3
+"AMERICA","CA","Canadá","2006",762144.4
+"AMERICA","CL","Chile","2006",1233445.5
+"AMERICA","CO","Colombia","2006",520420.6
+"AMERICA","CR","Costa Rica","2006",67573.7
+"AMERICA","CU","Cuba","2006",139318.4
+"AMERICA","CW","Curaçao","2006",NA
+"AMERICA","DM","Dominica","2006",82.8
+"AMERICA","DO","Republica Dominicana","2006",70306.7
+"AMERICA","EC","Ecuador","2006",290137.3
+"AMERICA","FK","Islas Malvinas","2006",87931.8
+"AMERICA","GD","Granada","2006",1.3
+"AMERICA","GL","Groenlandia","2006",7517.3
+"AMERICA","GT","Guatemala","2006",53399.9
+"AMERICA","GY","Guyana","2006",3555.2
+"AMERICA","HN","Honduras","2006",48226.9
+"AMERICA","HT","Haití","2006",2530.5
+"AMERICA","JM","Jamaica","2006",1395
+"AMERICA","KN","San Cristobal y Nieves","2006",25.2
+"AMERICA","KY","Islas Caimán","2006",856674.2
+"AMERICA","LC","Santa Lucia","2006",NA
+"AMERICA","MS","Montserrat","2006",0.8
+"AMERICA","MX","México","2006",2719853
+"AMERICA","NI","Nicaragua","2006",30635.3
+"AMERICA","PA","Panamá","2006",456429.1
+"AMERICA","PE","Perú","2006",662490.2
+"AMERICA","PM","San Pedro y Miquelón","2006",1473.5
+"AMERICA","PY","Paraguay","2006",43789.9
+"AMERICA","SR","Surinam","2006",2360.4
+"AMERICA","SV","El Salvador","2006",45691.3
+"AMERICA","SX","San Martin","2006",NA
+"AMERICA","TC","Islas Turcas y Caicos","2006",61.5
+"AMERICA","TT","Trinidad y Tobago","2006",628001.2
+"AMERICA","US","Estados Unidos","2006",8587397.2
+"AMERICA","UY","Uruguay","2006",126084.6
+"AMERICA","VC","San Vicente y las Islas Granadinas","2006",922.6
+"AMERICA","VE","Venezuela","2006",1843846.2
+"AMERICA","VG","Islas Vírgenes (GB)","2006",28485.6
+"AMERICA","VI","Islas Vírgenes (EE.UU)","2006",2271.4
+"ASIA","AE","Emiratos Árabes Unidos","2006",85224
+"ASIA","AF","Afganistán","2006",91
+"ASIA","AM","Armenia","2006",10463.2
+"ASIA","AZ","Azerbaiján","2006",4423.9
+"ASIA","BD","Bangla Desh","2006",469462.7
+"ASIA","BH","Bahréin","2006",31978.5
+"ASIA","BN","Brunei Darussalam","2006",27.8
+"ASIA","BT","Bután","2006",NA
+"ASIA","CN","China","2006",14369594.8
+"ASIA","GE","Georgia","2006",91430.6
+"ASIA","HK","Hong Kong","2006",537977.1
+"ASIA","ID","Indonesia","2006",1703812.9
+"ASIA","IL","Israel","2006",754686.1
+"ASIA","IN","India","2006",1858736.5
+"ASIA","IQ","Iraq","2006",1296243.6
+"ASIA","IR","Irán","2006",2002349.4
+"ASIA","JO","Jordania","2006",24414
+"ASIA","JP","Japón","2006",5917572.8
+"ASIA","KG","Kirguizistán","2006",291.3
+"ASIA","KH","Camboya (Campuchea)","2006",90358.1
+"ASIA","KP","Corea,Rep.Popular Democratica","2006",23819.8
+"ASIA","KR","Corea , Replublica de","2006",3864362
+"ASIA","KW","Kuwait","2006",54079.4
+"ASIA","KZ","Kazajstán","2006",832199.3
+"ASIA","LA","Laos","2006",4345.8
+"ASIA","LB","Líbano","2006",10841.6
+"ASIA","LK","Sri Lanka","2006",66340.3
+"ASIA","MM","Myanmar","2006",35449.7
+"ASIA","MN","Mongolia","2006",66.4
+"ASIA","MO","Macao","2006",26329.8
+"ASIA","MV","Maldivas (Islas)","2006",1324.3
+"ASIA","MY","Malasia","2006",805074.3
+"ASIA","NP","Nepal","2006",3719.5
+"ASIA","OM","Omán","2006",141440.7
+"ASIA","PH","Filipinas","2006",182322.2
+"ASIA","PK","Pakistán","2006",353587.1
+"ASIA","PS","Cisjordania/F.Gaza","2006",51.1
+"ASIA","QA","Qatar","2006",1107705
+"ASIA","SA","Arabia Saudita","2006",3061100.7
+"ASIA","SG","Singapur","2006",586217.6
+"ASIA","SY","Siria","2006",152596.9
+"ASIA","TH","Tailandia","2006",1263864.1
+"ASIA","TJ","Tajikistán","2006",1710.4
+"ASIA","TL","Timor-Este","2006",NA
+"ASIA","TM","Turkmenistán","2006",27081.4
+"ASIA","TR","Turquía","2006",3563449.7
+"ASIA","TW","Taiwán","2006",1303011
+"ASIA","UZ","Uzbekistán","2006",2872.1
+"ASIA","VN","Vietnam","2006",690883.8
+"ASIA","YE","Yemen","2006",31536.6
+"OCEANIA","AS","Samoa Americana","2006",1.9
+"OCEANIA","AU","Australia","2006",857428.6
+"OCEANIA","CC","Islas Cocos (Keeling)","2006",0.6
+"OCEANIA","CK","Islas Cook","2006",0.3
+"OCEANIA","CX","Isla Navidad","2006",NA
+"OCEANIA","FJ","Islas Fidyi","2006",48.1
+"OCEANIA","FM","Micronesia, Est. Fede.","2006",116.1
+"OCEANIA","GS","Georgia del Sur e Islas Sandwich Sur","2006",NA
+"OCEANIA","GU","Guam","2006",0.5
+"OCEANIA","HM","I. Heard e I. Mcdonald","2006",NA
+"OCEANIA","KI","Kiribati","2006",NA
+"OCEANIA","MH","Islas Marshall","2006",125694.5
+"OCEANIA","MP","I. Marianas del Norte","2006",252
+"OCEANIA","NC","Nueva Caledonia","2006",112935.9
+"OCEANIA","NR","Nauru","2006",3.7
+"OCEANIA","UN","Niue (Isla)","2006",42.4
+"OCEANIA","NZ","Nueva Zelanda","2006",151484.3
+"OCEANIA","PF","Polinesia Francesa","2006",1869.2
+"OCEANIA","PG","Papua Nueva Guinea","2006",27286.9
+"OCEANIA","PN","Pitcairn","2006",NA
+"OCEANIA","PW","Paláu","2006",NA
+"OCEANIA","SB","Islas Salomón","2006",NA
+"OCEANIA","TK","Tokelau (Islas)","2006",146.6
+"OCEANIA","TO","Tonga","2006",0.1
+"OCEANIA","TV","Tuvalu","2006",NA
+"OCEANIA","UM","Islas Menores Alejadas","2006",0.1
+"OCEANIA","VU","Vanuatu","2006",132
+"OCEANIA","WF","Islas Wallis y Futuna","2006",NA
+"OCEANIA","WS","Samoa Occidental","2006",80.9
+"OCEANIA","Otros","Otros","2006",NA
+"EUROPA","AD","Andorra","2005",69197.5
+"EUROPA","AL","Albania","2005",1452.6
+"EUROPA","AT","Austria","2005",1898015.9
+"EUROPA","BA","Bosnia-Herzegovina","2005",24310.2
+"EUROPA","BE","Bélgica","2005",7104846.9
+"EUROPA","BG","Bulgaria","2005",355949.5
+"EUROPA","BY","Belarús","2005",140953.9
+"EUROPA","CH","Suiza","2005",3219207.3
+"EUROPA","YU","Servia y Montenegro","2005",15989.4
+"EUROPA","CY","Chipre","2005",14451.1
+"EUROPA","CZ","República Checa","2005",1372329.5
+"EUROPA","DE","Alemania","2005",34357047.6
+"EUROPA","DK","Dinamarca","2005",1602073.4
+"EUROPA","EE","Estonia","2005",68586.9
+"EUROPA","FI","Finlandia","2005",1354854.6
+"EUROPA","FO","Islas Faroe","2005",31589
+"EUROPA","FR","Francia","2005",32851299.2
+"EUROPA","GB","Reino Unido","2005",13235571.8
+"EUROPA","GI","Gibraltar","2005",27800.7
+"EUROPA","GR","Grecia","2005",522924
+"EUROPA","HR","Croacia","2005",47110.5
+"EUROPA","HU","Hungría","2005",1454542.8
+"EUROPA","IE","Irlanda","2005",3502429.3
+"EUROPA","IS","Islandia","2005",174294
+"EUROPA","IT","Italia","2005",19891475.1
+"EUROPA","LI","Liechtenstein","2005",47983.4
+"EUROPA","LT","Lituania","2005",190862.1
+"EUROPA","LU","Luxemburgo","2005",365823
+"EUROPA","LV","Letonia","2005",72716.1
+"EUROPA","MD","Moldavia","2005",3547.2
+"EUROPA","ME","Montenegro","2005",125.4
+"EUROPA","MK","Macedonia","2005",23312.1
+"EUROPA","MT","Malta","2005",19743.1
+"EUROPA","NL","Países Bajos","2005",9395568.8
+"EUROPA","NO","Noruega","2005",2088670.3
+"EUROPA","PL","Polonia","2005",1439785.6
+"EUROPA","PT","Portugal","2005",7512438.2
+"EUROPA","RO","Rumania","2005",588952.3
+"EUROPA","RU","Rusia","2005",5189968
+"EUROPA","SE","Suecia","2005",2984417.9
+"EUROPA","SI","Eslovenia","2005",208800.6
+"EUROPA","SK","Eslovaquia","2005",455231.8
+"EUROPA","SM","San Marino","2005",13429.7
+"EUROPA","UA","Ucrania","2005",669408
+"EUROPA","VA","Ciudad del Vaticano","2005",607.3
+"EUROPA","XK","Kosobo","2005",0.3
+"EUROPA","XS","Servia","2005",39737.8
+"AFRICA","AO","Angola","2005",542603.2
+"AFRICA","BF","Burkina Faso","2005",2204.6
+"AFRICA","BI","Burundi","2005",1329.3
+"AFRICA","BJ","Benín","2005",4179.4
+"AFRICA","BW","Botswana","2005",497.5
+"AFRICA","CD","República Democrática Del Congo","2005",3653.6
+"AFRICA","CF","República Centro Africana","2005",9007.7
+"AFRICA","CG","Congo (Republica)","2005",25934.7
+"AFRICA","CI","Costa de Marfil","2005",196796.4
+"AFRICA","CM","Camerún","2005",556909.1
+"AFRICA","CV","Cabo Verde","2005",8906.5
+"AFRICA","DJ","Djibouti","2005",39.8
+"AFRICA","DZ","Argelia","2005",4079763.8
+"AFRICA","EG","Egipto","2005",1062767.1
+"AFRICA","EH","Western Sahara","2005",NA
+"AFRICA","ER","Eritrea","2005",13.7
+"AFRICA","ET","Etiopia","2005",4762
+"AFRICA","GA","Gabón","2005",105609.1
+"AFRICA","GH","Ghana","2005",51531.6
+"AFRICA","GM","Gambia","2005",22.4
+"AFRICA","GN","Guinea","2005",119887
+"AFRICA","GQ","Guinea Ecuatorial","2005",594554.6
+"AFRICA","GW","Guinea-Bissau","2005",27
+"AFRICA","IO","Territorio Británico del Índico","2005",NA
+"AFRICA","KE","Kenia","2005",21538
+"AFRICA","KM","Comores","2005",127
+"AFRICA","LR","Liberia","2005",134988.5
+"AFRICA","LS","Lesotho","2005",62.1
+"AFRICA","LY","Libia","2005",2405915
+"AFRICA","MA","Marruecos","2005",2113218.3
+"AFRICA","MG","Madagascar","2005",15941.1
+"AFRICA","ML","Malí","2005",1132.9
+"AFRICA","MR","Mauritania","2005",61721.9
+"AFRICA","MU","Mauricio","2005",43619
+"AFRICA","MW","Malawi","2005",13372.6
+"AFRICA","MZ","Mozambique","2005",203178.2
+"AFRICA","NA","Namibia","2005",172317.7
+"AFRICA","NE","Níger","2005",1805.6
+"AFRICA","NG","Nigeria","2005",3152613.1
+"AFRICA","RW","Ruanda","2005",1066.5
+"AFRICA","SC","Seychelles","2005",75261.9
+"AFRICA","SD","Sudan","2005",2330.7
+"AFRICA","SH","Santa Elena","2005",621.5
+"AFRICA","SL","Sierra Leona","2005",1030.2
+"AFRICA","SN","Senegal","2005",47177.5
+"AFRICA","DO","Somalia","2005",23.6
+"AFRICA","SS","Sudan del Sur","2005",NA
+"AFRICA","ST","Santo Tomé/Príncipe","2005",590.8
+"AFRICA","SZ","Swazilandia","2005",2250.2
+"AFRICA","TD","Chad","2005",303.8
+"AFRICA","TG","Togo","2005",10896.8
+"AFRICA","TN","Túnez","2005",509297.4
+"AFRICA","TZ","Tanzania","2005",17742.8
+"AFRICA","UG","Uganda","2005",21943.1
+"AFRICA","YT","Mayotte","2005",0.2
+"AFRICA","ZA","Sudáfrica","2005",1265894.1
+"AFRICA","ZM","Zambia","2005",11117.6
+"AFRICA","ZW","Zimbabwe","2005",36510.8
+"AMERICA","AG","Antigua y Barbuda","2005",57051.2
+"AMERICA","AI","Anguilla","2005",2.2
+"AMERICA","AN","Antillas Neerlandesas","2005",6440.6
+"AMERICA","AR","Argentina","2005",1475847.6
+"AMERICA","AW","Aruba","2005",116737.1
+"AMERICA","BB","Barbados","2005",37138
+"AMERICA","BB","San Bartolome","2005",NA
+"AMERICA","BM","Bermudas","2005",194468.3
+"AMERICA","BO","Bolivia","2005",18610.1
+"AMERICA","BQ","Bonaire, San Eustaquio y Saba","2005",NA
+"AMERICA","BR","Brasil","2005",2074491.3
+"AMERICA","BS","Bahamas","2005",636169.4
+"AMERICA","BZ","Belice","2005",2784.9
+"AMERICA","CA","Canadá","2005",980270.3
+"AMERICA","CL","Chile","2005",909125.1
+"AMERICA","CO","Colombia","2005",350972.9
+"AMERICA","CR","Costa Rica","2005",60486.2
+"AMERICA","CU","Cuba","2005",136938.8
+"AMERICA","CW","Curaçao","2005",NA
+"AMERICA","DM","Dominica","2005",198.1
+"AMERICA","DO","Republica Dominicana","2005",53032.7
+"AMERICA","EC","Ecuador","2005",222786.8
+"AMERICA","FK","Islas Malvinas","2005",106553.2
+"AMERICA","GD","Granada","2005",25.9
+"AMERICA","GL","Groenlandia","2005",21345.5
+"AMERICA","GT","Guatemala","2005",47353.6
+"AMERICA","GY","Guyana","2005",3524.2
+"AMERICA","HN","Honduras","2005",43537.1
+"AMERICA","HT","Haití","2005",1684.3
+"AMERICA","JM","Jamaica","2005",2836.7
+"AMERICA","KN","San Cristobal y Nieves","2005",204.8
+"AMERICA","KY","Islas Caimán","2005",422970.4
+"AMERICA","LC","Santa Lucia","2005",2.5
+"AMERICA","MS","Montserrat","2005",0.7
+"AMERICA","MX","México","2005",2717800.4
+"AMERICA","NI","Nicaragua","2005",26210.4
+"AMERICA","PA","Panamá","2005",246885.2
+"AMERICA","PE","Perú","2005",489361
+"AMERICA","PM","San Pedro y Miquelón","2005",1275
+"AMERICA","PY","Paraguay","2005",11920.6
+"AMERICA","SR","Surinam","2005",1124.7
+"AMERICA","SV","El Salvador","2005",51112.2
+"AMERICA","SX","San Martin","2005",NA
+"AMERICA","TC","Islas Turcas y Caicos","2005",27.4
+"AMERICA","TT","Trinidad y Tobago","2005",89163.5
+"AMERICA","US","Estados Unidos","2005",7484477.8
+"AMERICA","UY","Uruguay","2005",140546.6
+"AMERICA","VC","San Vicente y las Islas Granadinas","2005",2492.2
+"AMERICA","VE","Venezuela","2005",791894.1
+"AMERICA","VG","Islas Vírgenes (GB)","2005",12864.1
+"AMERICA","VI","Islas Vírgenes (EE.UU)","2005",822.5
+"ASIA","AE","Emiratos Árabes Unidos","2005",110222.6
+"ASIA","AF","Afganistán","2005",1069
+"ASIA","AM","Armenia","2005",19435.7
+"ASIA","AZ","Azerbaiján","2005",1192.7
+"ASIA","BD","Bangla Desh","2005",365005.6
+"ASIA","BH","Bahréin","2005",54348.1
+"ASIA","BN","Brunei Darussalam","2005",1173.4
+"ASIA","BT","Bután","2005",NA
+"ASIA","CN","China","2005",11709355.5
+"ASIA","GE","Georgia","2005",42147.8
+"ASIA","HK","Hong Kong","2005",441667.9
+"ASIA","ID","Indonesia","2005",1420963.9
+"ASIA","IL","Israel","2005",594721.8
+"ASIA","IN","India","2005",1554849.2
+"ASIA","IQ","Iraq","2005",989856.8
+"ASIA","IR","Irán","2005",1556986.7
+"ASIA","JO","Jordania","2005",26618.8
+"ASIA","JP","Japón","2005",5922600.9
+"ASIA","KG","Kirguizistán","2005",3012.4
+"ASIA","KH","Camboya (Campuchea)","2005",46039.5
+"ASIA","KP","Corea,Rep.Popular Democratica","2005",11090.9
+"ASIA","KR","Corea , Replublica de","2005",2982816.2
+"ASIA","KW","Kuwait","2005",45679.8
+"ASIA","KZ","Kazajstán","2005",512478.4
+"ASIA","LA","Laos","2005",4326.8
+"ASIA","LB","Líbano","2005",14224.6
+"ASIA","LK","Sri Lanka","2005",70769.3
+"ASIA","MM","Myanmar","2005",18124.7
+"ASIA","MN","Mongolia","2005",68.1
+"ASIA","MO","Macao","2005",15367.9
+"ASIA","MV","Maldivas (Islas)","2005",79.1
+"ASIA","MY","Malasia","2005",678299.4
+"ASIA","NP","Nepal","2005",3854.8
+"ASIA","OM","Omán","2005",237387.1
+"ASIA","PH","Filipinas","2005",141266.7
+"ASIA","PK","Pakistán","2005",293740.3
+"ASIA","PS","Cisjordania/F.Gaza","2005",104.4
+"ASIA","QA","Qatar","2005",788683.2
+"ASIA","SA","Arabia Saudita","2005",2454957.6
+"ASIA","SG","Singapur","2005",372750.8
+"ASIA","SY","Siria","2005",211693.1
+"ASIA","TH","Tailandia","2005",1158351
+"ASIA","TJ","Tajikistán","2005",1312.9
+"ASIA","TL","Timor-Este","2005",3.8
+"ASIA","TM","Turkmenistán","2005",21503
+"ASIA","TR","Turquía","2005",2883583.1
+"ASIA","TW","Taiwán","2005",1108100.6
+"ASIA","UZ","Uzbekistán","2005",3809.7
+"ASIA","VN","Vietnam","2005",547372
+"ASIA","YE","Yemen","2005",26373.5
+"OCEANIA","AS","Samoa Americana","2005",1.9
+"OCEANIA","AU","Australia","2005",660867.6
+"OCEANIA","CC","Islas Cocos (Keeling)","2005",35.4
+"OCEANIA","CK","Islas Cook","2005",82.6
+"OCEANIA","CX","Isla Navidad","2005",NA
+"OCEANIA","FJ","Islas Fidyi","2005",59.2
+"OCEANIA","FM","Micronesia, Est. Fede.","2005",3.7
+"OCEANIA","GS","Georgia del Sur e Islas Sandwich Sur","2005",NA
+"OCEANIA","GU","Guam","2005",1.9
+"OCEANIA","HM","I. Heard e I. Mcdonald","2005",NA
+"OCEANIA","KI","Kiribati","2005",0.2
+"OCEANIA","MH","Islas Marshall","2005",120542.6
+"OCEANIA","MP","I. Marianas del Norte","2005",91.3
+"OCEANIA","NC","Nueva Caledonia","2005",77903.7
+"OCEANIA","NR","Nauru","2005",9.2
+"OCEANIA","UN","Niue (Isla)","2005",NA
+"OCEANIA","NZ","Nueva Zelanda","2005",167285.3
+"OCEANIA","PF","Polinesia Francesa","2005",1738.2
+"OCEANIA","PG","Papua Nueva Guinea","2005",22986.3
+"OCEANIA","PN","Pitcairn","2005",NA
+"OCEANIA","PW","Paláu","2005",NA
+"OCEANIA","SB","Islas Salomón","2005",NA
+"OCEANIA","TK","Tokelau (Islas)","2005",135.8
+"OCEANIA","TO","Tonga","2005",NA
+"OCEANIA","TV","Tuvalu","2005",1.7
+"OCEANIA","UM","Islas Menores Alejadas","2005",0.2
+"OCEANIA","VU","Vanuatu","2005",44.4
+"OCEANIA","WF","Islas Wallis y Futuna","2005",NA
+"OCEANIA","WS","Samoa Occidental","2005",5
+"OCEANIA","Otros","Otros","2005",NA
+"EUROPA","AD","Andorra","2004",47006.3
+"EUROPA","AL","Albania","2004",2024.6
+"EUROPA","AT","Austria","2004",2006731.4
+"EUROPA","BA","Bosnia-Herzegovina","2004",24660.3
+"EUROPA","BE","Bélgica","2004",6424704.2
+"EUROPA","BG","Bulgaria","2004",273283
+"EUROPA","BY","Belarús","2004",77742.6
+"EUROPA","CH","Suiza","2004",3106341.1
+"EUROPA","YU","Servia y Montenegro","2004",23024.7
+"EUROPA","CY","Chipre","2004",15180.2
+"EUROPA","CZ","República Checa","2004",1082712.3
+"EUROPA","DE","Alemania","2004",33365929.9
+"EUROPA","DK","Dinamarca","2004",1502541.1
+"EUROPA","EE","Estonia","2004",56176.1
+"EUROPA","FI","Finlandia","2004",1340020
+"EUROPA","FO","Islas Faroe","2004",32218.1
+"EUROPA","FR","Francia","2004",31840440.6
+"EUROPA","GB","Reino Unido","2004",12794431
+"EUROPA","GI","Gibraltar","2004",28977.7
+"EUROPA","GR","Grecia","2004",434948
+"EUROPA","HR","Croacia","2004",28710.4
+"EUROPA","HU","Hungría","2004",1308998.7
+"EUROPA","IE","Irlanda","2004",2769332.5
+"EUROPA","IS","Islandia","2004",168701.8
+"EUROPA","IT","Italia","2004",18946937.4
+"EUROPA","LI","Liechtenstein","2004",41440
+"EUROPA","LT","Lituania","2004",103245.9
+"EUROPA","LU","Luxemburgo","2004",317514.1
+"EUROPA","LV","Letonia","2004",55650.1
+"EUROPA","MD","Moldavia","2004",17829.7
+"EUROPA","ME","Montenegro","2004",NA
+"EUROPA","MK","Macedonia","2004",23138.7
+"EUROPA","MT","Malta","2004",21125.8
+"EUROPA","NL","Países Bajos","2004",8522881.4
+"EUROPA","NO","Noruega","2004",1649136.4
+"EUROPA","PL","Polonia","2004",1636449.1
+"EUROPA","PT","Portugal","2004",6797609.9
+"EUROPA","RO","Rumania","2004",444439.9
+"EUROPA","RU","Rusia","2004",3650548.4
+"EUROPA","SE","Suecia","2004",2703503.1
+"EUROPA","SI","Eslovenia","2004",157740.2
+"EUROPA","SK","Eslovaquia","2004",293397.2
+"EUROPA","SM","San Marino","2004",11862.6
+"EUROPA","UA","Ucrania","2004",395568.6
+"EUROPA","VA","Ciudad del Vaticano","2004",1195.5
+"EUROPA","XK","Kosobo","2004",NA
+"EUROPA","XS","Servia","2004",NA
+"AFRICA","AO","Angola","2004",168766.7
+"AFRICA","BF","Burkina Faso","2004",5330.1
+"AFRICA","BI","Burundi","2004",329.5
+"AFRICA","BJ","Benín","2004",929.3
+"AFRICA","BW","Botswana","2004",1757.4
+"AFRICA","CD","República Democrática Del Congo","2004",2414
+"AFRICA","CF","República Centro Africana","2004",9394.7
+"AFRICA","CG","Congo (Republica)","2004",26430.8
+"AFRICA","CI","Costa de Marfil","2004",210036.2
+"AFRICA","CM","Camerún","2004",467328
+"AFRICA","CV","Cabo Verde","2004",136.8
+"AFRICA","DJ","Djibouti","2004",394.6
+"AFRICA","DZ","Argelia","2004",2893584.2
+"AFRICA","EG","Egipto","2004",456546.9
+"AFRICA","EH","Western Sahara","2004",NA
+"AFRICA","ER","Eritrea","2004",332.5
+"AFRICA","ET","Etiopia","2004",3304
+"AFRICA","GA","Gabón","2004",60248.4
+"AFRICA","GH","Ghana","2004",58342.8
+"AFRICA","GM","Gambia","2004",299.9
+"AFRICA","GN","Guinea","2004",105786.8
+"AFRICA","GQ","Guinea Ecuatorial","2004",550394.9
+"AFRICA","GW","Guinea-Bissau","2004",42
+"AFRICA","IO","Territorio Británico del Índico","2004",NA
+"AFRICA","KE","Kenia","2004",23023
+"AFRICA","KM","Comores","2004",12
+"AFRICA","LR","Liberia","2004",182.4
+"AFRICA","LS","Lesotho","2004",51.3
+"AFRICA","LY","Libia","2004",2026224
+"AFRICA","MA","Marruecos","2004",1882640.7
+"AFRICA","MG","Madagascar","2004",15274
+"AFRICA","ML","Malí","2004",2908.8
+"AFRICA","MR","Mauritania","2004",71486.2
+"AFRICA","MU","Mauricio","2004",29249.9
+"AFRICA","MW","Malawi","2004",3580.2
+"AFRICA","MZ","Mozambique","2004",153267.8
+"AFRICA","NA","Namibia","2004",198597.8
+"AFRICA","NE","Níger","2004",3373.9
+"AFRICA","NG","Nigeria","2004",2059091.3
+"AFRICA","RW","Ruanda","2004",2633.5
+"AFRICA","SC","Seychelles","2004",40812
+"AFRICA","SD","Sudan","2004",2256.7
+"AFRICA","SH","Santa Elena","2004",1044.5
+"AFRICA","SL","Sierra Leona","2004",240.1
+"AFRICA","SN","Senegal","2004",51547.2
+"AFRICA","DO","Somalia","2004",313.5
+"AFRICA","SS","Sudan del Sur","2004",NA
+"AFRICA","ST","Santo Tomé/Príncipe","2004",232.5
+"AFRICA","SZ","Swazilandia","2004",2584.1
+"AFRICA","TD","Chad","2004",1315.4
+"AFRICA","TG","Togo","2004",7242.6
+"AFRICA","TN","Túnez","2004",474571.6
+"AFRICA","TZ","Tanzania","2004",90317.2
+"AFRICA","UG","Uganda","2004",20680.9
+"AFRICA","YT","Mayotte","2004",15.3
+"AFRICA","ZA","Sudáfrica","2004",1171603
+"AFRICA","ZM","Zambia","2004",2919.4
+"AFRICA","ZW","Zimbabwe","2004",33521
+"AMERICA","AG","Antigua y Barbuda","2004",75.1
+"AMERICA","AI","Anguilla","2004",NA
+"AMERICA","AN","Antillas Neerlandesas","2004",11546.2
+"AMERICA","AR","Argentina","2004",1427869.4
+"AMERICA","AW","Aruba","2004",33710.5
+"AMERICA","BB","Barbados","2004",15652.8
+"AMERICA","BB","San Bartolome","2004",NA
+"AMERICA","BM","Bermudas","2004",31188
+"AMERICA","BO","Bolivia","2004",16436.5
+"AMERICA","BQ","Bonaire, San Eustaquio y Saba","2004",NA
+"AMERICA","BR","Brasil","2004",1909142.5
+"AMERICA","BS","Bahamas","2004",165895.7
+"AMERICA","BZ","Belice","2004",1021.3
+"AMERICA","CA","Canadá","2004",918062.3
+"AMERICA","CL","Chile","2004",743750.8
+"AMERICA","CO","Colombia","2004",238377.9
+"AMERICA","CR","Costa Rica","2004",55295.1
+"AMERICA","CU","Cuba","2004",131056.3
+"AMERICA","CW","Curaçao","2004",NA
+"AMERICA","DM","Dominica","2004",106.8
+"AMERICA","DO","Republica Dominicana","2004",83220.1
+"AMERICA","EC","Ecuador","2004",145124.3
+"AMERICA","FK","Islas Malvinas","2004",84583.5
+"AMERICA","GD","Granada","2004",128.6
+"AMERICA","GL","Groenlandia","2004",15756
+"AMERICA","GT","Guatemala","2004",33481
+"AMERICA","GY","Guyana","2004",5098.6
+"AMERICA","HN","Honduras","2004",44796
+"AMERICA","HT","Haití","2004",1263.2
+"AMERICA","JM","Jamaica","2004",17058.8
+"AMERICA","KN","San Cristobal y Nieves","2004",105.3
+"AMERICA","KY","Islas Caimán","2004",345843.8
+"AMERICA","LC","Santa Lucia","2004",3.1
+"AMERICA","MS","Montserrat","2004",1105
+"AMERICA","MX","México","2004",1789165.3
+"AMERICA","NI","Nicaragua","2004",19286.1
+"AMERICA","PA","Panamá","2004",37394.3
+"AMERICA","PE","Perú","2004",366310.2
+"AMERICA","PM","San Pedro y Miquelón","2004",882.3
+"AMERICA","PY","Paraguay","2004",10434.8
+"AMERICA","SR","Surinam","2004",968
+"AMERICA","SV","El Salvador","2004",28812.4
+"AMERICA","SX","San Martin","2004",NA
+"AMERICA","TC","Islas Turcas y Caicos","2004",3.8
+"AMERICA","TT","Trinidad y Tobago","2004",25786.7
+"AMERICA","US","Estados Unidos","2004",7494142.4
+"AMERICA","UY","Uruguay","2004",104643.2
+"AMERICA","VC","San Vicente y las Islas Granadinas","2004",44728.4
+"AMERICA","VE","Venezuela","2004",333413.4
+"AMERICA","VG","Islas Vírgenes (GB)","2004",49323.6
+"AMERICA","VI","Islas Vírgenes (EE.UU)","2004",671.6
+"ASIA","AE","Emiratos Árabes Unidos","2004",92045.7
+"ASIA","AF","Afganistán","2004",1108.6
+"ASIA","AM","Armenia","2004",8700
+"ASIA","AZ","Azerbaiján","2004",10885.2
+"ASIA","BD","Bangla Desh","2004",329745.3
+"ASIA","BH","Bahréin","2004",12190.5
+"ASIA","BN","Brunei Darussalam","2004",16.2
+"ASIA","BT","Bután","2004",NA
+"ASIA","CN","China","2004",8531327.1
+"ASIA","GE","Georgia","2004",102977.6
+"ASIA","HK","Hong Kong","2004",287991.9
+"ASIA","ID","Indonesia","2004",1153187.5
+"ASIA","IL","Israel","2004",564310.7
+"ASIA","IN","India","2004",1290749
+"ASIA","IQ","Iraq","2004",1036807.5
+"ASIA","IR","Irán","2004",869341.6
+"ASIA","JO","Jordania","2004",19572
+"ASIA","JP","Japón","2004",5749783.7
+"ASIA","KG","Kirguizistán","2004",9683
+"ASIA","KH","Camboya (Campuchea)","2004",40205.5
+"ASIA","KP","Corea,Rep.Popular Democratica","2004",5336.6
+"ASIA","KR","Corea , Replublica de","2004",2673049.5
+"ASIA","KW","Kuwait","2004",75193.5
+"ASIA","KZ","Kazajstán","2004",432936.6
+"ASIA","LA","Laos","2004",3494
+"ASIA","LB","Líbano","2004",14730.8
+"ASIA","LK","Sri Lanka","2004",53965
+"ASIA","MM","Myanmar","2004",38018.9
+"ASIA","MN","Mongolia","2004",53
+"ASIA","MO","Macao","2004",25955.8
+"ASIA","MV","Maldivas (Islas)","2004",456.2
+"ASIA","MY","Malasia","2004",665339.5
+"ASIA","NP","Nepal","2004",3919.4
+"ASIA","OM","Omán","2004",107935
+"ASIA","PH","Filipinas","2004",171450.1
+"ASIA","PK","Pakistán","2004",296334.9
+"ASIA","PS","Cisjordania/F.Gaza","2004",45
+"ASIA","QA","Qatar","2004",571281
+"ASIA","SA","Arabia Saudita","2004",1907236.3
+"ASIA","SG","Singapur","2004",442962.4
+"ASIA","SY","Siria","2004",222743.6
+"ASIA","TH","Tailandia","2004",1098606.4
+"ASIA","TJ","Tajikistán","2004",2262.9
+"ASIA","TL","Timor-Este","2004",NA
+"ASIA","TM","Turkmenistán","2004",29241.7
+"ASIA","TR","Turquía","2004",2456818.2
+"ASIA","TW","Taiwán","2004",1005510.8
+"ASIA","UZ","Uzbekistán","2004",8638.2
+"ASIA","VN","Vietnam","2004",459939.7
+"ASIA","YE","Yemen","2004",10352.5
+"OCEANIA","AS","Samoa Americana","2004",13.8
+"OCEANIA","AU","Australia","2004",494017.8
+"OCEANIA","CC","Islas Cocos (Keeling)","2004",NA
+"OCEANIA","CK","Islas Cook","2004",0.2
+"OCEANIA","CX","Isla Navidad","2004",NA
+"OCEANIA","FJ","Islas Fidyi","2004",47.7
+"OCEANIA","FM","Micronesia, Est. Fede.","2004",1.3
+"OCEANIA","GS","Georgia del Sur e Islas Sandwich Sur","2004",NA
+"OCEANIA","GU","Guam","2004",0.3
+"OCEANIA","HM","I. Heard e I. Mcdonald","2004",0.1
+"OCEANIA","KI","Kiribati","2004",NA
+"OCEANIA","MH","Islas Marshall","2004",10783
+"OCEANIA","MP","I. Marianas del Norte","2004",396.9
+"OCEANIA","NC","Nueva Caledonia","2004",70824.5
+"OCEANIA","NR","Nauru","2004",41.1
+"OCEANIA","UN","Niue (Isla)","2004",NA
+"OCEANIA","NZ","Nueva Zelanda","2004",150665.5
+"OCEANIA","PF","Polinesia Francesa","2004",1583.9
+"OCEANIA","PG","Papua Nueva Guinea","2004",17811.7
+"OCEANIA","PN","Pitcairn","2004",NA
+"OCEANIA","PW","Paláu","2004",NA
+"OCEANIA","SB","Islas Salomón","2004",8.2
+"OCEANIA","TK","Tokelau (Islas)","2004",424.9
+"OCEANIA","TO","Tonga","2004",NA
+"OCEANIA","TV","Tuvalu","2004",0.1
+"OCEANIA","UM","Islas Menores Alejadas","2004",1.5
+"OCEANIA","VU","Vanuatu","2004",24.8
+"OCEANIA","WF","Islas Wallis y Futuna","2004",NA
+"OCEANIA","WS","Samoa Occidental","2004",10.3
+"OCEANIA","Otros","Otros","2004",7.9
+"EUROPA","AD","Andorra","2003",38356.7
+"EUROPA","AL","Albania","2003",6557.8
+"EUROPA","AT","Austria","2003",1839399.7
+"EUROPA","BA","Bosnia-Herzegovina","2003",19169
+"EUROPA","BE","Bélgica","2003",5570961.3
+"EUROPA","BG","Bulgaria","2003",176403.7
+"EUROPA","BY","Belarús","2003",43147.8
+"EUROPA","CH","Suiza","2003",2503241.4
+"EUROPA","YU","Servia y Montenegro","2003",35479.7
+"EUROPA","CY","Chipre","2003",14952.9
+"EUROPA","CZ","República Checa","2003",912075.5
+"EUROPA","DE","Alemania","2003",30222996.5
+"EUROPA","DK","Dinamarca","2003",1482246.5
+"EUROPA","EE","Estonia","2003",47024.3
+"EUROPA","FI","Finlandia","2003",1391034.5
+"EUROPA","FO","Islas Faroe","2003",36333.1
+"EUROPA","FR","Francia","2003",29768395.7
+"EUROPA","GB","Reino Unido","2003",11866511.2
+"EUROPA","GI","Gibraltar","2003",1752
+"EUROPA","GR","Grecia","2003",450665.6
+"EUROPA","HR","Croacia","2003",36154
+"EUROPA","HU","Hungría","2003",1115672.6
+"EUROPA","IE","Irlanda","2003",2605009.1
+"EUROPA","IS","Islandia","2003",145004.3
+"EUROPA","IT","Italia","2003",16933040.1
+"EUROPA","LI","Liechtenstein","2003",40718.8
+"EUROPA","LT","Lituania","2003",199226.6
+"EUROPA","LU","Luxemburgo","2003",256507
+"EUROPA","LV","Letonia","2003",41179
+"EUROPA","MD","Moldavia","2003",20965.8
+"EUROPA","ME","Montenegro","2003",NA
+"EUROPA","MK","Macedonia","2003",15720.4
+"EUROPA","MT","Malta","2003",50359.7
+"EUROPA","NL","Países Bajos","2003",7406516
+"EUROPA","NO","Noruega","2003",1386381.8
+"EUROPA","PL","Polonia","2003",1203443.4
+"EUROPA","PT","Portugal","2003",5995396.2
+"EUROPA","RO","Rumania","2003",335704.5
+"EUROPA","RU","Rusia","2003",2896279.2
+"EUROPA","SE","Suecia","2003",2714923.6
+"EUROPA","SI","Eslovenia","2003",149411
+"EUROPA","SK","Eslovaquia","2003",295466
+"EUROPA","SM","San Marino","2003",11583.5
+"EUROPA","UA","Ucrania","2003",283042.3
+"EUROPA","VA","Ciudad del Vaticano","2003",102.8
+"EUROPA","XK","Kosobo","2003",NA
+"EUROPA","XS","Servia","2003",NA
+"AFRICA","AO","Angola","2003",29502.3
+"AFRICA","BF","Burkina Faso","2003",2587.8
+"AFRICA","BI","Burundi","2003",371.6
+"AFRICA","BJ","Benín","2003",3825.1
+"AFRICA","BW","Botswana","2003",1175.5
+"AFRICA","CD","República Democrática Del Congo","2003",2920.2
+"AFRICA","CF","República Centro Africana","2003",11739.2
+"AFRICA","CG","Congo (Republica)","2003",26726.2
+"AFRICA","CI","Costa de Marfil","2003",314322.6
+"AFRICA","CM","Camerún","2003",494733.7
+"AFRICA","CV","Cabo Verde","2003",56.1
+"AFRICA","DJ","Djibouti","2003",0.1
+"AFRICA","DZ","Argelia","2003",2828602.4
+"AFRICA","EG","Egipto","2003",317544.1
+"AFRICA","EH","Western Sahara","2003",NA
+"AFRICA","ER","Eritrea","2003",471.6
+"AFRICA","ET","Etiopia","2003",3111.3
+"AFRICA","GA","Gabón","2003",25634.8
+"AFRICA","GH","Ghana","2003",73276.6
+"AFRICA","GM","Gambia","2003",285.4
+"AFRICA","GN","Guinea","2003",81815.6
+"AFRICA","GQ","Guinea Ecuatorial","2003",646594.1
+"AFRICA","GW","Guinea-Bissau","2003",73
+"AFRICA","IO","Territorio Británico del Índico","2003",0.8
+"AFRICA","KE","Kenia","2003",17196.9
+"AFRICA","KM","Comores","2003",17
+"AFRICA","LR","Liberia","2003",18283.3
+"AFRICA","LS","Lesotho","2003",15.3
+"AFRICA","LY","Libia","2003",1808317.2
+"AFRICA","MA","Marruecos","2003",1604682.8
+"AFRICA","MG","Madagascar","2003",14149
+"AFRICA","ML","Malí","2003",4727.5
+"AFRICA","MR","Mauritania","2003",67494
+"AFRICA","MU","Mauricio","2003",32146.8
+"AFRICA","MW","Malawi","2003",8374.7
+"AFRICA","MZ","Mozambique","2003",96406.7
+"AFRICA","NA","Namibia","2003",206624.7
+"AFRICA","NE","Níger","2003",903
+"AFRICA","NG","Nigeria","2003",2009657.2
+"AFRICA","RW","Ruanda","2003",823.8
+"AFRICA","SC","Seychelles","2003",17840
+"AFRICA","SD","Sudan","2003",4796.9
+"AFRICA","SH","Santa Elena","2003",1347.6
+"AFRICA","SL","Sierra Leona","2003",1133.2
+"AFRICA","SN","Senegal","2003",45764.8
+"AFRICA","DO","Somalia","2003",50.3
+"AFRICA","SS","Sudan del Sur","2003",NA
+"AFRICA","ST","Santo Tomé/Príncipe","2003",59.3
+"AFRICA","SZ","Swazilandia","2003",2839.1
+"AFRICA","TD","Chad","2003",3282.9
+"AFRICA","TG","Togo","2003",7994.9
+"AFRICA","TN","Túnez","2003",348199.6
+"AFRICA","TZ","Tanzania","2003",17596.5
+"AFRICA","UG","Uganda","2003",25332.9
+"AFRICA","YT","Mayotte","2003",45.7
+"AFRICA","ZA","Sudáfrica","2003",936531.2
+"AFRICA","ZM","Zambia","2003",1941.7
+"AFRICA","ZW","Zimbabwe","2003",33027.1
+"AMERICA","AG","Antigua y Barbuda","2003",843.9
+"AMERICA","AI","Anguilla","2003",NA
+"AMERICA","AN","Antillas Neerlandesas","2003",32265.2
+"AMERICA","AR","Argentina","2003",1450748.3
+"AMERICA","AW","Aruba","2003",5879.6
+"AMERICA","BB","Barbados","2003",4606.8
+"AMERICA","BB","San Bartolome","2003",NA
+"AMERICA","BM","Bermudas","2003",19815.3
+"AMERICA","BO","Bolivia","2003",11182.2
+"AMERICA","BQ","Bonaire, San Eustaquio y Saba","2003",NA
+"AMERICA","BR","Brasil","2003",1675704.2
+"AMERICA","BS","Bahamas","2003",132570.6
+"AMERICA","BZ","Belice","2003",504.5
+"AMERICA","CA","Canadá","2003",622760.2
+"AMERICA","CL","Chile","2003",536019.9
+"AMERICA","CO","Colombia","2003",223502.7
+"AMERICA","CR","Costa Rica","2003",62069.1
+"AMERICA","CU","Cuba","2003",130382.7
+"AMERICA","CW","Curaçao","2003",NA
+"AMERICA","DM","Dominica","2003",2160.3
+"AMERICA","DO","Republica Dominicana","2003",36468.9
+"AMERICA","EC","Ecuador","2003",162225.4
+"AMERICA","FK","Islas Malvinas","2003",107192.4
+"AMERICA","GD","Granada","2003",825.4
+"AMERICA","GL","Groenlandia","2003",318.7
+"AMERICA","GT","Guatemala","2003",32421.9
+"AMERICA","GY","Guyana","2003",3953.9
+"AMERICA","HN","Honduras","2003",39757.1
+"AMERICA","HT","Haití","2003",1431.5
+"AMERICA","JM","Jamaica","2003",21157.4
+"AMERICA","KN","San Cristobal y Nieves","2003",13.9
+"AMERICA","KY","Islas Caimán","2003",453384.5
+"AMERICA","LC","Santa Lucia","2003",3.5
+"AMERICA","MS","Montserrat","2003",0.1
+"AMERICA","MX","México","2003",1473069.4
+"AMERICA","NI","Nicaragua","2003",15343.4
+"AMERICA","PA","Panamá","2003",41126.5
+"AMERICA","PE","Perú","2003",312632.6
+"AMERICA","PM","San Pedro y Miquelón","2003",195.3
+"AMERICA","PY","Paraguay","2003",52728.8
+"AMERICA","SR","Surinam","2003",1105
+"AMERICA","SV","El Salvador","2003",14113.2
+"AMERICA","SX","San Martin","2003",NA
+"AMERICA","TC","Islas Turcas y Caicos","2003",NA
+"AMERICA","TT","Trinidad y Tobago","2003",34762.2
+"AMERICA","US","Estados Unidos","2003",6859337.2
+"AMERICA","UY","Uruguay","2003",94296.1
+"AMERICA","VC","San Vicente y las Islas Granadinas","2003",12291.2
+"AMERICA","VE","Venezuela","2003",296781.9
+"AMERICA","VG","Islas Vírgenes (GB)","2003",61027.9
+"AMERICA","VI","Islas Vírgenes (EE.UU)","2003",818.5
+"ASIA","AE","Emiratos Árabes Unidos","2003",88955.3
+"ASIA","AF","Afganistán","2003",400.3
+"ASIA","AM","Armenia","2003",1880.1
+"ASIA","AZ","Azerbaiján","2003",6500.8
+"ASIA","BD","Bangla Desh","2003",235292.6
+"ASIA","BH","Bahréin","2003",15569.2
+"ASIA","BN","Brunei Darussalam","2003",48.4
+"ASIA","BT","Bután","2003",NA
+"ASIA","CN","China","2003",6729057.7
+"ASIA","GE","Georgia","2003",44253.7
+"ASIA","HK","Hong Kong","2003",281479.4
+"ASIA","ID","Indonesia","2003",1430065.6
+"ASIA","IL","Israel","2003",526916.7
+"ASIA","IN","India","2003",1089852.5
+"ASIA","IQ","Iraq","2003",290080.2
+"ASIA","IR","Irán","2003",943240
+"ASIA","JO","Jordania","2003",14365.9
+"ASIA","JP","Japón","2003",4835229.4
+"ASIA","KG","Kirguizistán","2003",973.1
+"ASIA","KH","Camboya (Campuchea)","2003",25669
+"ASIA","KP","Corea,Rep.Popular Democratica","2003",7479.9
+"ASIA","KR","Corea , Replublica de","2003",2209736.5
+"ASIA","KW","Kuwait","2003",20960.8
+"ASIA","KZ","Kazajstán","2003",197999.4
+"ASIA","LA","Laos","2003",4683
+"ASIA","LB","Líbano","2003",20792.3
+"ASIA","LK","Sri Lanka","2003",43492.2
+"ASIA","MM","Myanmar","2003",24176.3
+"ASIA","MN","Mongolia","2003",154.5
+"ASIA","MO","Macao","2003",34131.7
+"ASIA","MV","Maldivas (Islas)","2003",1053.7
+"ASIA","MY","Malasia","2003",573254
+"ASIA","NP","Nepal","2003",3537.2
+"ASIA","OM","Omán","2003",55492.2
+"ASIA","PH","Filipinas","2003",166941.6
+"ASIA","PK","Pakistán","2003",275772
+"ASIA","PS","Cisjordania/F.Gaza","2003",93.3
+"ASIA","QA","Qatar","2003",245928.5
+"ASIA","SA","Arabia Saudita","2003",1606199.8
+"ASIA","SG","Singapur","2003",454194.7
+"ASIA","SY","Siria","2003",108584.5
+"ASIA","TH","Tailandia","2003",923387.3
+"ASIA","TJ","Tajikistán","2003",2188.1
+"ASIA","TL","Timor-Este","2003",0.1
+"ASIA","TM","Turkmenistán","2003",16203
+"ASIA","TR","Turquía","2003",1797527.6
+"ASIA","TW","Taiwán","2003",900997.4
+"ASIA","UZ","Uzbekistán","2003",8744.6
+"ASIA","VN","Vietnam","2003",352864
+"ASIA","YE","Yemen","2003",15873.9
+"OCEANIA","AS","Samoa Americana","2003",13.2
+"OCEANIA","AU","Australia","2003",469032.2
+"OCEANIA","CC","Islas Cocos (Keeling)","2003",0.3
+"OCEANIA","CK","Islas Cook","2003",5.8
+"OCEANIA","CX","Isla Navidad","2003",NA
+"OCEANIA","FJ","Islas Fidyi","2003",883.3
+"OCEANIA","FM","Micronesia, Est. Fede.","2003",6.3
+"OCEANIA","GS","Georgia del Sur e Islas Sandwich Sur","2003",NA
+"OCEANIA","GU","Guam","2003",55.3
+"OCEANIA","HM","I. Heard e I. Mcdonald","2003",NA
+"OCEANIA","KI","Kiribati","2003",NA
+"OCEANIA","MH","Islas Marshall","2003",2.8
+"OCEANIA","MP","I. Marianas del Norte","2003",9.1
+"OCEANIA","NC","Nueva Caledonia","2003",56694.2
+"OCEANIA","NR","Nauru","2003",33.4
+"OCEANIA","UN","Niue (Isla)","2003",NA
+"OCEANIA","NZ","Nueva Zelanda","2003",124997.7
+"OCEANIA","PF","Polinesia Francesa","2003",313.3
+"OCEANIA","PG","Papua Nueva Guinea","2003",19206.7
+"OCEANIA","PN","Pitcairn","2003",NA
+"OCEANIA","PW","Paláu","2003",NA
+"OCEANIA","SB","Islas Salomón","2003",NA
+"OCEANIA","TK","Tokelau (Islas)","2003",67.7
+"OCEANIA","TO","Tonga","2003",16.7
+"OCEANIA","TV","Tuvalu","2003",0.1
+"OCEANIA","UM","Islas Menores Alejadas","2003",274.3
+"OCEANIA","VU","Vanuatu","2003",4.9
+"OCEANIA","WF","Islas Wallis y Futuna","2003",NA
+"OCEANIA","WS","Samoa Occidental","2003",12.4
+"OCEANIA","Otros","Otros","2003",NA
+"EUROPA","AD","Andorra","2002",30512.6
+"EUROPA","AL","Albania","2002",987
+"EUROPA","AT","Austria","2002",1869856.3
+"EUROPA","BA","Bosnia-Herzegovina","2002",5150.9
+"EUROPA","BE","Bélgica","2002",5590955.8
+"EUROPA","BG","Bulgaria","2002",236957.5
+"EUROPA","BY","Belarús","2002",41144
+"EUROPA","CH","Suiza","2002",2351468.1
+"EUROPA","YU","Servia y Montenegro","2002",45287.2
+"EUROPA","CY","Chipre","2002",25308.5
+"EUROPA","CZ","República Checa","2002",797258.5
+"EUROPA","DE","Alemania","2002",28288446.6
+"EUROPA","DK","Dinamarca","2002",1429353
+"EUROPA","EE","Estonia","2002",87012.6
+"EUROPA","FI","Finlandia","2002",1266094.1
+"EUROPA","FO","Islas Faroe","2002",32882.5
+"EUROPA","FR","Francia","2002",28786439.8
+"EUROPA","GB","Reino Unido","2002",11433693.1
+"EUROPA","GI","Gibraltar","2002",7310.1
+"EUROPA","GR","Grecia","2002",415400.9
+"EUROPA","HR","Croacia","2002",37520.6
+"EUROPA","HU","Hungría","2002",932220.1
+"EUROPA","IE","Irlanda","2002",2571252
+"EUROPA","IS","Islandia","2002",133273.8
+"EUROPA","IT","Italia","2002",15863373
+"EUROPA","LI","Liechtenstein","2002",34612
+"EUROPA","LT","Lituania","2002",175583.8
+"EUROPA","LU","Luxemburgo","2002",283395.7
+"EUROPA","LV","Letonia","2002",22091.5
+"EUROPA","MD","Moldavia","2002",35315.5
+"EUROPA","ME","Montenegro","2002",NA
+"EUROPA","MK","Macedonia","2002",13956.8
+"EUROPA","MT","Malta","2002",39525.1
+"EUROPA","NL","Países Bajos","2002",6891749.3
+"EUROPA","NO","Noruega","2002",832973.9
+"EUROPA","PL","Polonia","2002",837959.9
+"EUROPA","PT","Portugal","2002",5448829.5
+"EUROPA","RO","Rumania","2002",318593.1
+"EUROPA","RU","Rusia","2002",2709985
+"EUROPA","SE","Suecia","2002",2288243.1
+"EUROPA","SI","Eslovenia","2002",131968.2
+"EUROPA","SK","Eslovaquia","2002",229947.9
+"EUROPA","SM","San Marino","2002",7630.3
+"EUROPA","UA","Ucrania","2002",648235.5
+"EUROPA","VA","Ciudad del Vaticano","2002",404.4
+"EUROPA","XK","Kosobo","2002",NA
+"EUROPA","XS","Servia","2002",NA
+"AFRICA","AO","Angola","2002",362896.1
+"AFRICA","BF","Burkina Faso","2002",3733
+"AFRICA","BI","Burundi","2002",197.7
+"AFRICA","BJ","Benín","2002",8547.4
+"AFRICA","BW","Botswana","2002",424.1
+"AFRICA","CD","República Democrática Del Congo","2002",26848.3
+"AFRICA","CF","República Centro Africana","2002",13753.6
+"AFRICA","CG","Congo (Republica)","2002",74689.2
+"AFRICA","CI","Costa de Marfil","2002",249745.6
+"AFRICA","CM","Camerún","2002",379421.3
+"AFRICA","CV","Cabo Verde","2002",40.6
+"AFRICA","DJ","Djibouti","2002",69.7
+"AFRICA","DZ","Argelia","2002",2962272.6
+"AFRICA","EG","Egipto","2002",263228.2
+"AFRICA","EH","Western Sahara","2002",NA
+"AFRICA","ER","Eritrea","2002",55.6
+"AFRICA","ET","Etiopia","2002",5249.9
+"AFRICA","GA","Gabón","2002",31910.7
+"AFRICA","GH","Ghana","2002",70878.6
+"AFRICA","GM","Gambia","2002",1322.6
+"AFRICA","GN","Guinea","2002",98018.9
+"AFRICA","GQ","Guinea Ecuatorial","2002",515899.5
+"AFRICA","GW","Guinea-Bissau","2002",375.3
+"AFRICA","IO","Territorio Británico del Índico","2002",1.5
+"AFRICA","KE","Kenia","2002",17223.1
+"AFRICA","KM","Comores","2002",29.5
+"AFRICA","LR","Liberia","2002",9649.8
+"AFRICA","LS","Lesotho","2002",0.3
+"AFRICA","LY","Libia","2002",1631197.7
+"AFRICA","MA","Marruecos","2002",1388026.5
+"AFRICA","MG","Madagascar","2002",25353.5
+"AFRICA","ML","Malí","2002",9879.6
+"AFRICA","MR","Mauritania","2002",76335
+"AFRICA","MU","Mauricio","2002",30777.7
+"AFRICA","MW","Malawi","2002",7152.1
+"AFRICA","MZ","Mozambique","2002",51252.9
+"AFRICA","NA","Namibia","2002",186689.2
+"AFRICA","NE","Níger","2002",362.9
+"AFRICA","NG","Nigeria","2002",1468301.6
+"AFRICA","RW","Ruanda","2002",1874.2
+"AFRICA","SC","Seychelles","2002",23538.5
+"AFRICA","SD","Sudan","2002",3810.5
+"AFRICA","SH","Santa Elena","2002",1108
+"AFRICA","SL","Sierra Leona","2002",254.8
+"AFRICA","SN","Senegal","2002",34882.7
+"AFRICA","DO","Somalia","2002",70.5
+"AFRICA","SS","Sudan del Sur","2002",NA
+"AFRICA","ST","Santo Tomé/Príncipe","2002",790.8
+"AFRICA","SZ","Swazilandia","2002",2598.3
+"AFRICA","TD","Chad","2002",4346.5
+"AFRICA","TG","Togo","2002",11627.7
+"AFRICA","TN","Túnez","2002",387081.2
+"AFRICA","TZ","Tanzania","2002",16887.2
+"AFRICA","UG","Uganda","2002",22870.9
+"AFRICA","YT","Mayotte","2002",1.2
+"AFRICA","ZA","Sudáfrica","2002",946913.3
+"AFRICA","ZM","Zambia","2002",1788.8
+"AFRICA","ZW","Zimbabwe","2002",39890.3
+"AMERICA","AG","Antigua y Barbuda","2002",5334.8
+"AMERICA","AI","Anguilla","2002",8.3
+"AMERICA","AN","Antillas Neerlandesas","2002",28445.7
+"AMERICA","AR","Argentina","2002",1452109.1
+"AMERICA","AW","Aruba","2002",11982.6
+"AMERICA","BB","Barbados","2002",1901.9
+"AMERICA","BB","San Bartolome","2002",NA
+"AMERICA","BM","Bermudas","2002",16042.4
+"AMERICA","BO","Bolivia","2002",10193
+"AMERICA","BQ","Bonaire, San Eustaquio y Saba","2002",NA
+"AMERICA","BR","Brasil","2002",1380920.3
+"AMERICA","BS","Bahamas","2002",151976.2
+"AMERICA","BZ","Belice","2002",223.2
+"AMERICA","CA","Canadá","2002",741803.4
+"AMERICA","CL","Chile","2002",482777.8
+"AMERICA","CO","Colombia","2002",281736.3
+"AMERICA","CR","Costa Rica","2002",71967.5
+"AMERICA","CU","Cuba","2002",162856.3
+"AMERICA","CW","Curaçao","2002",NA
+"AMERICA","DM","Dominica","2002",640.2
+"AMERICA","DO","Republica Dominicana","2002",34997.1
+"AMERICA","EC","Ecuador","2002",113345.1
+"AMERICA","FK","Islas Malvinas","2002",70627.6
+"AMERICA","GD","Granada","2002",342.8
+"AMERICA","GL","Groenlandia","2002",285.4
+"AMERICA","GT","Guatemala","2002",31720
+"AMERICA","GY","Guyana","2002",14139.6
+"AMERICA","HN","Honduras","2002",29570.6
+"AMERICA","HT","Haití","2002",1907
+"AMERICA","JM","Jamaica","2002",24294.9
+"AMERICA","KN","San Cristobal y Nieves","2002",4.2
+"AMERICA","KY","Islas Caimán","2002",145740.6
+"AMERICA","LC","Santa Lucia","2002",0.1
+"AMERICA","MS","Montserrat","2002",6.1
+"AMERICA","MX","México","2002",1628222.8
+"AMERICA","NI","Nicaragua","2002",13141.8
+"AMERICA","PA","Panamá","2002",44734.4
+"AMERICA","PE","Perú","2002",280935.6
+"AMERICA","PM","San Pedro y Miquelón","2002",469.5
+"AMERICA","PY","Paraguay","2002",11636
+"AMERICA","SR","Surinam","2002",1421.2
+"AMERICA","SV","El Salvador","2002",14681.6
+"AMERICA","SX","San Martin","2002",NA
+"AMERICA","TC","Islas Turcas y Caicos","2002",228.4
+"AMERICA","TT","Trinidad y Tobago","2002",67879.7
+"AMERICA","US","Estados Unidos","2002",7203194.7
+"AMERICA","UY","Uruguay","2002",102234.2
+"AMERICA","VC","San Vicente y las Islas Granadinas","2002",40049.9
+"AMERICA","VE","Venezuela","2002",717314
+"AMERICA","VG","Islas Vírgenes (GB)","2002",21202.1
+"AMERICA","VI","Islas Vírgenes (EE.UU)","2002",913.3
+"ASIA","AE","Emiratos Árabes Unidos","2002",150501.7
+"ASIA","AF","Afganistán","2002",504.9
+"ASIA","AM","Armenia","2002",986.8
+"ASIA","AZ","Azerbaiján","2002",30212
+"ASIA","BD","Bangla Desh","2002",182407.4
+"ASIA","BH","Bahréin","2002",35052.2
+"ASIA","BN","Brunei Darussalam","2002",14485.3
+"ASIA","BT","Bután","2002",NA
+"ASIA","CN","China","2002",5770785.9
+"ASIA","GE","Georgia","2002",37122.9
+"ASIA","HK","Hong Kong","2002",297367.2
+"ASIA","ID","Indonesia","2002",1383551.3
+"ASIA","IL","Israel","2002",492471.8
+"ASIA","IN","India","2002",1020258.2
+"ASIA","IQ","Iraq","2002",418220.6
+"ASIA","IR","Irán","2002",753204.9
+"ASIA","JO","Jordania","2002",9727.1
+"ASIA","JP","Japón","2002",4258491
+"ASIA","KG","Kirguizistán","2002",6802.3
+"ASIA","KH","Camboya (Campuchea)","2002",23752
+"ASIA","KP","Corea,Rep.Popular Democratica","2002",10837.6
+"ASIA","KR","Corea , Replublica de","2002",2143900.4
+"ASIA","KW","Kuwait","2002",27038.3
+"ASIA","KZ","Kazajstán","2002",128861.9
+"ASIA","LA","Laos","2002",6194.4
+"ASIA","LB","Líbano","2002",22636.3
+"ASIA","LK","Sri Lanka","2002",48449.9
+"ASIA","MM","Myanmar","2002",23153.7
+"ASIA","MN","Mongolia","2002",903.5
+"ASIA","MO","Macao","2002",28467.4
+"ASIA","MV","Maldivas (Islas)","2002",1172.1
+"ASIA","MY","Malasia","2002",579419.7
+"ASIA","NP","Nepal","2002",4168.1
+"ASIA","OM","Omán","2002",149760.4
+"ASIA","PH","Filipinas","2002",125163.2
+"ASIA","PK","Pakistán","2002",245188.8
+"ASIA","PS","Cisjordania/F.Gaza","2002",NA
+"ASIA","QA","Qatar","2002",213026.1
+"ASIA","SA","Arabia Saudita","2002",1617591.5
+"ASIA","SG","Singapur","2002",416631
+"ASIA","SY","Siria","2002",262207.7
+"ASIA","TH","Tailandia","2002",830322.8
+"ASIA","TJ","Tajikistán","2002",2001.9
+"ASIA","TL","Timor-Este","2002",5.6
+"ASIA","TM","Turkmenistán","2002",10118.8
+"ASIA","TR","Turquía","2002",1409145.8
+"ASIA","TW","Taiwán","2002",945154.1
+"ASIA","UZ","Uzbekistán","2002",8790.5
+"ASIA","VN","Vietnam","2002",340322.7
+"ASIA","YE","Yemen","2002",5805.6
+"OCEANIA","AS","Samoa Americana","2002",37.7
+"OCEANIA","AU","Australia","2002",486354.3
+"OCEANIA","CC","Islas Cocos (Keeling)","2002",NA
+"OCEANIA","CK","Islas Cook","2002",94.6
+"OCEANIA","CX","Isla Navidad","2002",NA
+"OCEANIA","FJ","Islas Fidyi","2002",51.6
+"OCEANIA","FM","Micronesia, Est. Fede.","2002",19
+"OCEANIA","GS","Georgia del Sur e Islas Sandwich Sur","2002",NA
+"OCEANIA","GU","Guam","2002",80.9
+"OCEANIA","HM","I. Heard e I. Mcdonald","2002",11.8
+"OCEANIA","KI","Kiribati","2002",NA
+"OCEANIA","MH","Islas Marshall","2002",89.7
+"OCEANIA","MP","I. Marianas del Norte","2002",52.3
+"OCEANIA","NC","Nueva Caledonia","2002",43697.2
+"OCEANIA","NR","Nauru","2002",15.3
+"OCEANIA","UN","Niue (Isla)","2002",NA
+"OCEANIA","NZ","Nueva Zelanda","2002",115723.4
+"OCEANIA","PF","Polinesia Francesa","2002",438.5
+"OCEANIA","PG","Papua Nueva Guinea","2002",6556.5
+"OCEANIA","PN","Pitcairn","2002",NA
+"OCEANIA","PW","Paláu","2002",NA
+"OCEANIA","SB","Islas Salomón","2002",919.4
+"OCEANIA","TK","Tokelau (Islas)","2002",2.2
+"OCEANIA","TO","Tonga","2002",1.1
+"OCEANIA","TV","Tuvalu","2002",2.8
+"OCEANIA","UM","Islas Menores Alejadas","2002",NA
+"OCEANIA","VU","Vanuatu","2002",12.8
+"OCEANIA","WF","Islas Wallis y Futuna","2002",9.8
+"OCEANIA","WS","Samoa Occidental","2002",47.2
+"OCEANIA","Otros","Otros","2002",75.1
+"EUROPA","AD","Andorra","2001",32830.4
+"EUROPA","AL","Albania","2001",1607.4
+"EUROPA","AT","Austria","2001",1776708.3
+"EUROPA","BA","Bosnia-Herzegovina","2001",12745
+"EUROPA","BE","Bélgica","2001",5785753.6
+"EUROPA","BG","Bulgaria","2001",203324.9
+"EUROPA","BY","Belarús","2001",21463
+"EUROPA","CH","Suiza","2001",2633784.9
+"EUROPA","YU","Servia y Montenegro","2001",21966
+"EUROPA","CY","Chipre","2001",22056.4
+"EUROPA","CZ","República Checa","2001",705937.3
+"EUROPA","DE","Alemania","2001",26915267.8
+"EUROPA","DK","Dinamarca","2001",1188656.1
+"EUROPA","EE","Estonia","2001",111968.3
+"EUROPA","FI","Finlandia","2001",1294080.1
+"EUROPA","FO","Islas Faroe","2001",34781.2
+"EUROPA","FR","Francia","2001",29007673.7
+"EUROPA","GB","Reino Unido","2001",12176452.4
+"EUROPA","GI","Gibraltar","2001",38594.5
+"EUROPA","GR","Grecia","2001",405844.9
+"EUROPA","HR","Croacia","2001",47224.1
+"EUROPA","HU","Hungría","2001",788802.7
+"EUROPA","IE","Irlanda","2001",2397286.4
+"EUROPA","IS","Islandia","2001",124049.7
+"EUROPA","IT","Italia","2001",15982513
+"EUROPA","LI","Liechtenstein","2001",31922.7
+"EUROPA","LT","Lituania","2001",182694.7
+"EUROPA","LU","Luxemburgo","2001",253742.6
+"EUROPA","LV","Letonia","2001",28239.8
+"EUROPA","MD","Moldavia","2001",29628.2
+"EUROPA","ME","Montenegro","2001",NA
+"EUROPA","MK","Macedonia","2001",25851.9
+"EUROPA","MT","Malta","2001",24665.3
+"EUROPA","NL","Países Bajos","2001",6757447.3
+"EUROPA","NO","Noruega","2001",889013.5
+"EUROPA","PL","Polonia","2001",784771.4
+"EUROPA","PT","Portugal","2001",4857198.7
+"EUROPA","RO","Rumania","2001",246248.6
+"EUROPA","RU","Rusia","2001",2062713
+"EUROPA","SE","Suecia","2001",2149908.4
+"EUROPA","SI","Eslovenia","2001",120628.4
+"EUROPA","SK","Eslovaquia","2001",166317.4
+"EUROPA","SM","San Marino","2001",10623.7
+"EUROPA","UA","Ucrania","2001",466273.1
+"EUROPA","VA","Ciudad del Vaticano","2001",265.7
+"EUROPA","XK","Kosobo","2001",NA
+"EUROPA","XS","Servia","2001",NA
+"AFRICA","AO","Angola","2001",169097.5
+"AFRICA","BF","Burkina Faso","2001",5369.9
+"AFRICA","BI","Burundi","2001",984.7
+"AFRICA","BJ","Benín","2001",11327.5
+"AFRICA","BW","Botswana","2001",131.9
+"AFRICA","CD","República Democrática Del Congo","2001",664.9
+"AFRICA","CF","República Centro Africana","2001",19977.6
+"AFRICA","CG","Congo (Republica)","2001",21546.1
+"AFRICA","CI","Costa de Marfil","2001",204420.1
+"AFRICA","CM","Camerún","2001",351179.6
+"AFRICA","CV","Cabo Verde","2001",21.1
+"AFRICA","DJ","Djibouti","2001",4.5
+"AFRICA","DZ","Argelia","2001",3363055.1
+"AFRICA","EG","Egipto","2001",256937.5
+"AFRICA","EH","Western Sahara","2001",NA
+"AFRICA","ER","Eritrea","2001",36.8
+"AFRICA","ET","Etiopia","2001",4557
+"AFRICA","GA","Gabón","2001",60329.6
+"AFRICA","GH","Ghana","2001",47689.1
+"AFRICA","GM","Gambia","2001",960.4
+"AFRICA","GN","Guinea","2001",114002
+"AFRICA","GQ","Guinea Ecuatorial","2001",660112.1
+"AFRICA","GW","Guinea-Bissau","2001",16.9
+"AFRICA","IO","Territorio Británico del Índico","2001",0.1
+"AFRICA","KE","Kenia","2001",14393.1
+"AFRICA","KM","Comores","2001",0.9
+"AFRICA","LR","Liberia","2001",11536.2
+"AFRICA","LS","Lesotho","2001",NA
+"AFRICA","LY","Libia","2001",2057883.7
+"AFRICA","MA","Marruecos","2001",1219672.5
+"AFRICA","MG","Madagascar","2001",33508.8
+"AFRICA","ML","Malí","2001",6779.6
+"AFRICA","MR","Mauritania","2001",74634.3
+"AFRICA","MU","Mauricio","2001",37500.8
+"AFRICA","MW","Malawi","2001",10723.9
+"AFRICA","MZ","Mozambique","2001",51728.7
+"AFRICA","NA","Namibia","2001",241703.4
+"AFRICA","NE","Níger","2001",258
+"AFRICA","NG","Nigeria","2001",2151878.9
+"AFRICA","RW","Ruanda","2001",1417.1
+"AFRICA","SC","Seychelles","2001",16337
+"AFRICA","SD","Sudan","2001",7078.5
+"AFRICA","SH","Santa Elena","2001",1389.5
+"AFRICA","SL","Sierra Leona","2001",130.3
+"AFRICA","SN","Senegal","2001",40008.6
+"AFRICA","DO","Somalia","2001",56.6
+"AFRICA","SS","Sudan del Sur","2001",NA
+"AFRICA","ST","Santo Tomé/Príncipe","2001",799.5
+"AFRICA","SZ","Swazilandia","2001",2724.8
+"AFRICA","TD","Chad","2001",5042.6
+"AFRICA","TG","Togo","2001",11024.4
+"AFRICA","TN","Túnez","2001",371306.1
+"AFRICA","TZ","Tanzania","2001",20348
+"AFRICA","UG","Uganda","2001",24437.2
+"AFRICA","YT","Mayotte","2001",7.1
+"AFRICA","ZA","Sudáfrica","2001",855281.2
+"AFRICA","ZM","Zambia","2001",4988.2
+"AFRICA","ZW","Zimbabwe","2001",50086.9
+"AMERICA","AG","Antigua y Barbuda","2001",3259.2
+"AMERICA","AI","Anguilla","2001",NA
+"AMERICA","AN","Antillas Neerlandesas","2001",21313.8
+"AMERICA","AR","Argentina","2001",1344921.3
+"AMERICA","AW","Aruba","2001",17979.4
+"AMERICA","BB","Barbados","2001",435.8
+"AMERICA","BB","San Bartolome","2001",NA
+"AMERICA","BM","Bermudas","2001",50394.9
+"AMERICA","BO","Bolivia","2001",15049.6
+"AMERICA","BQ","Bonaire, San Eustaquio y Saba","2001",NA
+"AMERICA","BR","Brasil","2001",1423049.7
+"AMERICA","BS","Bahamas","2001",135790.8
+"AMERICA","BZ","Belice","2001",3337.8
+"AMERICA","CA","Canadá","2001",660957.2
+"AMERICA","CL","Chile","2001",472995.3
+"AMERICA","CO","Colombia","2001",192071.1
+"AMERICA","CR","Costa Rica","2001",79636.6
+"AMERICA","CU","Cuba","2001",134507.2
+"AMERICA","CW","Curaçao","2001",NA
+"AMERICA","DM","Dominica","2001",4375.9
+"AMERICA","DO","Republica Dominicana","2001",27524.1
+"AMERICA","EC","Ecuador","2001",110971.2
+"AMERICA","FK","Islas Malvinas","2001",67027.9
+"AMERICA","GD","Granada","2001",116.5
+"AMERICA","GL","Groenlandia","2001",303.2
+"AMERICA","GT","Guatemala","2001",39360.9
+"AMERICA","GY","Guyana","2001",1716.6
+"AMERICA","HN","Honduras","2001",31365.4
+"AMERICA","HT","Haití","2001",5279.7
+"AMERICA","JM","Jamaica","2001",24444.8
+"AMERICA","KN","San Cristobal y Nieves","2001",3.1
+"AMERICA","KY","Islas Caimán","2001",89653.5
+"AMERICA","LC","Santa Lucia","2001",1419.1
+"AMERICA","MS","Montserrat","2001",611.3
+"AMERICA","MX","México","2001",1596277.9
+"AMERICA","NI","Nicaragua","2001",13962.5
+"AMERICA","PA","Panamá","2001",34269.2
+"AMERICA","PE","Perú","2001",259879.8
+"AMERICA","PM","San Pedro y Miquelón","2001",140.7
+"AMERICA","PY","Paraguay","2001",62996.6
+"AMERICA","SR","Surinam","2001",386.2
+"AMERICA","SV","El Salvador","2001",7692
+"AMERICA","SX","San Martin","2001",NA
+"AMERICA","TC","Islas Turcas y Caicos","2001",1426.5
+"AMERICA","TT","Trinidad y Tobago","2001",52958.7
+"AMERICA","US","Estados Unidos","2001",7870869.7
+"AMERICA","UY","Uruguay","2001",104017.8
+"AMERICA","VC","San Vicente y las Islas Granadinas","2001",6260.5
+"AMERICA","VE","Venezuela","2001",737085
+"AMERICA","VG","Islas Vírgenes (GB)","2001",5999.2
+"AMERICA","VI","Islas Vírgenes (EE.UU)","2001",1416.7
+"ASIA","AE","Emiratos Árabes Unidos","2001",76553.5
+"ASIA","AF","Afganistán","2001",3710.7
+"ASIA","AM","Armenia","2001",359.9
+"ASIA","AZ","Azerbaiján","2001",7224.5
+"ASIA","BD","Bangla Desh","2001",143396.5
+"ASIA","BH","Bahréin","2001",23710
+"ASIA","BN","Brunei Darussalam","2001",56.7
+"ASIA","BT","Bután","2001",NA
+"ASIA","CN","China","2001",5079226.8
+"ASIA","GE","Georgia","2001",123881.3
+"ASIA","HK","Hong Kong","2001",281516
+"ASIA","ID","Indonesia","2001",1425436.5
+"ASIA","IL","Israel","2001",662957.9
+"ASIA","IN","India","2001",922855.2
+"ASIA","IQ","Iraq","2001",489322.7
+"ASIA","IR","Irán","2001",944710.4
+"ASIA","JO","Jordania","2001",12944.5
+"ASIA","JP","Japón","2001",4345015.2
+"ASIA","KG","Kirguizistán","2001",664.5
+"ASIA","KH","Camboya (Campuchea)","2001",19149.4
+"ASIA","KP","Corea,Rep.Popular Democratica","2001",13908.6
+"ASIA","KR","Corea , Replublica de","2001",2058806.6
+"ASIA","KW","Kuwait","2001",15711.8
+"ASIA","KZ","Kazajstán","2001",59224.1
+"ASIA","LA","Laos","2001",5372.7
+"ASIA","LB","Líbano","2001",20416.4
+"ASIA","LK","Sri Lanka","2001",50657.3
+"ASIA","MM","Myanmar","2001",31380.2
+"ASIA","MN","Mongolia","2001",229.1
+"ASIA","MO","Macao","2001",30696.9
+"ASIA","MV","Maldivas (Islas)","2001",716.8
+"ASIA","MY","Malasia","2001",562833.6
+"ASIA","NP","Nepal","2001",5133.2
+"ASIA","OM","Omán","2001",116771.4
+"ASIA","PH","Filipinas","2001",127436.8
+"ASIA","PK","Pakistán","2001",219757
+"ASIA","PS","Cisjordania/F.Gaza","2001",29.2
+"ASIA","QA","Qatar","2001",94579.5
+"ASIA","SA","Arabia Saudita","2001",1357732.7
+"ASIA","SG","Singapur","2001",383806.4
+"ASIA","SY","Siria","2001",282809
+"ASIA","TH","Tailandia","2001",884589.4
+"ASIA","TJ","Tajikistán","2001",2613.5
+"ASIA","TL","Timor-Este","2001",1.9
+"ASIA","TM","Turkmenistán","2001",15931.2
+"ASIA","TR","Turquía","2001",1153758.1
+"ASIA","TW","Taiwán","2001",991536.6
+"ASIA","UZ","Uzbekistán","2001",12253.3
+"ASIA","VN","Vietnam","2001",311287.3
+"ASIA","YE","Yemen","2001",9309.7
+"OCEANIA","AS","Samoa Americana","2001",1
+"OCEANIA","AU","Australia","2001",497049.4
+"OCEANIA","CC","Islas Cocos (Keeling)","2001",NA
+"OCEANIA","CK","Islas Cook","2001",4.7
+"OCEANIA","CX","Isla Navidad","2001",NA
+"OCEANIA","FJ","Islas Fidyi","2001",118.7
+"OCEANIA","FM","Micronesia, Est. Fede.","2001",0.8
+"OCEANIA","GS","Georgia del Sur e Islas Sandwich Sur","2001",NA
+"OCEANIA","GU","Guam","2001",NA
+"OCEANIA","HM","I. Heard e I. Mcdonald","2001",NA
+"OCEANIA","KI","Kiribati","2001",NA
+"OCEANIA","MH","Islas Marshall","2001",6.4
+"OCEANIA","MP","I. Marianas del Norte","2001",32.4
+"OCEANIA","NC","Nueva Caledonia","2001",48339.8
+"OCEANIA","NR","Nauru","2001",38.5
+"OCEANIA","UN","Niue (Isla)","2001",NA
+"OCEANIA","NZ","Nueva Zelanda","2001",121411.3
+"OCEANIA","PF","Polinesia Francesa","2001",971.1
+"OCEANIA","PG","Papua Nueva Guinea","2001",3785.5
+"OCEANIA","PN","Pitcairn","2001",NA
+"OCEANIA","PW","Paláu","2001",NA
+"OCEANIA","SB","Islas Salomón","2001",3486.6
+"OCEANIA","TK","Tokelau (Islas)","2001",118.7
+"OCEANIA","TO","Tonga","2001",NA
+"OCEANIA","TV","Tuvalu","2001",1.7
+"OCEANIA","UM","Islas Menores Alejadas","2001",282.3
+"OCEANIA","VU","Vanuatu","2001",8
+"OCEANIA","WF","Islas Wallis y Futuna","2001",150.3
+"OCEANIA","WS","Samoa Occidental","2001",2.5
+"OCEANIA","Otros","Otros","2001",144.6

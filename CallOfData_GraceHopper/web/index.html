@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<style>
+  .chart {}
+  .chart .line {
+    fill: transparent;
+    stroke-width: 3px;
+  }
+</style>
+
+<script src="https://d3js.org/d3.v4.js"></script>
+<script src="d3.linechart.js"></script>
+
+<div id="noticias"></div>
+<div id="inversion"></div>
+<script>
+colors = ['red', 'blue'];
+
+d3.csv('data.csv', function(datas){
+  
+  d3.select('#noticias')
+      .datum(datas)
+      .call(LineChartDate()
+          .yvalue(['siria', 'haiti'])
+          .ydomain('0max')
+          .xvalue('date')
+          .dateformat('%Y-%m-%d')
+          .colors(colors)
+          //.curve('curveBasis')
+          .width('#noticias'));
+})
+
+</script>
