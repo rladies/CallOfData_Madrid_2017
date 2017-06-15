@@ -1,0 +1,85 @@
+---
+title: "callofdata"
+output: html_document
+---
+
+```{r}
+library(data.table)
+library(dplyr)
+library(fBasics)
+#library(fUnitRoots)
+library(forecast)
+library(ggplot2)
+```
+
+```{r}
+df <- fread("Call_of_Data.txt", sep = '|')
+df$FECHA=as.Date(df$FECHA)
+df<-df%>%dplyr::filter(FECHA>'2016-06-30')
+```
+
+```{r}
+ATM1 = df %>% dplyr::filter(NOMBRE_OFICINA == "MADRID-DR. FLEMING") %>% select(FECHA, IMPORTE)
+ATM1 <- ATM1%>%dplyr::group_by(FECHA)%>%summarise(extraccion= sum(IMPORTE), count=n())
+ATM1 = ATM1 %>% dplyr::select(FECHA, extraccion)
+ggplot(ATM1, aes(FECHA, extraccion)) + geom_line() + xlab("") + ylab("Daily Views")+ geom_abline()
+
+
+ATM2 = df %>% filter(NOMBRE_OFICINA == "MADRID-MANUEL BECERRA") %>% select(FECHA, IMPORTE)
+ATM2 <- ATM2%>%group_by(FECHA)%>%summarise(extraccion= sum(IMPORTE), count=n())
+ATM2 = ATM2 %>% select(FECHA, extraccion)
+ggplot(ATM2, aes(FECHA, extraccion)) + geom_line() + xlab("") + ylab("Daily Views")+ geom_abline()
+
+ATM3 = df %>% filter(NOMBRE_OFICINA == "MADRID-DELICIAS") %>% select(FECHA, IMPORTE)
+ATM3 <- ATM3%>%group_by(FECHA)%>%summarise(extraccion= sum(IMPORTE), count=n())
+ATM3 = ATM3 %>% select(FECHA, extraccion)
+ggplot(ATM3, aes(FECHA, extraccion)) + geom_line() + xlab("") + ylab("Daily Views")+ geom_abline()
+
+
+
+
+```
+```{r}
+ATM3[,2]
+par(mfrow=c(3,1))
+ts.plot(ATM3[,2])
+acf(ATM3[,2])
+pacf(ATM3[,2])  
+fit<-arima(ATM3[,2],order=c(0,0,1))
+ts.plot(fit$residuals)
+fit
+fit<-arima(ATM3[,2],order=c(2,0,2))
+
+fit
+```
+
+```{r}
+
+ATM_min = slice(ATM1, 1:84)
+fit<-arima(ATM_min[,2],order=c(0,0,0),seasonal=list(order=c(0,0,1),period=7))
+fit
+par(mfrow=c(3,1))
+ts.plot(fit$residuals)
+acf(fit$residuals)
+pacf(fit$residuals)
+Box.test(fit$residuals,lag=20)
+
+ATM.pred<-predict(fit,n.ahead=7)
+ATM.pred$pred # point predictions
+
+#predictions = ATM.pred$pred
+#predictions = as.data.frame(predictions)
+#last_dates = slice(ATM1, 85:91)
+
+
+
+
+par(mfrow=c(1,1))
+ts.plot(ATM1[,2])
+lines(ATM.pred$pred,col="red")
+lines(ATM.pred$pred+1.96*ATM.pred$se,col="red",lty=3)
+lines(ATM.pred$pred-1.96*ATM.pred$se,col="red",lty=3)
+
+
+
+```
